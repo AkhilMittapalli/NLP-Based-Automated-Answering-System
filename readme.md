@@ -28,8 +28,7 @@ This system uses natural language processing techniques to evaluate free-text st
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/harsha-reddy123/NLP_Assignment.git
-cd NLP_Assignment/quiz_score_calculator
+git clone https://github.com/AkhilMittapalli/NLP-Based-Automated-Answering-System.git
 ```
 
 2. Set up a virtual environment:
