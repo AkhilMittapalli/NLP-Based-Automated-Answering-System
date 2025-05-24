@@ -1,0 +1,5762 @@
+{
+  "class5_living_things": {
+    "q4": {
+      "question": "What is the difference between plants and animals?",
+      "reference_answer": "Plants make their own food, can't move, have cell walls; animals can't make food, can move, lack cell walls.",
+      "keywords": [
+        [
+          "make food",
+          1.0
+        ],
+        [
+          "move",
+          0.9
+        ],
+        [
+          "cell walls",
+          1.0
+        ],
+        [
+          "photosynthesis",
+          0.8
+        ],
+        [
+          "locomotion",
+          0.8
+        ]
+      ]
+    },
+    "q2": {
+      "question": "How do plants make their food?",
+      "reference_answer": "Plants make food through photosynthesis using sunlight, carbon dioxide and water to produce glucose and oxygen.",
+      "keywords": [
+        [
+          "photosynthesis",
+          1.0
+        ],
+        [
+          "sunlight",
+          0.9
+        ],
+        [
+          "carbon dioxide",
+          0.9
+        ],
+        [
+          "water",
+          0.8
+        ],
+        [
+          "glucose",
+          0.9
+        ],
+        [
+          "oxygen",
+          0.8
+        ]
+      ]
+    },
+    "q3": {
+      "question": "What is respiration in living organisms?",
+      "reference_answer": "Process where organisms break down food to release energy, using oxygen and producing carbon dioxide and water.",
+      "keywords": [
+        [
+          "break down",
+          0.9
+        ],
+        [
+          "food",
+          0.8
+        ],
+        [
+          "energy",
+          1.0
+        ],
+        [
+          "oxygen",
+          0.9
+        ],
+        [
+          "carbon dioxide",
+          0.9
+        ],
+        [
+          "water",
+          0.7
+        ]
+      ]
+    }
+  },
+  "class5_matter": {
+    "q4": {
+      "question": "What is a solution?",
+      "reference_answer": "Mixture where one substance (solute) dissolves completely in another substance (solvent) forming a uniform mixture.",
+      "keywords": [
+        [
+          "mixture",
+          0.9
+        ],
+        [
+          "solute",
+          1.0
+        ],
+        [
+          "solvent",
+          1.0
+        ],
+        [
+          "dissolves",
+          0.9
+        ],
+        [
+          "uniform",
+          0.8
+        ]
+      ]
+    },
+    "q3": {
+      "question": "What causes changes in states of matter?",
+      "reference_answer": "Changes in temperature or pressure cause matter to change state by affecting particle movement and arrangement.",
+      "keywords": [
+        [
+          "temperature",
+          1.0
+        ],
+        [
+          "pressure",
+          0.9
+        ],
+        [
+          "particle",
+          0.9
+        ],
+        [
+          "movement",
+          0.8
+        ],
+        [
+          "arrangement",
+          0.8
+        ]
+      ]
+    },
+    "q1": {
+      "question": "What are the states of matter?",
+      "reference_answer": "Matter exists in three main states: solid (fixed shape/volume), liquid (fixed volume/variable shape), and gas (variable shape/volume).",
+      "keywords": [
+        [
+          "solid",
+          1.0
+        ],
+        [
+          "liquid",
+          1.0
+        ],
+        [
+          "gas",
+          1.0
+        ],
+        [
+          "shape",
+          0.9
+        ],
+        [
+          "volume",
+          0.9
+        ],
+        [
+          "fixed",
+          0.8
+        ],
+        [
+          "variable",
+          0.8
+        ]
+      ]
+    }
+  },
+  "class5_force": {
+    "q4": {
+      "question": "How can we increase or decrease friction?",
+      "reference_answer": "Increase friction with rough surfaces or more contact; decrease with smooth surfaces, lubricants, or air cushions.",
+      "keywords": [
+        [
+          "increase",
+          0.9
+        ],
+        [
+          "rough surfaces",
+          1.0
+        ],
+        [
+          "decrease",
+          0.9
+        ],
+        [
+          "smooth surfaces",
+          1.0
+        ],
+        [
+          "lubricants",
+          1.0
+        ],
+        [
+          "air cushions",
+          0.8
+        ]
+      ]
+    },
+    "q2": {
+      "question": "What is gravity?",
+      "reference_answer": "Force that pulls objects toward Earth's center, giving objects weight and causing falling objects to accelerate downward.",
+      "keywords": [
+        [
+          "force",
+          0.9
+        ],
+        [
+          "pulls",
+          0.9
+        ],
+        [
+          "Earth",
+          0.9
+        ],
+        [
+          "weight",
+          1.0
+        ],
+        [
+          "falling",
+          0.8
+        ],
+        [
+          "downward",
+          0.8
+        ]
+      ]
+    },
+    "q3": {
+      "question": "What is friction?",
+      "reference_answer": "Force that opposes motion between surfaces in contact, converting kinetic energy to heat energy.",
+      "keywords": [
+        [
+          "force",
+          0.9
+        ],
+        [
+          "opposes",
+          0.9
+        ],
+        [
+          "motion",
+          0.9
+        ],
+        [
+          "surfaces",
+          0.9
+        ],
+        [
+          "contact",
+          0.8
+        ],
+        [
+          "heat",
+          0.7
+        ]
+      ]
+    }
+  },
+  "class5_solar_system": {
+    "q2": {
+      "question": "Name the planets in our solar system in order from the Sun.",
+      "reference_answer": "Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.",
+      "keywords": [
+        [
+          "Mercury",
+          1.0
+        ],
+        [
+          "Venus",
+          1.0
+        ],
+        [
+          "Earth",
+          1.0
+        ],
+        [
+          "Mars",
+          1.0
+        ],
+        [
+          "Jupiter",
+          1.0
+        ],
+        [
+          "Saturn",
+          1.0
+        ],
+        [
+          "Uranus",
+          1.0
+        ],
+        [
+          "Neptune",
+          1.0
+        ]
+      ]
+    },
+    "q3": {
+      "question": "What causes day and night on Earth?",
+      "reference_answer": "Earth's rotation on its axis causes day and night, with areas facing the Sun experiencing daylight.",
+      "keywords": [
+        [
+          "rotation",
+          1.0
+        ],
+        [
+          "axis",
+          0.9
+        ],
+        [
+          "facing the Sun",
+          0.9
+        ],
+        [
+          "daylight",
+          0.8
+        ],
+        [
+          "24 hours",
+          0.7
+        ]
+      ]
+    },
+    "q4": {
+      "question": "What causes seasons on Earth?",
+      "reference_answer": "Earth's tilted axis and revolution around the Sun cause seasons, with hemispheres receiving different amounts of sunlight.",
+      "keywords": [
+        [
+          "tilted axis",
+          1.0
+        ],
+        [
+          "revolution",
+          0.9
+        ],
+        [
+          "Sun",
+          0.8
+        ],
+        [
+          "hemispheres",
+          0.9
+        ],
+        [
+          "sunlight",
+          0.9
+        ],
+        [
+          "23.5 degrees",
+          0.7
+        ]
+      ]
+    }
+  },
+  "class5_environment": {
+    "q5": {
+      "question": "What are natural resources?",
+      "reference_answer": "Materials from nature that living beings use to survive and thrive, like air, water, soil, minerals, and sunlight.",
+      "keywords": [
+        [
+          "materials",
+          0.9
+        ],
+        [
+          "nature",
+          0.9
+        ],
+        [
+          "survive",
+          0.8
+        ],
+        [
+          "air",
+          0.8
+        ],
+        [
+          "water",
+          0.8
+        ],
+        [
+          "soil",
+          0.8
+        ],
+        [
+          "minerals",
+          0.8
+        ],
+        [
+          "sunlight",
+          0.8
+        ]
+      ]
+    },
+    "q4": {
+      "question": "What is the water cycle?",
+      "reference_answer": "Continuous movement of water between Earth's surface and atmosphere through evaporation, condensation, and precipitation.",
+      "keywords": [
+        [
+          "continuous movement",
+          0.9
+        ],
+        [
+          "water",
+          0.8
+        ],
+        [
+          "surface",
+          0.7
+        ],
+        [
+          "atmosphere",
+          0.8
+        ],
+        [
+          "evaporation",
+          1.0
+        ],
+        [
+          "condensation",
+          1.0
+        ],
+        [
+          "precipitation",
+          1.0
+        ]
+      ]
+    },
+    "q3": {
+      "question": "What is air pollution?",
+      "reference_answer": "Contamination of air by harmful substances like smoke, dust, chemicals, and gases that harm living beings.",
+      "keywords": [
+        [
+          "contamination",
+          0.9
+        ],
+        [
+          "harmful substances",
+          0.9
+        ],
+        [
+          "smoke",
+          0.8
+        ],
+        [
+          "dust",
+          0.8
+        ],
+        [
+          "chemicals",
+          0.8
+        ],
+        [
+          "gases",
+          0.8
+        ],
+        [
+          "harm",
+          0.7
+        ]
+      ]
+    }
+  },
+  "class6_food": {
+    "q3": {
+      "question": "What is a balanced diet?",
+      "reference_answer": "Diet containing proper proportions of carbohydrates, fats, proteins, vitamins, minerals, and water for body's needs.",
+      "keywords": [
+        [
+          "proper proportions",
+          1.0
+        ],
+        [
+          "carbohydrates",
+          0.9
+        ],
+        [
+          "fats",
+          0.9
+        ],
+        [
+          "proteins",
+          0.9
+        ],
+        [
+          "vitamins",
+          0.9
+        ],
+        [
+          "minerals",
+          0.9
+        ],
+        [
+          "body's needs",
+          0.9
+        ]
+      ]
+    },
+    "q2": {
+      "question": "What are the components of food?",
+      "reference_answer": "Carbohydrates, proteins, fats, vitamins, minerals, dietary fiber, and water, each serving specific functions.",
+      "keywords": [
+        [
+          "carbohydrates",
+          1.0
+        ],
+        [
+          "proteins",
+          1.0
+        ],
+        [
+          "fats",
+          1.0
+        ],
+        [
+          "vitamins",
+          1.0
+        ],
+        [
+          "minerals",
+          1.0
+        ],
+        [
+          "dietary fiber",
+          0.9
+        ],
+        [
+          "water",
+          0.9
+        ]
+      ]
+    },
+    "q1": {
+      "question": "What are nutrients?",
+      "reference_answer": "Substances in food that provide energy, promote growth and repair, and regulate body functions.",
+      "keywords": [
+        [
+          "substances",
+          0.8
+        ],
+        [
+          "food",
+          0.8
+        ],
+        [
+          "energy",
+          0.9
+        ],
+        [
+          "growth",
+          0.9
+        ],
+        [
+          "repair",
+          0.9
+        ],
+        [
+          "regulate",
+          0.9
+        ],
+        [
+          "body functions",
+          0.9
+        ]
+      ]
+    }
+  },
+  "class6_materials": {
+    "q2": {
+      "question": "What makes some materials soluble and others insoluble?",
+      "reference_answer": "Soluble materials dissolve in solvents because their particles can mix with solvent particles; insoluble cannot.",
+      "keywords": [
+        [
+          "soluble",
+          1.0
+        ],
+        [
+          "dissolve",
+          0.9
+        ],
+        [
+          "solvents",
+          0.9
+        ],
+        [
+          "particles",
+          0.9
+        ],
+        [
+          "mix",
+          0.8
+        ],
+        [
+          "insoluble",
+          1.0
+        ]
+      ]
+    },
+    "q4": {
+      "question": "What are reversible and irreversible changes?",
+      "reference_answer": "Reversible changes can be undone to recover original substances; irreversible changes create new substances permanently.",
+      "keywords": [
+        [
+          "reversible",
+          1.0
+        ],
+        [
+          "undone",
+          0.9
+        ],
+        [
+          "recover",
+          0.9
+        ],
+        [
+          "original",
+          0.8
+        ],
+        [
+          "irreversible",
+          1.0
+        ],
+        [
+          "new substances",
+          0.9
+        ],
+        [
+          "permanently",
+          0.8
+        ]
+      ]
+    },
+    "q1": {
+      "question": "What is the difference between transparent, translucent and opaque materials?",
+      "reference_answer": "Transparent materials allow all light to pass through, translucent allow some light, opaque allow no light.",
+      "keywords": [
+        [
+          "transparent",
+          1.0
+        ],
+        [
+          "allow all light",
+          0.9
+        ],
+        [
+          "translucent",
+          1.0
+        ],
+        [
+          "some light",
+          0.9
+        ],
+        [
+          "opaque",
+          1.0
+        ],
+        [
+          "no light",
+          0.9
+        ]
+      ]
+    }
+  },
+  "class6_living_organisms": {
+    "q5": {
+      "question": "What is transpiration in plants?",
+      "reference_answer": "Loss of water vapor from aerial parts of plants, mainly through stomata, helping water and mineral movement.",
+      "keywords": [
+        [
+          "loss",
+          0.9
+        ],
+        [
+          "water vapor",
+          1.0
+        ],
+        [
+          "aerial parts",
+          0.9
+        ],
+        [
+          "stomata",
+          1.0
+        ],
+        [
+          "water movement",
+          0.9
+        ],
+        [
+          "mineral movement",
+          0.9
+        ]
+      ]
+    },
+    "q1": {
+      "question": "What is classification of living organisms?",
+      "reference_answer": "Grouping organisms based on similarities and differences into hierarchical categories like kingdom, phylum, class, order, family, genus, species.",
+      "keywords": [
+        [
+          "grouping",
+          0.9
+        ],
+        [
+          "similarities",
+          0.9
+        ],
+        [
+          "differences",
+          0.9
+        ],
+        [
+          "hierarchical",
+          0.8
+        ],
+        [
+          "kingdom",
+          0.9
+        ],
+        [
+          "phylum",
+          0.9
+        ],
+        [
+          "class",
+          0.9
+        ],
+        [
+          "order",
+          0.9
+        ],
+        [
+          "family",
+          0.9
+        ],
+        [
+          "genus",
+          0.9
+        ],
+        [
+          "species",
+          0.9
+        ]
+      ]
+    },
+    "q2": {
+      "question": "What are the characteristics of plants?",
+      "reference_answer": "Multicellular, eukaryotic, cell walls with cellulose, chlorophyll for photosynthesis, cannot move, store food as starch.",
+      "keywords": [
+        [
+          "multicellular",
+          0.9
+        ],
+        [
+          "eukaryotic",
+          0.9
+        ],
+        [
+          "cell walls",
+          1.0
+        ],
+        [
+          "cellulose",
+          0.9
+        ],
+        [
+          "chlorophyll",
+          1.0
+        ],
+        [
+          "photosynthesis",
+          1.0
+        ],
+        [
+          "starch",
+          0.9
+        ]
+      ]
+    }
+  },
+  "class6_motion": {
+    "q5": {
+      "question": "What are oscillatory and circular motions?",
+      "reference_answer": "Oscillatory: to-and-fro movement about fixed point; circular: movement along circular path around fixed point.",
+      "keywords": [
+        [
+          "oscillatory",
+          1.0
+        ],
+        [
+          "to-and-fro",
+          0.9
+        ],
+        [
+          "fixed point",
+          0.9
+        ],
+        [
+          "circular",
+          1.0
+        ],
+        [
+          "circular path",
+          0.9
+        ]
+      ]
+    },
+    "q4": {
+      "question": "What is uniform and non-uniform motion?",
+      "reference_answer": "Uniform motion: object covers equal distances in equal time intervals; non-uniform: covers unequal distances.",
+      "keywords": [
+        [
+          "uniform",
+          1.0
+        ],
+        [
+          "equal distances",
+          0.9
+        ],
+        [
+          "equal time",
+          0.9
+        ],
+        [
+          "non-uniform",
+          1.0
+        ],
+        [
+          "unequal distances",
+          0.9
+        ]
+      ]
+    },
+    "q1": {
+      "question": "What is motion?",
+      "reference_answer": "Change in position of an object with respect to its surroundings over time.",
+      "keywords": [
+        [
+          "change",
+          0.9
+        ],
+        [
+          "position",
+          1.0
+        ],
+        [
+          "object",
+          0.8
+        ],
+        [
+          "surroundings",
+          0.9
+        ],
+        [
+          "time",
+          0.9
+        ]
+      ]
+    }
+  },
+  "class6_electricity": {
+    "q5": {
+      "question": "How does an electric bulb work?",
+      "reference_answer": "Current flows through thin filament with high resistance, heating it until it glows and produces light.",
+      "keywords": [
+        [
+          "current",
+          0.9
+        ],
+        [
+          "filament",
+          1.0
+        ],
+        [
+          "high resistance",
+          0.9
+        ],
+        [
+          "heating",
+          0.9
+        ],
+        [
+          "glows",
+          0.9
+        ],
+        [
+          "light",
+          0.8
+        ]
+      ]
+    },
+    "q3": {
+      "question": "What is electric current?",
+      "reference_answer": "Flow of electric charge (electrons) through a conductor, measured in amperes.",
+      "keywords": [
+        [
+          "flow",
+          0.9
+        ],
+        [
+          "electric charge",
+          0.9
+        ],
+        [
+          "electrons",
+          1.0
+        ],
+        [
+          "conductor",
+          0.9
+        ],
+        [
+          "amperes",
+          0.9
+        ]
+      ]
+    },
+    "q2": {
+      "question": "What is the difference between conductors and insulators?",
+      "reference_answer": "Conductors allow electricity to flow through them easily; insulators prevent or greatly reduce electric current flow.",
+      "keywords": [
+        [
+          "conductors",
+          1.0
+        ],
+        [
+          "allow",
+          0.9
+        ],
+        [
+          "flow",
+          0.9
+        ],
+        [
+          "insulators",
+          1.0
+        ],
+        [
+          "prevent",
+          0.9
+        ],
+        [
+          "reduce",
+          0.9
+        ]
+      ]
+    }
+  },
+  "class6_magnets": {
+    "q4": {
+      "question": "What is a magnetic compass?",
+      "reference_answer": "Device with freely rotating magnetized needle that aligns with Earth's magnetic field, indicating directions.",
+      "keywords": [
+        [
+          "freely rotating",
+          0.9
+        ],
+        [
+          "magnetized needle",
+          1.0
+        ],
+        [
+          "aligns",
+          0.9
+        ],
+        [
+          "Earth's magnetic field",
+          1.0
+        ],
+        [
+          "directions",
+          0.9
+        ]
+      ]
+    },
+    "q2": {
+      "question": "What is a magnetic field?",
+      "reference_answer": "Region around a magnet where its magnetic force can be detected, represented by field lines.",
+      "keywords": [
+        [
+          "region",
+          0.9
+        ],
+        [
+          "around magnet",
+          0.9
+        ],
+        [
+          "magnetic force",
+          1.0
+        ],
+        [
+          "detected",
+          0.8
+        ],
+        [
+          "field lines",
+          0.9
+        ]
+      ]
+    },
+    "q1": {
+      "question": "What are magnets?",
+      "reference_answer": "Objects that attract materials containing iron, nickel, or cobalt, with north and south poles.",
+      "keywords": [
+        [
+          "attract",
+          0.9
+        ],
+        [
+          "iron",
+          1.0
+        ],
+        [
+          "nickel",
+          0.9
+        ],
+        [
+          "cobalt",
+          0.9
+        ],
+        [
+          "north pole",
+          1.0
+        ],
+        [
+          "south pole",
+          1.0
+        ]
+      ]
+    }
+  },
+  "class7_nutrition": {
+    "q3": {
+      "question": "What is heterotrophic nutrition?",
+      "reference_answer": "Mode of nutrition where organisms obtain complex organic food from other organisms as they cannot make their own.",
+      "keywords": [
+        [
+          "obtain",
+          0.9
+        ],
+        [
+          "complex organic food",
+          0.9
+        ],
+        [
+          "other organisms",
+          0.9
+        ],
+        [
+          "cannot make their own",
+          1.0
+        ]
+      ]
+    },
+    "q4": {
+      "question": "What is the process of digestion in humans?",
+      "reference_answer": "Breaking down complex food into simpler absorbable forms through mechanical and chemical digestion in digestive tract.",
+      "keywords": [
+        [
+          "breaking down",
+          0.9
+        ],
+        [
+          "complex food",
+          0.9
+        ],
+        [
+          "simpler",
+          0.8
+        ],
+        [
+          "absorbable",
+          0.9
+        ],
+        [
+          "mechanical",
+          0.9
+        ],
+        [
+          "chemical",
+          0.9
+        ],
+        [
+          "digestive tract",
+          0.8
+        ]
+      ]
+    },
+    "q2": {
+      "question": "What is autotrophic nutrition?",
+      "reference_answer": "Mode of nutrition where organisms make their own food from simple inorganic substances using energy source.",
+      "keywords": [
+        [
+          "make their own food",
+          1.0
+        ],
+        [
+          "simple inorganic substances",
+          0.9
+        ],
+        [
+          "energy source",
+          0.9
+        ],
+        [
+          "photosynthesis",
+          0.8
+        ],
+        [
+          "chemosynthesis",
+          0.7
+        ]
+      ]
+    }
+  },
+  "class7_respiration": {
+    "q4": {
+      "question": "How do humans breathe?",
+      "reference_answer": "Inhalation (diaphragm contracts, chest expands) and exhalation (diaphragm relaxes, chest contracts) controlled by respiratory center.",
+      "keywords": [
+        [
+          "inhalation",
+          1.0
+        ],
+        [
+          "diaphragm contracts",
+          0.9
+        ],
+        [
+          "chest expands",
+          0.9
+        ],
+        [
+          "exhalation",
+          1.0
+        ],
+        [
+          "diaphragm relaxes",
+          0.9
+        ],
+        [
+          "chest contracts",
+          0.9
+        ],
+        [
+          "respiratory center",
+          0.8
+        ]
+      ]
+    }
+  },
+  "class7_transport": {
+    "q2": {
+      "question": "What is the structure and function of the human heart?",
+      "reference_answer": "Four-chambered muscular organ with two atria and two ventricles that pumps blood throughout the body.",
+      "keywords": [
+        [
+          "four-chambered",
+          1.0
+        ],
+        [
+          "muscular",
+          0.9
+        ],
+        [
+          "atria",
+          1.0
+        ],
+        [
+          "ventricles",
+          1.0
+        ],
+        [
+          "pumps blood",
+          0.9
+        ]
+      ]
+    },
+    "q1": {
+      "question": "What is the function of the circulatory system?",
+      "reference_answer": "Transports nutrients, oxygen, hormones, and waste products throughout the body via blood circulation.",
+      "keywords": [
+        [
+          "transports",
+          0.9
+        ],
+        [
+          "nutrients",
+          0.9
+        ],
+        [
+          "oxygen",
+          0.9
+        ],
+        [
+          "hormones",
+          0.8
+        ],
+        [
+          "waste products",
+          0.9
+        ],
+        [
+          "blood circulation",
+          1.0
+        ]
+      ]
+    },
+    "q4": {
+      "question": "What is blood pressure?",
+      "reference_answer": "Force exerted by blood against vessel walls; measured as systolic (heart contracts) and diastolic (heart relaxes) pressure.",
+      "keywords": [
+        [
+          "force",
+          0.9
+        ],
+        [
+          "blood",
+          0.8
+        ],
+        [
+          "vessel walls",
+          0.9
+        ],
+        [
+          "systolic",
+          1.0
+        ],
+        [
+          "diastolic",
+          1.0
+        ],
+        [
+          "contracts",
+          0.9
+        ],
+        [
+          "relaxes",
+          0.9
+        ]
+      ]
+    }
+  },
+  "class7_reproduction": {
+    "q2": {
+      "question": "What is the difference between sexual and asexual reproduction?",
+      "reference_answer": "Sexual reproduction involves two parents and gamete fusion; asexual needs only one parent without gamete fusion.",
+      "keywords": [
+        [
+          "sexual",
+          1.0
+        ],
+        [
+          "two parents",
+          0.9
+        ],
+        [
+          "gamete fusion",
+          1.0
+        ],
+        [
+          "asexual",
+          1.0
+        ],
+        [
+          "one parent",
+          0.9
+        ],
+        [
+          "without gamete fusion",
+          0.9
+        ]
+      ]
+    },
+    "q4": {
+      "question": "How do plants reproduce sexually?",
+      "reference_answer": "Through flowers where male pollen fertilizes female ovules, forming seeds that develop into new plants.",
+      "keywords": [
+        [
+          "flowers",
+          0.9
+        ],
+        [
+          "male pollen",
+          1.0
+        ],
+        [
+          "fertilizes",
+          0.9
+        ],
+        [
+          "female ovules",
+          1.0
+        ],
+        [
+          "seeds",
+          0.9
+        ],
+        [
+          "new plants",
+          0.8
+        ]
+      ]
+    },
+    "q3": {
+      "question": "How do humans reproduce?",
+      "reference_answer": "Through sexual reproduction involving sperm from male fertilizing egg from female, developing into embryo in uterus.",
+      "keywords": [
+        [
+          "sexual reproduction",
+          0.9
+        ],
+        [
+          "sperm",
+          1.0
+        ],
+        [
+          "male",
+          0.8
+        ],
+        [
+          "egg",
+          1.0
+        ],
+        [
+          "female",
+          0.8
+        ],
+        [
+          "fertilizing",
+          0.9
+        ],
+        [
+          "embryo",
+          0.9
+        ],
+        [
+          "uterus",
+          0.9
+        ]
+      ]
+    }
+  },
+  "class7_heat": {
+    "q2": {
+      "question": "What are the modes of heat transfer?",
+      "reference_answer": "Conduction (direct contact), convection (fluid movement), and radiation (electromagnetic waves without medium).",
+      "keywords": [
+        [
+          "conduction",
+          1.0
+        ],
+        [
+          "direct contact",
+          0.9
+        ],
+        [
+          "convection",
+          1.0
+        ],
+        [
+          "fluid movement",
+          0.9
+        ],
+        [
+          "radiation",
+          1.0
+        ],
+        [
+          "electromagnetic waves",
+          0.9
+        ],
+        [
+          "without medium",
+          0.9
+        ]
+      ]
+    },
+    "q5": {
+      "question": "What is the difference between conductors and insulators of heat?",
+      "reference_answer": "Heat conductors allow heat to pass through easily (metals); insulators prevent heat flow (wood, plastic).",
+      "keywords": [
+        [
+          "conductors",
+          1.0
+        ],
+        [
+          "allow heat",
+          0.9
+        ],
+        [
+          "pass through",
+          0.8
+        ],
+        [
+          "metals",
+          0.8
+        ],
+        [
+          "insulators",
+          1.0
+        ],
+        [
+          "prevent heat flow",
+          0.9
+        ],
+        [
+          "wood",
+          0.7
+        ],
+        [
+          "plastic",
+          0.7
+        ]
+      ]
+    },
+    "q4": {
+      "question": "What is thermal expansion?",
+      "reference_answer": "Increase in size of matter when heated due to increased particle movement and spacing between particles.",
+      "keywords": [
+        [
+          "increase",
+          0.9
+        ],
+        [
+          "size",
+          0.8
+        ],
+        [
+          "heated",
+          0.9
+        ],
+        [
+          "particle movement",
+          0.9
+        ],
+        [
+          "spacing",
+          0.9
+        ],
+        [
+          "between particles",
+          0.9
+        ]
+      ]
+    }
+  },
+  "class7_weather": {
+    "q1": {
+      "question": "What is weather?",
+      "reference_answer": "Day-to-day condition of atmosphere at a place regarding temperature, humidity, rainfall, wind speed, etc.",
+      "keywords": [
+        [
+          "day-to-day",
+          0.9
+        ],
+        [
+          "condition",
+          0.9
+        ],
+        [
+          "atmosphere",
+          0.9
+        ],
+        [
+          "temperature",
+          0.9
+        ],
+        [
+          "humidity",
+          0.9
+        ],
+        [
+          "rainfall",
+          0.9
+        ],
+        [
+          "wind speed",
+          0.9
+        ]
+      ]
+    },
+    "q5": {
+      "question": "What are the types of clouds?",
+      "reference_answer": "Cirrus (high, wispy), cumulus (fluffy, cotton-like), stratus (layered sheets), nimbus (dark rain clouds).",
+      "keywords": [
+        [
+          "cirrus",
+          1.0
+        ],
+        [
+          "high",
+          0.8
+        ],
+        [
+          "wispy",
+          0.8
+        ],
+        [
+          "cumulus",
+          1.0
+        ],
+        [
+          "fluffy",
+          0.8
+        ],
+        [
+          "stratus",
+          1.0
+        ],
+        [
+          "layered",
+          0.8
+        ],
+        [
+          "nimbus",
+          1.0
+        ],
+        [
+          "rain clouds",
+          0.9
+        ]
+      ]
+    },
+    "q2": {
+      "question": "What is the difference between weather and climate?",
+      "reference_answer": "Weather is short-term atmospheric conditions; climate is average weather pattern of a place over long periods.",
+      "keywords": [
+        [
+          "weather",
+          0.9
+        ],
+        [
+          "short-term",
+          1.0
+        ],
+        [
+          "atmospheric conditions",
+          0.9
+        ],
+        [
+          "climate",
+          0.9
+        ],
+        [
+          "average weather",
+          1.0
+        ],
+        [
+          "long periods",
+          1.0
+        ]
+      ]
+    }
+  },
+  "class8_crop_production": {
+    "q4": {
+      "question": "What are weeds?",
+      "reference_answer": "Unwanted plants growing among crops, competing for nutrients, water, and sunlight, reducing yield and quality.",
+      "keywords": [
+        [
+          "unwanted plants",
+          1.0
+        ],
+        [
+          "among crops",
+          0.9
+        ],
+        [
+          "competing",
+          0.9
+        ],
+        [
+          "nutrients",
+          0.8
+        ],
+        [
+          "water",
+          0.8
+        ],
+        [
+          "sunlight",
+          0.8
+        ],
+        [
+          "reducing yield",
+          0.9
+        ]
+      ]
+    },
+    "q1": {
+      "question": "What are the basic practices of crop production?",
+      "reference_answer": "Soil preparation, sowing, adding manure and fertilizers, irrigation, weeding, harvesting, and storage.",
+      "keywords": [
+        [
+          "soil preparation",
+          0.9
+        ],
+        [
+          "sowing",
+          0.9
+        ],
+        [
+          "manure",
+          0.9
+        ],
+        [
+          "fertilizers",
+          0.9
+        ],
+        [
+          "irrigation",
+          0.9
+        ],
+        [
+          "weeding",
+          0.9
+        ],
+        [
+          "harvesting",
+          0.9
+        ],
+        [
+          "storage",
+          0.9
+        ]
+      ]
+    },
+    "q5": {
+      "question": "What are the methods of crop protection?",
+      "reference_answer": "Proper preparation, treating seeds with fungicides, crop rotation, biological control, and using pesticides/herbicides.",
+      "keywords": [
+        [
+          "preparation",
+          0.8
+        ],
+        [
+          "treating seeds",
+          0.9
+        ],
+        [
+          "fungicides",
+          0.9
+        ],
+        [
+          "crop rotation",
+          1.0
+        ],
+        [
+          "biological control",
+          1.0
+        ],
+        [
+          "pesticides",
+          0.9
+        ],
+        [
+          "herbicides",
+          0.9
+        ]
+      ]
+    }
+  },
+  "class8_microorganisms": {
+    "q2": {
+      "question": "How are microorganisms beneficial to humans?",
+      "reference_answer": "Make food (yogurt, bread), produce medicines (antibiotics), decompose waste, help in digestion, and fix nitrogen in soil.",
+      "keywords": [
+        [
+          "food",
+          0.9
+        ],
+        [
+          "yogurt",
+          0.8
+        ],
+        [
+          "bread",
+          0.8
+        ],
+        [
+          "medicines",
+          0.9
+        ],
+        [
+          "antibiotics",
+          0.9
+        ],
+        [
+          "decompose",
+          0.9
+        ],
+        [
+          "digestion",
+          0.9
+        ],
+        [
+          "nitrogen",
+          0.9
+        ]
+      ]
+    },
+    "q4": {
+      "question": "What is fermentation?",
+      "reference_answer": "Process where microorganisms break down complex substances into simpler substances, often without oxygen, producing useful products.",
+      "keywords": [
+        [
+          "process",
+          0.7
+        ],
+        [
+          "microorganisms",
+          0.9
+        ],
+        [
+          "break down",
+          0.9
+        ],
+        [
+          "complex substances",
+          0.9
+        ],
+        [
+          "simpler substances",
+          0.9
+        ],
+        [
+          "without oxygen",
+          0.9
+        ],
+        [
+          "useful products",
+          0.9
+        ]
+      ]
+    },
+    "q5": {
+      "question": "What are antibiotics?",
+      "reference_answer": "Medicines that kill or stop growth of bacteria, produced naturally by microorganisms or synthesized artificially.",
+      "keywords": [
+        [
+          "medicines",
+          0.9
+        ],
+        [
+          "kill",
+          0.9
+        ],
+        [
+          "stop growth",
+          0.9
+        ],
+        [
+          "bacteria",
+          1.0
+        ],
+        [
+          "produced",
+          0.8
+        ],
+        [
+          "microorganisms",
+          0.9
+        ],
+        [
+          "synthesized artificially",
+          0.9
+        ]
+      ]
+    }
+  },
+  "class8_metals": {
+    "q3": {
+      "question": "What is the reactivity series of metals?",
+      "reference_answer": "Arrangement of metals in decreasing order of reactivity: K, Na, Ca, Mg, Al, Zn, Fe, Pb, Cu, Hg, Ag, Au.",
+      "keywords": [
+        [
+          "arrangement",
+          0.8
+        ],
+        [
+          "decreasing order",
+          0.9
+        ],
+        [
+          "reactivity",
+          1.0
+        ],
+        [
+          "K",
+          0.8
+        ],
+        [
+          "Na",
+          0.8
+        ],
+        [
+          "Ca",
+          0.8
+        ],
+        [
+          "Fe",
+          0.8
+        ],
+        [
+          "Cu",
+          0.8
+        ],
+        [
+          "Au",
+          0.8
+        ]
+      ]
+    },
+    "q4": {
+      "question": "What is corrosion?",
+      "reference_answer": "Gradual deterioration of metals by chemical reactions with air, moisture, or chemicals in the environment.",
+      "keywords": [
+        [
+          "deterioration",
+          0.9
+        ],
+        [
+          "metals",
+          0.8
+        ],
+        [
+          "chemical reactions",
+          0.9
+        ],
+        [
+          "air",
+          0.8
+        ],
+        [
+          "moisture",
+          0.9
+        ],
+        [
+          "environment",
+          0.8
+        ]
+      ]
+    },
+    "q1": {
+      "question": "What are the physical properties of metals?",
+      "reference_answer": "Lustrous, malleable, ductile, good conductors of heat and electricity, generally hard, high melting points, sonorous.",
+      "keywords": [
+        [
+          "lustrous",
+          1.0
+        ],
+        [
+          "malleable",
+          1.0
+        ],
+        [
+          "ductile",
+          1.0
+        ],
+        [
+          "conductors",
+          0.9
+        ],
+        [
+          "heat",
+          0.8
+        ],
+        [
+          "electricity",
+          0.8
+        ],
+        [
+          "hard",
+          0.8
+        ],
+        [
+          "melting points",
+          0.9
+        ],
+        [
+          "sonorous",
+          0.9
+        ]
+      ]
+    }
+  },
+  "class8_force": {
+    "q2": {
+      "question": "What is pressure?",
+      "reference_answer": "Force acting perpendicular to unit area of surface, calculated as force divided by area (P=F/A).",
+      "keywords": [
+        [
+          "force",
+          0.9
+        ],
+        [
+          "perpendicular",
+          0.9
+        ],
+        [
+          "unit area",
+          0.9
+        ],
+        [
+          "surface",
+          0.8
+        ],
+        [
+          "divided",
+          0.8
+        ],
+        [
+          "P=F/A",
+          1.0
+        ]
+      ]
+    },
+    "q1": {
+      "question": "What is force?",
+      "reference_answer": "Push or pull that can change object's state of motion, direction of motion, or shape when applied.",
+      "keywords": [
+        [
+          "push",
+          1.0
+        ],
+        [
+          "pull",
+          1.0
+        ],
+        [
+          "change",
+          0.8
+        ],
+        [
+          "state of motion",
+          0.9
+        ],
+        [
+          "direction",
+          0.9
+        ],
+        [
+          "shape",
+          0.9
+        ]
+      ]
+    },
+    "q5": {
+      "question": "Explain Archimedes' principle.",
+      "reference_answer": "Object immersed in fluid experiences upward buoyant force equal to weight of fluid displaced by the object.",
+      "keywords": [
+        [
+          "immersed",
+          0.9
+        ],
+        [
+          "fluid",
+          0.9
+        ],
+        [
+          "upward",
+          0.8
+        ],
+        [
+          "buoyant force",
+          1.0
+        ],
+        [
+          "equal",
+          0.8
+        ],
+        [
+          "weight",
+          0.9
+        ],
+        [
+          "fluid displaced",
+          1.0
+        ]
+      ]
+    }
+  },
+  "class8_sound": {
+    "q2": {
+      "question": "How is sound produced and propagated?",
+      "reference_answer": "Produced by vibrating objects creating compressions and rarefactions in medium, propagating as longitudinal waves requiring medium.",
+      "keywords": [
+        [
+          "vibrating objects",
+          0.9
+        ],
+        [
+          "compressions",
+          1.0
+        ],
+        [
+          "rarefactions",
+          1.0
+        ],
+        [
+          "medium",
+          0.9
+        ],
+        [
+          "longitudinal waves",
+          0.9
+        ],
+        [
+          "requiring medium",
+          0.8
+        ]
+      ]
+    },
+    "q5": {
+      "question": "What is noise pollution?",
+      "reference_answer": "Unwanted, unpleasant, or harmful sound that disrupts normal activities and can cause health problems with prolonged exposure.",
+      "keywords": [
+        [
+          "unwanted",
+          0.9
+        ],
+        [
+          "unpleasant",
+          0.9
+        ],
+        [
+          "harmful",
+          0.9
+        ],
+        [
+          "disrupts",
+          0.9
+        ],
+        [
+          "normal activities",
+          0.8
+        ],
+        [
+          "health problems",
+          0.9
+        ],
+        [
+          "prolonged exposure",
+          0.8
+        ]
+      ]
+    },
+    "q4": {
+      "question": "How does human ear detect sound?",
+      "reference_answer": "Sound waves enter ear canal, vibrate eardrum, move ossicles, create fluid waves in cochlea, bend hair cells, generating nerve signals.",
+      "keywords": [
+        [
+          "sound waves",
+          0.8
+        ],
+        [
+          "ear canal",
+          0.9
+        ],
+        [
+          "eardrum",
+          1.0
+        ],
+        [
+          "ossicles",
+          1.0
+        ],
+        [
+          "cochlea",
+          1.0
+        ],
+        [
+          "hair cells",
+          0.9
+        ],
+        [
+          "nerve signals",
+          0.9
+        ]
+      ]
+    }
+  },
+  "class9_matter": {
+    "q5": {
+      "question": "Explain Boyle's law.",
+      "reference_answer": "At constant temperature, pressure of fixed mass of gas is inversely proportional to its volume (P\u2081V\u2081 = P\u2082V\u2082).",
+      "keywords": [
+        [
+          "constant temperature",
+          0.9
+        ],
+        [
+          "pressure",
+          0.9
+        ],
+        [
+          "fixed mass",
+          0.9
+        ],
+        [
+          "gas",
+          0.8
+        ],
+        [
+          "inversely proportional",
+          1.0
+        ],
+        [
+          "volume",
+          0.9
+        ],
+        [
+          "P\u2081V\u2081 = P\u2082V\u2082",
+          1.0
+        ]
+      ]
+    },
+    "q1": {
+      "question": "What is matter?",
+      "reference_answer": "Anything that occupies space, has mass, and can be perceived by senses, existing in solid, liquid, gas, or plasma states.",
+      "keywords": [
+        [
+          "occupies space",
+          1.0
+        ],
+        [
+          "mass",
+          1.0
+        ],
+        [
+          "perceived",
+          0.8
+        ],
+        [
+          "senses",
+          0.8
+        ],
+        [
+          "solid",
+          0.9
+        ],
+        [
+          "liquid",
+          0.9
+        ],
+        [
+          "gas",
+          0.9
+        ],
+        [
+          "plasma",
+          0.8
+        ]
+      ]
+    },
+    "q2": {
+      "question": "What is the kinetic theory of matter?",
+      "reference_answer": "Matter consists of particles in constant random motion with spaces between them, having kinetic energy and attractive forces.",
+      "keywords": [
+        [
+          "particles",
+          1.0
+        ],
+        [
+          "constant random motion",
+          1.0
+        ],
+        [
+          "spaces",
+          0.9
+        ],
+        [
+          "kinetic energy",
+          0.9
+        ],
+        [
+          "attractive forces",
+          0.9
+        ]
+      ]
+    }
+  },
+  "class9_atoms": {
+    "q4": {
+      "question": "What is an ion?",
+      "reference_answer": "Atom or molecule that has gained or lost electrons, resulting in positive charge (cation) or negative charge (anion).",
+      "keywords": [
+        [
+          "atom",
+          0.8
+        ],
+        [
+          "molecule",
+          0.8
+        ],
+        [
+          "gained",
+          0.9
+        ],
+        [
+          "lost",
+          0.9
+        ],
+        [
+          "electrons",
+          0.9
+        ],
+        [
+          "positive charge",
+          0.9
+        ],
+        [
+          "cation",
+          1.0
+        ],
+        [
+          "negative charge",
+          0.9
+        ],
+        [
+          "anion",
+          1.0
+        ]
+      ]
+    },
+    "q5": {
+      "question": "What is the difference between orbit and orbital?",
+      "reference_answer": "Orbit is fixed circular path of electron in Bohr model; orbital is region of high probability of finding electron in quantum model.",
+      "keywords": [
+        [
+          "orbit",
+          1.0
+        ],
+        [
+          "fixed circular path",
+          0.9
+        ],
+        [
+          "Bohr model",
+          0.9
+        ],
+        [
+          "orbital",
+          1.0
+        ],
+        [
+          "region",
+          0.8
+        ],
+        [
+          "high probability",
+          0.9
+        ],
+        [
+          "quantum model",
+          0.9
+        ]
+      ]
+    },
+    "q1": {
+      "question": "What is the structure of an atom?",
+      "reference_answer": "Central nucleus containing positively charged protons and neutral neutrons, surrounded by negatively charged electrons in orbits.",
+      "keywords": [
+        [
+          "nucleus",
+          1.0
+        ],
+        [
+          "protons",
+          1.0
+        ],
+        [
+          "positively charged",
+          0.9
+        ],
+        [
+          "neutrons",
+          1.0
+        ],
+        [
+          "neutral",
+          0.8
+        ],
+        [
+          "electrons",
+          1.0
+        ],
+        [
+          "negatively charged",
+          0.9
+        ],
+        [
+          "orbits",
+          0.9
+        ]
+      ]
+    }
+  },
+  "class9_motion": {
+    "q3": {
+      "question": "What is momentum?",
+      "reference_answer": "Product of an object's mass and velocity, a vector quantity measured in kg\u00b7m/s, indicating motion quantity.",
+      "keywords": [
+        [
+          "product",
+          0.9
+        ],
+        [
+          "mass",
+          1.0
+        ],
+        [
+          "velocity",
+          1.0
+        ],
+        [
+          "vector quantity",
+          0.9
+        ],
+        [
+          "kg\u00b7m/s",
+          0.9
+        ],
+        [
+          "motion quantity",
+          0.8
+        ]
+      ]
+    },
+    "q2": {
+      "question": "State Newton's laws of motion.",
+      "reference_answer": "First: Objects remain at rest/motion unless external force acts. Second: F=ma. Third: Every action has equal and opposite reaction.",
+      "keywords": [
+        [
+          "first law",
+          1.0
+        ],
+        [
+          "rest",
+          0.8
+        ],
+        [
+          "motion",
+          0.8
+        ],
+        [
+          "force",
+          0.8
+        ],
+        [
+          "second law",
+          1.0
+        ],
+        [
+          "F=ma",
+          1.0
+        ],
+        [
+          "third law",
+          1.0
+        ],
+        [
+          "action",
+          0.9
+        ],
+        [
+          "reaction",
+          0.9
+        ]
+      ]
+    },
+    "q1": {
+      "question": "Define speed, velocity and acceleration.",
+      "reference_answer": "Speed: distance traveled per unit time; velocity: displacement per unit time (with direction); acceleration: rate of change of velocity.",
+      "keywords": [
+        [
+          "speed",
+          1.0
+        ],
+        [
+          "distance",
+          0.9
+        ],
+        [
+          "time",
+          0.8
+        ],
+        [
+          "velocity",
+          1.0
+        ],
+        [
+          "displacement",
+          0.9
+        ],
+        [
+          "direction",
+          0.9
+        ],
+        [
+          "acceleration",
+          1.0
+        ],
+        [
+          "rate of change",
+          0.9
+        ]
+      ]
+    }
+  },
+  "class9_force": {
+    "q1": {
+      "question": "What is force?",
+      "reference_answer": "Push or pull that changes or tends to change object's state of rest or motion or direction of motion.",
+      "keywords": [
+        [
+          "push",
+          1.0
+        ],
+        [
+          "pull",
+          1.0
+        ],
+        [
+          "changes",
+          0.9
+        ],
+        [
+          "state of rest",
+          0.9
+        ],
+        [
+          "motion",
+          0.9
+        ],
+        [
+          "direction",
+          0.9
+        ]
+      ]
+    },
+    "q4": {
+      "question": "What is acceleration due to gravity?",
+      "reference_answer": "Rate at which speed of falling object increases due to gravitational force, approximately 9.8 m/s\u00b2 on Earth's surface.",
+      "keywords": [
+        [
+          "rate",
+          0.8
+        ],
+        [
+          "speed",
+          0.8
+        ],
+        [
+          "falling object",
+          0.9
+        ],
+        [
+          "increases",
+          0.8
+        ],
+        [
+          "gravitational force",
+          0.9
+        ],
+        [
+          "9.8 m/s\u00b2",
+          1.0
+        ],
+        [
+          "Earth's surface",
+          0.9
+        ]
+      ]
+    },
+    "q3": {
+      "question": "What is the difference between mass and weight?",
+      "reference_answer": "Mass is amount of matter (constant); weight is gravitational force acting on object (varies with location's gravitational field).",
+      "keywords": [
+        [
+          "mass",
+          1.0
+        ],
+        [
+          "amount of matter",
+          0.9
+        ],
+        [
+          "constant",
+          0.9
+        ],
+        [
+          "weight",
+          1.0
+        ],
+        [
+          "gravitational force",
+          0.9
+        ],
+        [
+          "varies",
+          0.8
+        ],
+        [
+          "location",
+          0.8
+        ]
+      ]
+    }
+  },
+  "class9_work_energy": {
+    "q1": {
+      "question": "What is work in physics?",
+      "reference_answer": "Product of force and displacement in force direction, measured in joules, occurring only when force causes displacement.",
+      "keywords": [
+        [
+          "product",
+          0.9
+        ],
+        [
+          "force",
+          0.9
+        ],
+        [
+          "displacement",
+          0.9
+        ],
+        [
+          "force direction",
+          1.0
+        ],
+        [
+          "joules",
+          0.9
+        ],
+        [
+          "causes displacement",
+          0.8
+        ]
+      ]
+    },
+    "q2": {
+      "question": "What is energy?",
+      "reference_answer": "Capacity to do work, existing in various forms (kinetic, potential, thermal, etc.), measured in joules, always conserved.",
+      "keywords": [
+        [
+          "capacity",
+          0.9
+        ],
+        [
+          "do work",
+          0.9
+        ],
+        [
+          "forms",
+          0.8
+        ],
+        [
+          "kinetic",
+          0.9
+        ],
+        [
+          "potential",
+          0.9
+        ],
+        [
+          "joules",
+          0.9
+        ],
+        [
+          "conserved",
+          0.9
+        ]
+      ]
+    },
+    "q3": {
+      "question": "What is the law of conservation of energy?",
+      "reference_answer": "Energy can neither be created nor destroyed, only transformed from one form to another, with total energy remaining constant.",
+      "keywords": [
+        [
+          "neither created",
+          0.9
+        ],
+        [
+          "nor destroyed",
+          0.9
+        ],
+        [
+          "transformed",
+          1.0
+        ],
+        [
+          "one form to another",
+          0.9
+        ],
+        [
+          "total energy",
+          0.9
+        ],
+        [
+          "constant",
+          0.9
+        ]
+      ]
+    }
+  },
+  "class9_sound": {
+    "q5": {
+      "question": "What is resonance?",
+      "reference_answer": "Phenomenon where object vibrates with maximum amplitude at specific frequencies (natural frequencies), absorbing energy efficiently from driving force.",
+      "keywords": [
+        [
+          "phenomenon",
+          0.7
+        ],
+        [
+          "vibrates",
+          0.9
+        ],
+        [
+          "maximum amplitude",
+          0.9
+        ],
+        [
+          "specific frequencies",
+          0.9
+        ],
+        [
+          "natural frequencies",
+          1.0
+        ],
+        [
+          "absorbing energy",
+          0.9
+        ],
+        [
+          "driving force",
+          0.9
+        ]
+      ]
+    },
+    "q4": {
+      "question": "What is reflection of sound?",
+      "reference_answer": "Bouncing back of sound waves upon striking a surface, following law of reflection; causes echo when delay is at least 0.1 second.",
+      "keywords": [
+        [
+          "bouncing back",
+          0.9
+        ],
+        [
+          "sound waves",
+          0.8
+        ],
+        [
+          "surface",
+          0.8
+        ],
+        [
+          "law of reflection",
+          0.9
+        ],
+        [
+          "echo",
+          1.0
+        ],
+        [
+          "delay",
+          0.9
+        ],
+        [
+          "0.1 second",
+          0.9
+        ]
+      ]
+    },
+    "q1": {
+      "question": "What is sound and how is it produced?",
+      "reference_answer": "Mechanical wave requiring medium, produced by vibrating objects creating compressions and rarefactions that travel through medium as longitudinal waves.",
+      "keywords": [
+        [
+          "mechanical wave",
+          0.9
+        ],
+        [
+          "medium",
+          0.9
+        ],
+        [
+          "vibrating objects",
+          1.0
+        ],
+        [
+          "compressions",
+          0.9
+        ],
+        [
+          "rarefactions",
+          0.9
+        ],
+        [
+          "longitudinal waves",
+          1.0
+        ]
+      ]
+    }
+  },
+  "class9_light": {
+    "q2": {
+      "question": "What are the laws of reflection of light?",
+      "reference_answer": "Angle of incidence equals angle of reflection; incident ray, reflected ray, and normal all lie in same plane.",
+      "keywords": [
+        [
+          "angle of incidence",
+          1.0
+        ],
+        [
+          "angle of reflection",
+          1.0
+        ],
+        [
+          "equals",
+          0.9
+        ],
+        [
+          "incident ray",
+          0.9
+        ],
+        [
+          "reflected ray",
+          0.9
+        ],
+        [
+          "normal",
+          0.9
+        ],
+        [
+          "same plane",
+          0.9
+        ]
+      ]
+    },
+    "q3": {
+      "question": "What is refraction of light?",
+      "reference_answer": "Bending of light when it passes from one transparent medium to another due to speed change, following Snell's Law.",
+      "keywords": [
+        [
+          "bending",
+          1.0
+        ],
+        [
+          "light",
+          0.8
+        ],
+        [
+          "transparent medium",
+          0.9
+        ],
+        [
+          "speed change",
+          0.9
+        ],
+        [
+          "Snell's Law",
+          1.0
+        ]
+      ]
+    },
+    "q4": {
+      "question": "What is a spherical mirror and its types?",
+      "reference_answer": "Mirror with reflecting surface forming part of sphere. Types: concave (inward curve, converging) and convex (outward curve, diverging).",
+      "keywords": [
+        [
+          "reflecting surface",
+          0.9
+        ],
+        [
+          "sphere",
+          0.9
+        ],
+        [
+          "concave",
+          1.0
+        ],
+        [
+          "inward curve",
+          0.9
+        ],
+        [
+          "converging",
+          0.9
+        ],
+        [
+          "convex",
+          1.0
+        ],
+        [
+          "outward curve",
+          0.9
+        ],
+        [
+          "diverging",
+          0.9
+        ]
+      ]
+    }
+  },
+  "class10_electricity": {
+    "q5": {
+      "question": "What is Joule's law of heating?",
+      "reference_answer": "Heat produced in resistor is directly proportional to square of current, resistance, and time (H=I\u00b2Rt).",
+      "keywords": [
+        [
+          "heat",
+          0.9
+        ],
+        [
+          "resistor",
+          0.9
+        ],
+        [
+          "directly proportional",
+          0.9
+        ],
+        [
+          "square of current",
+          1.0
+        ],
+        [
+          "resistance",
+          0.9
+        ],
+        [
+          "time",
+          0.9
+        ],
+        [
+          "H=I\u00b2Rt",
+          1.0
+        ]
+      ]
+    },
+    "q1": {
+      "question": "What is electric current?",
+      "reference_answer": "Flow of electric charge (typically electrons) through a conductor, measured in amperes (A), flowing from higher to lower potential.",
+      "keywords": [
+        [
+          "flow",
+          0.9
+        ],
+        [
+          "electric charge",
+          0.9
+        ],
+        [
+          "electrons",
+          0.9
+        ],
+        [
+          "conductor",
+          0.9
+        ],
+        [
+          "amperes",
+          1.0
+        ],
+        [
+          "higher",
+          0.8
+        ],
+        [
+          "lower potential",
+          0.8
+        ]
+      ]
+    },
+    "q3": {
+      "question": "What factors affect resistance of a conductor?",
+      "reference_answer": "Length (directly proportional), cross-sectional area (inversely proportional), material (resistivity), and temperature.",
+      "keywords": [
+        [
+          "length",
+          1.0
+        ],
+        [
+          "directly proportional",
+          0.9
+        ],
+        [
+          "cross-sectional area",
+          1.0
+        ],
+        [
+          "inversely proportional",
+          0.9
+        ],
+        [
+          "material",
+          0.9
+        ],
+        [
+          "resistivity",
+          0.9
+        ],
+        [
+          "temperature",
+          0.9
+        ]
+      ]
+    }
+  },
+  "class10_magnets": {
+    "q1": {
+      "question": "What is a magnetic field?",
+      "reference_answer": "Region around magnet where magnetic force is experienced by magnetic materials or moving charged particles.",
+      "keywords": [
+        [
+          "region",
+          0.8
+        ],
+        [
+          "around magnet",
+          0.9
+        ],
+        [
+          "magnetic force",
+          0.9
+        ],
+        [
+          "experienced",
+          0.8
+        ],
+        [
+          "magnetic materials",
+          0.9
+        ],
+        [
+          "moving charged particles",
+          0.9
+        ]
+      ]
+    },
+    "q2": {
+      "question": "Explain Fleming's left-hand rule.",
+      "reference_answer": "When thumb, forefinger, and middle finger are held mutually perpendicular, they represent direction of motion, magnetic field, and current respectively.",
+      "keywords": [
+        [
+          "thumb",
+          0.9
+        ],
+        [
+          "forefinger",
+          0.9
+        ],
+        [
+          "middle finger",
+          0.9
+        ],
+        [
+          "mutually perpendicular",
+          1.0
+        ],
+        [
+          "motion",
+          0.9
+        ],
+        [
+          "magnetic field",
+          0.9
+        ],
+        [
+          "current",
+          0.9
+        ]
+      ]
+    },
+    "q3": {
+      "question": "What is a solenoid?",
+      "reference_answer": "Coil of wire wound in helical form, producing uniform magnetic field inside when current passes, with field lines resembling bar magnet.",
+      "keywords": [
+        [
+          "coil",
+          0.9
+        ],
+        [
+          "wire",
+          0.8
+        ],
+        [
+          "helical",
+          0.9
+        ],
+        [
+          "uniform magnetic field",
+          1.0
+        ],
+        [
+          "current passes",
+          0.9
+        ],
+        [
+          "field lines",
+          0.9
+        ],
+        [
+          "bar magnet",
+          0.9
+        ]
+      ]
+    }
+  },
+  "class10_chemical_reactions": {
+    "q2": {
+      "question": "What are the types of chemical reactions?",
+      "reference_answer": "Combination, decomposition, displacement (single/double), redox, precipitation, neutralization, combustion, and polymerization reactions.",
+      "keywords": [
+        [
+          "combination",
+          0.9
+        ],
+        [
+          "decomposition",
+          0.9
+        ],
+        [
+          "displacement",
+          0.9
+        ],
+        [
+          "redox",
+          0.9
+        ],
+        [
+          "precipitation",
+          0.9
+        ],
+        [
+          "neutralization",
+          0.9
+        ],
+        [
+          "combustion",
+          0.9
+        ],
+        [
+          "polymerization",
+          0.9
+        ]
+      ]
+    },
+    "q1": {
+      "question": "What is a chemical reaction?",
+      "reference_answer": "Process where substances (reactants) transform into new substances (products) by breaking and forming chemical bonds.",
+      "keywords": [
+        [
+          "process",
+          0.8
+        ],
+        [
+          "substances",
+          0.8
+        ],
+        [
+          "reactants",
+          0.9
+        ],
+        [
+          "transform",
+          0.9
+        ],
+        [
+          "products",
+          0.9
+        ],
+        [
+          "breaking",
+          0.9
+        ],
+        [
+          "forming",
+          0.9
+        ],
+        [
+          "chemical bonds",
+          1.0
+        ]
+      ]
+    },
+    "q4": {
+      "question": "What are the indicators of a chemical reaction?",
+      "reference_answer": "Change in state, color change, temperature change, gas evolution, precipitation formation, and light/sound production.",
+      "keywords": [
+        [
+          "change in state",
+          0.9
+        ],
+        [
+          "color change",
+          0.9
+        ],
+        [
+          "temperature change",
+          0.9
+        ],
+        [
+          "gas evolution",
+          0.9
+        ],
+        [
+          "precipitation formation",
+          0.9
+        ],
+        [
+          "light",
+          0.8
+        ],
+        [
+          "sound",
+          0.8
+        ]
+      ]
+    }
+  },
+  "class10_acids_bases": {
+    "q5": {
+      "question": "What are the uses of acids and bases in daily life?",
+      "reference_answer": "Acids: food preservation, batteries, digestion; Bases: cleaning agents, medicines, paper production, soap making.",
+      "keywords": [
+        [
+          "acids",
+          0.9
+        ],
+        [
+          "food preservation",
+          0.9
+        ],
+        [
+          "batteries",
+          0.9
+        ],
+        [
+          "digestion",
+          0.9
+        ],
+        [
+          "bases",
+          0.9
+        ],
+        [
+          "cleaning agents",
+          0.9
+        ],
+        [
+          "medicines",
+          0.9
+        ],
+        [
+          "soap",
+          0.9
+        ]
+      ]
+    },
+    "q2": {
+      "question": "What is the pH scale?",
+      "reference_answer": "Scale from 0-14 measuring acidity/alkalinity of solutions, with 7 as neutral, below 7 as acidic, and above 7 as basic.",
+      "keywords": [
+        [
+          "scale",
+          0.8
+        ],
+        [
+          "0-14",
+          0.9
+        ],
+        [
+          "acidity",
+          0.9
+        ],
+        [
+          "alkalinity",
+          0.9
+        ],
+        [
+          "7",
+          0.9
+        ],
+        [
+          "neutral",
+          0.9
+        ],
+        [
+          "below 7",
+          0.9
+        ],
+        [
+          "acidic",
+          0.9
+        ],
+        [
+          "above 7",
+          0.9
+        ],
+        [
+          "basic",
+          0.9
+        ]
+      ]
+    },
+    "q4": {
+      "question": "How do indicators work?",
+      "reference_answer": "Chemical substances that change color in different pH conditions, helping identify whether solution is acidic, basic, or neutral.",
+      "keywords": [
+        [
+          "chemical substances",
+          0.8
+        ],
+        [
+          "change color",
+          1.0
+        ],
+        [
+          "pH conditions",
+          0.9
+        ],
+        [
+          "identify",
+          0.8
+        ],
+        [
+          "acidic",
+          0.9
+        ],
+        [
+          "basic",
+          0.9
+        ],
+        [
+          "neutral",
+          0.9
+        ]
+      ]
+    }
+  },
+  "class10_carbon": {
+    "q4": {
+      "question": "Explain the concept of isomerism.",
+      "reference_answer": "Phenomenon where compounds have same molecular formula but different structural arrangements, resulting in different properties.",
+      "keywords": [
+        [
+          "phenomenon",
+          0.8
+        ],
+        [
+          "compounds",
+          0.8
+        ],
+        [
+          "same molecular formula",
+          1.0
+        ],
+        [
+          "different structural arrangements",
+          1.0
+        ],
+        [
+          "different properties",
+          0.9
+        ]
+      ]
+    },
+    "q5": {
+      "question": "What are the major functional groups in carbon compounds?",
+      "reference_answer": "Alcohol (-OH), aldehyde (-CHO), ketone (>C=O), carboxylic acid (-COOH), ester (-COOR), and amine (-NH\u2082).",
+      "keywords": [
+        [
+          "alcohol",
+          1.0
+        ],
+        [
+          "-OH",
+          0.9
+        ],
+        [
+          "aldehyde",
+          1.0
+        ],
+        [
+          "-CHO",
+          0.9
+        ],
+        [
+          "ketone",
+          1.0
+        ],
+        [
+          ">C=O",
+          0.9
+        ],
+        [
+          "carboxylic acid",
+          1.0
+        ],
+        [
+          "-COOH",
+          0.9
+        ],
+        [
+          "ester",
+          1.0
+        ],
+        [
+          "-COOR",
+          0.9
+        ],
+        [
+          "amine",
+          1.0
+        ],
+        [
+          "-NH\u2082",
+          0.9
+        ]
+      ]
+    },
+    "q2": {
+      "question": "What is covalent bonding?",
+      "reference_answer": "Chemical bonding where atoms share electron pairs to achieve stable electron configurations, typical in carbon compounds.",
+      "keywords": [
+        [
+          "chemical bonding",
+          0.9
+        ],
+        [
+          "atoms",
+          0.8
+        ],
+        [
+          "share",
+          0.9
+        ],
+        [
+          "electron pairs",
+          1.0
+        ],
+        [
+          "stable",
+          0.9
+        ],
+        [
+          "electron configurations",
+          0.9
+        ],
+        [
+          "carbon compounds",
+          0.9
+        ]
+      ]
+    }
+  },
+  "class10_periodic_table": {
+    "q5": {
+      "question": "What are metals, non-metals and metalloids?",
+      "reference_answer": "Metals: left/center of table, conduct heat/electricity, malleable; Non-metals: right side, poor conductors, brittle; Metalloids: properties between both, semiconductor behavior.",
+      "keywords": [
+        [
+          "metals",
+          1.0
+        ],
+        [
+          "left/center",
+          0.9
+        ],
+        [
+          "conduct",
+          0.9
+        ],
+        [
+          "non-metals",
+          1.0
+        ],
+        [
+          "right side",
+          0.9
+        ],
+        [
+          "poor conductors",
+          0.9
+        ],
+        [
+          "metalloids",
+          1.0
+        ],
+        [
+          "between both",
+          0.9
+        ],
+        [
+          "semiconductor",
+          0.9
+        ]
+      ]
+    },
+    "q2": {
+      "question": "What is the modern periodic law?",
+      "reference_answer": "Properties of elements are periodic functions of their atomic numbers, with elements in same group having similar properties.",
+      "keywords": [
+        [
+          "properties",
+          0.9
+        ],
+        [
+          "periodic functions",
+          1.0
+        ],
+        [
+          "atomic numbers",
+          1.0
+        ],
+        [
+          "same group",
+          0.9
+        ],
+        [
+          "similar properties",
+          0.9
+        ]
+      ]
+    },
+    "q3": {
+      "question": "What are groups and periods in the periodic table?",
+      "reference_answer": "Groups (vertical columns): elements with similar properties due to same valence electron configuration; Periods (horizontal rows): elements with increasing atomic number.",
+      "keywords": [
+        [
+          "groups",
+          1.0
+        ],
+        [
+          "vertical columns",
+          0.9
+        ],
+        [
+          "similar properties",
+          0.9
+        ],
+        [
+          "valence electron",
+          0.9
+        ],
+        [
+          "periods",
+          1.0
+        ],
+        [
+          "horizontal rows",
+          0.9
+        ],
+        [
+          "atomic number",
+          0.9
+        ]
+      ]
+    }
+  },
+  "class10_life_processes": {
+    "q4": {
+      "question": "How does the human respiratory system work?",
+      "reference_answer": "Air enters through nose/mouth, passes through trachea, bronchi, and bronchioles into alveoli, where oxygen enters bloodstream and carbon dioxide exits.",
+      "keywords": [
+        [
+          "air",
+          0.8
+        ],
+        [
+          "nose/mouth",
+          0.9
+        ],
+        [
+          "trachea",
+          1.0
+        ],
+        [
+          "bronchi",
+          1.0
+        ],
+        [
+          "bronchioles",
+          1.0
+        ],
+        [
+          "alveoli",
+          1.0
+        ],
+        [
+          "oxygen",
+          0.9
+        ],
+        [
+          "bloodstream",
+          0.9
+        ],
+        [
+          "carbon dioxide",
+          0.9
+        ]
+      ]
+    },
+    "q1": {
+      "question": "What are life processes?",
+      "reference_answer": "Basic functions performed by living organisms to maintain life, including nutrition, respiration, circulation, excretion, movement, and reproduction.",
+      "keywords": [
+        [
+          "basic functions",
+          0.9
+        ],
+        [
+          "living organisms",
+          0.9
+        ],
+        [
+          "maintain life",
+          0.9
+        ],
+        [
+          "nutrition",
+          1.0
+        ],
+        [
+          "respiration",
+          1.0
+        ],
+        [
+          "circulation",
+          1.0
+        ],
+        [
+          "excretion",
+          1.0
+        ],
+        [
+          "movement",
+          0.9
+        ],
+        [
+          "reproduction",
+          1.0
+        ]
+      ]
+    },
+    "q3": {
+      "question": "Explain the process of human digestion.",
+      "reference_answer": "Breaking down food through mechanical (chewing, churning) and chemical (enzymes) processes from mouth through esophagus, stomach, small intestine, and large intestine.",
+      "keywords": [
+        [
+          "breaking down",
+          0.9
+        ],
+        [
+          "food",
+          0.8
+        ],
+        [
+          "mechanical",
+          0.9
+        ],
+        [
+          "chemical",
+          0.9
+        ],
+        [
+          "enzymes",
+          0.9
+        ],
+        [
+          "mouth",
+          0.9
+        ],
+        [
+          "esophagus",
+          0.9
+        ],
+        [
+          "stomach",
+          0.9
+        ],
+        [
+          "small intestine",
+          0.9
+        ],
+        [
+          "large intestine",
+          0.9
+        ]
+      ]
+    }
+  },
+  "class10_control_coordination": {
+    "q5": {
+      "question": "How do plants respond to stimuli?",
+      "reference_answer": "Through tropisms and nastic movements. Tropisms: directional growth responses to stimuli like light (phototropism), gravity (geotropism), and water (hydrotropism).",
+      "keywords": [
+        [
+          "tropisms",
+          1.0
+        ],
+        [
+          "nastic movements",
+          0.9
+        ],
+        [
+          "directional growth",
+          0.9
+        ],
+        [
+          "responses",
+          0.8
+        ],
+        [
+          "stimuli",
+          0.8
+        ],
+        [
+          "phototropism",
+          1.0
+        ],
+        [
+          "geotropism",
+          1.0
+        ],
+        [
+          "hydrotropism",
+          1.0
+        ]
+      ]
+    },
+    "q4": {
+      "question": "What are hormones and how do they function?",
+      "reference_answer": "Chemical messengers secreted by endocrine glands directly into bloodstream, acting on specific target organs to regulate physiological processes.",
+      "keywords": [
+        [
+          "chemical messengers",
+          1.0
+        ],
+        [
+          "secreted",
+          0.9
+        ],
+        [
+          "endocrine glands",
+          1.0
+        ],
+        [
+          "bloodstream",
+          0.9
+        ],
+        [
+          "target organs",
+          1.0
+        ],
+        [
+          "regulate",
+          0.9
+        ],
+        [
+          "physiological processes",
+          0.9
+        ]
+      ]
+    },
+    "q1": {
+      "question": "What is the nervous system and its components?",
+      "reference_answer": "System coordinating body activities through electrical signals. Components: central nervous system (brain, spinal cord) and peripheral nervous system (cranial, spinal nerves).",
+      "keywords": [
+        [
+          "system",
+          0.7
+        ],
+        [
+          "coordinating",
+          0.9
+        ],
+        [
+          "electrical signals",
+          0.9
+        ],
+        [
+          "central nervous system",
+          1.0
+        ],
+        [
+          "brain",
+          0.9
+        ],
+        [
+          "spinal cord",
+          0.9
+        ],
+        [
+          "peripheral nervous system",
+          1.0
+        ],
+        [
+          "cranial",
+          0.9
+        ],
+        [
+          "spinal nerves",
+          0.9
+        ]
+      ]
+    }
+  },
+  "class10_reproduction": {
+    "q4": {
+      "question": "What are the male and female reproductive organs in humans?",
+      "reference_answer": "Male: testes (produce sperm), vas deferens, seminal vesicles, prostate gland, and penis. Female: ovaries (produce eggs), fallopian tubes, uterus, and vagina.",
+      "keywords": [
+        [
+          "male",
+          0.8
+        ],
+        [
+          "testes",
+          1.0
+        ],
+        [
+          "sperm",
+          0.9
+        ],
+        [
+          "vas deferens",
+          0.9
+        ],
+        [
+          "seminal vesicles",
+          0.9
+        ],
+        [
+          "prostate gland",
+          0.9
+        ],
+        [
+          "penis",
+          0.9
+        ],
+        [
+          "female",
+          0.8
+        ],
+        [
+          "ovaries",
+          1.0
+        ],
+        [
+          "eggs",
+          0.9
+        ],
+        [
+          "fallopian tubes",
+          1.0
+        ],
+        [
+          "uterus",
+          1.0
+        ],
+        [
+          "vagina",
+          1.0
+        ]
+      ]
+    },
+    "q5": {
+      "question": "How does fertilization occur in humans?",
+      "reference_answer": "Fusion of male gamete (sperm) with female gamete (egg/ovum) typically in fallopian tube, forming zygote with complete set of chromosomes.",
+      "keywords": [
+        [
+          "fusion",
+          0.9
+        ],
+        [
+          "male gamete",
+          0.9
+        ],
+        [
+          "sperm",
+          0.9
+        ],
+        [
+          "female gamete",
+          0.9
+        ],
+        [
+          "egg/ovum",
+          0.9
+        ],
+        [
+          "fallopian tube",
+          1.0
+        ],
+        [
+          "zygote",
+          1.0
+        ],
+        [
+          "chromosomes",
+          0.9
+        ]
+      ]
+    },
+    "q3": {
+      "question": "Describe sexual reproduction in flowering plants.",
+      "reference_answer": "Involves pollination (transfer of pollen from anther to stigma), fertilization (fusion of male gamete with egg cell), and seed/fruit development.",
+      "keywords": [
+        [
+          "pollination",
+          1.0
+        ],
+        [
+          "pollen",
+          0.9
+        ],
+        [
+          "anther",
+          0.9
+        ],
+        [
+          "stigma",
+          0.9
+        ],
+        [
+          "fertilization",
+          1.0
+        ],
+        [
+          "fusion",
+          0.9
+        ],
+        [
+          "male gamete",
+          0.9
+        ],
+        [
+          "egg cell",
+          0.9
+        ],
+        [
+          "seed/fruit",
+          0.9
+        ],
+        [
+          "development",
+          0.8
+        ]
+      ]
+    }
+  },
+  "class10_heredity": {
+    "q3": {
+      "question": "Explain Mendel's laws of inheritance.",
+      "reference_answer": "Law of Dominance: dominant traits mask recessive traits; Law of Segregation: allele pairs separate during gamete formation; Law of Independent Assortment: different traits inherit independently.",
+      "keywords": [
+        [
+          "Law of Dominance",
+          1.0
+        ],
+        [
+          "dominant traits",
+          0.9
+        ],
+        [
+          "recessive traits",
+          0.9
+        ],
+        [
+          "Law of Segregation",
+          1.0
+        ],
+        [
+          "allele pairs",
+          0.9
+        ],
+        [
+          "gamete formation",
+          0.9
+        ],
+        [
+          "Law of Independent Assortment",
+          1.0
+        ],
+        [
+          "independently",
+          0.9
+        ]
+      ]
+    },
+    "q2": {
+      "question": "What are genes and chromosomes?",
+      "reference_answer": "Genes: DNA segments carrying hereditary information for specific traits. Chromosomes: thread-like structures composed of DNA and proteins carrying genes.",
+      "keywords": [
+        [
+          "genes",
+          1.0
+        ],
+        [
+          "DNA segments",
+          0.9
+        ],
+        [
+          "hereditary information",
+          0.9
+        ],
+        [
+          "traits",
+          0.9
+        ],
+        [
+          "chromosomes",
+          1.0
+        ],
+        [
+          "thread-like structures",
+          0.9
+        ],
+        [
+          "DNA and proteins",
+          0.9
+        ],
+        [
+          "carrying genes",
+          0.9
+        ]
+      ]
+    },
+    "q5": {
+      "question": "What are sex chromosomes and how do they determine gender?",
+      "reference_answer": "Chromosomes determining biological sex. Females have two X chromosomes (XX); males have one X and one Y chromosome (XY), with Y chromosome determining male development.",
+      "keywords": [
+        [
+          "sex chromosomes",
+          1.0
+        ],
+        [
+          "biological sex",
+          0.9
+        ],
+        [
+          "females",
+          0.9
+        ],
+        [
+          "XX",
+          1.0
+        ],
+        [
+          "males",
+          0.9
+        ],
+        [
+          "XY",
+          1.0
+        ],
+        [
+          "Y chromosome",
+          0.9
+        ],
+        [
+          "male development",
+          0.9
+        ]
+      ]
+    }
+  },
+  "class10_evolution": {
+    "q4": {
+      "question": "What is speciation and its types?",
+      "reference_answer": "Formation of new species through evolution. Types: allopatric (geographic isolation), sympatric (without isolation), parapatric (partial isolation), and peripatric (small population isolation).",
+      "keywords": [
+        [
+          "speciation",
+          1.0
+        ],
+        [
+          "formation",
+          0.8
+        ],
+        [
+          "new species",
+          0.9
+        ],
+        [
+          "allopatric",
+          1.0
+        ],
+        [
+          "geographic isolation",
+          0.9
+        ],
+        [
+          "sympatric",
+          1.0
+        ],
+        [
+          "without isolation",
+          0.9
+        ],
+        [
+          "parapatric",
+          1.0
+        ],
+        [
+          "partial isolation",
+          0.9
+        ],
+        [
+          "peripatric",
+          1.0
+        ],
+        [
+          "small population",
+          0.9
+        ]
+      ]
+    },
+    "q5": {
+      "question": "What are homologous and analogous organs?",
+      "reference_answer": "Homologous: similar structure and origin but different functions, indicating common ancestry. Analogous: different structure and origin but similar functions, due to convergent evolution.",
+      "keywords": [
+        [
+          "homologous",
+          1.0
+        ],
+        [
+          "similar structure",
+          0.9
+        ],
+        [
+          "origin",
+          0.9
+        ],
+        [
+          "different functions",
+          0.9
+        ],
+        [
+          "common ancestry",
+          0.9
+        ],
+        [
+          "analogous",
+          1.0
+        ],
+        [
+          "different structure",
+          0.9
+        ],
+        [
+          "similar functions",
+          0.9
+        ],
+        [
+          "convergent evolution",
+          1.0
+        ]
+      ]
+    },
+    "q1": {
+      "question": "What is evolution?",
+      "reference_answer": "Gradual process of change in heritable characteristics of a population over successive generations, leading to diversity of organisms over time.",
+      "keywords": [
+        [
+          "gradual process",
+          0.9
+        ],
+        [
+          "change",
+          0.8
+        ],
+        [
+          "heritable characteristics",
+          1.0
+        ],
+        [
+          "population",
+          0.9
+        ],
+        [
+          "successive generations",
+          0.9
+        ],
+        [
+          "diversity",
+          0.9
+        ],
+        [
+          "organisms",
+          0.8
+        ],
+        [
+          "time",
+          0.7
+        ]
+      ]
+    }
+  },
+  "class10_environment": {
+    "q3": {
+      "question": "What are biodegradable and non-biodegradable substances?",
+      "reference_answer": "Biodegradable: substances decomposed by natural processes and microorganisms into simpler compounds. Non-biodegradable: substances that cannot be decomposed naturally.",
+      "keywords": [
+        [
+          "biodegradable",
+          1.0
+        ],
+        [
+          "decomposed",
+          0.9
+        ],
+        [
+          "natural processes",
+          0.9
+        ],
+        [
+          "microorganisms",
+          0.9
+        ],
+        [
+          "simpler compounds",
+          0.9
+        ],
+        [
+          "non-biodegradable",
+          1.0
+        ],
+        [
+          "cannot be decomposed",
+          0.9
+        ],
+        [
+          "naturally",
+          0.8
+        ]
+      ]
+    },
+    "q2": {
+      "question": "What is a food chain and food web?",
+      "reference_answer": "Food chain: linear sequence of organisms through which energy transfers from producers to consumers to decomposers. Food web: interconnected multiple food chains showing feeding relationships.",
+      "keywords": [
+        [
+          "food chain",
+          1.0
+        ],
+        [
+          "linear sequence",
+          0.9
+        ],
+        [
+          "energy transfers",
+          0.9
+        ],
+        [
+          "producers",
+          0.9
+        ],
+        [
+          "consumers",
+          0.9
+        ],
+        [
+          "decomposers",
+          0.9
+        ],
+        [
+          "food web",
+          1.0
+        ],
+        [
+          "interconnected",
+          0.9
+        ],
+        [
+          "multiple food chains",
+          0.9
+        ],
+        [
+          "feeding relationships",
+          0.9
+        ]
+      ]
+    },
+    "q4": {
+      "question": "What are the causes and effects of ozone layer depletion?",
+      "reference_answer": "Causes: chlorofluorocarbons (CFCs), halons, and other ozone-depleting substances. Effects: increased UV radiation causing skin cancer, eye damage, immune system suppression, and ecosystem disruption.",
+      "keywords": [
+        [
+          "causes",
+          0.7
+        ],
+        [
+          "chlorofluorocarbons",
+          1.0
+        ],
+        [
+          "CFCs",
+          0.9
+        ],
+        [
+          "halons",
+          0.9
+        ],
+        [
+          "ozone-depleting substances",
+          0.9
+        ],
+        [
+          "effects",
+          0.7
+        ],
+        [
+          "UV radiation",
+          0.9
+        ],
+        [
+          "skin cancer",
+          0.9
+        ],
+        [
+          "eye damage",
+          0.9
+        ],
+        [
+          "immune system",
+          0.9
+        ],
+        [
+          "ecosystem disruption",
+          0.9
+        ]
+      ]
+    }
+  },
+  "class7_physical_changes": {
+    "q3": {
+      "question": "What is crystallization?",
+      "reference_answer": "Process where dissolved solid separates from solution and forms crystals with regular geometric shapes upon cooling or solvent evaporation.",
+      "keywords": [
+        [
+          "process",
+          0.7
+        ],
+        [
+          "dissolved solid",
+          0.9
+        ],
+        [
+          "separates",
+          0.9
+        ],
+        [
+          "solution",
+          0.9
+        ],
+        [
+          "crystals",
+          1.0
+        ],
+        [
+          "regular geometric shapes",
+          0.9
+        ],
+        [
+          "cooling",
+          0.9
+        ],
+        [
+          "solvent evaporation",
+          0.9
+        ]
+      ]
+    },
+    "q4": {
+      "question": "How do substances expand and contract with temperature?",
+      "reference_answer": "Substances generally expand when heated (particles move faster, increasing spacing) and contract when cooled (particles move slower, decreasing spacing).",
+      "keywords": [
+        [
+          "expand",
+          1.0
+        ],
+        [
+          "heated",
+          0.9
+        ],
+        [
+          "particles move faster",
+          0.9
+        ],
+        [
+          "increasing spacing",
+          0.9
+        ],
+        [
+          "contract",
+          1.0
+        ],
+        [
+          "cooled",
+          0.9
+        ],
+        [
+          "particles move slower",
+          0.9
+        ],
+        [
+          "decreasing spacing",
+          0.9
+        ]
+      ]
+    },
+    "q5": {
+      "question": "What is sublimation?",
+      "reference_answer": "Direct conversion of solid to gas without passing through liquid state, like dry ice converting to carbon dioxide gas.",
+      "keywords": [
+        [
+          "direct conversion",
+          0.9
+        ],
+        [
+          "solid",
+          0.9
+        ],
+        [
+          "gas",
+          0.9
+        ],
+        [
+          "without passing through",
+          0.9
+        ],
+        [
+          "liquid state",
+          0.9
+        ],
+        [
+          "dry ice",
+          0.9
+        ],
+        [
+          "carbon dioxide",
+          0.9
+        ]
+      ]
+    }
+  },
+  "class7_acids_bases_salts": {
+    "q1": {
+      "question": "What are acids and their properties?",
+      "reference_answer": "Compounds that release hydrogen ions (H\u207a) in solution. Properties: sour taste, turn blue litmus red, conduct electricity, react with metals producing hydrogen gas.",
+      "keywords": [
+        [
+          "compounds",
+          0.8
+        ],
+        [
+          "hydrogen ions",
+          1.0
+        ],
+        [
+          "H\u207a",
+          0.9
+        ],
+        [
+          "solution",
+          0.8
+        ],
+        [
+          "sour taste",
+          0.9
+        ],
+        [
+          "blue litmus red",
+          1.0
+        ],
+        [
+          "conduct electricity",
+          0.9
+        ],
+        [
+          "metals",
+          0.8
+        ],
+        [
+          "hydrogen gas",
+          0.9
+        ]
+      ]
+    },
+    "q3": {
+      "question": "What are salts and how are they formed?",
+      "reference_answer": "Ionic compounds formed through neutralization reactions between acids and bases, consisting of positive ions (except H\u207a) and negative ions (except OH\u207b).",
+      "keywords": [
+        [
+          "ionic compounds",
+          0.9
+        ],
+        [
+          "neutralization reactions",
+          1.0
+        ],
+        [
+          "acids",
+          0.9
+        ],
+        [
+          "bases",
+          0.9
+        ],
+        [
+          "positive ions",
+          0.9
+        ],
+        [
+          "except H\u207a",
+          0.9
+        ],
+        [
+          "negative ions",
+          0.9
+        ],
+        [
+          "except OH\u207b",
+          0.9
+        ]
+      ]
+    },
+    "q4": {
+      "question": "What are indicators and how do they work?",
+      "reference_answer": "Substances that change color in different pH environments, helping identify acidic or basic nature of solutions by distinctive color changes.",
+      "keywords": [
+        [
+          "substances",
+          0.7
+        ],
+        [
+          "change color",
+          1.0
+        ],
+        [
+          "pH environments",
+          0.9
+        ],
+        [
+          "identify",
+          0.8
+        ],
+        [
+          "acidic",
+          0.9
+        ],
+        [
+          "basic",
+          0.9
+        ],
+        [
+          "solutions",
+          0.8
+        ],
+        [
+          "color changes",
+          0.9
+        ]
+      ]
+    }
+  },
+  "class8_combustion": {
+    "q1": {
+      "question": "What is combustion?",
+      "reference_answer": "Chemical process where substance combines with oxygen, producing heat and light, often accompanied by flame, requiring fuel, oxygen, and ignition temperature.",
+      "keywords": [
+        [
+          "chemical process",
+          0.9
+        ],
+        [
+          "combines with oxygen",
+          1.0
+        ],
+        [
+          "heat",
+          0.9
+        ],
+        [
+          "light",
+          0.9
+        ],
+        [
+          "flame",
+          0.9
+        ],
+        [
+          "fuel",
+          0.9
+        ],
+        [
+          "oxygen",
+          0.9
+        ],
+        [
+          "ignition temperature",
+          1.0
+        ]
+      ]
+    },
+    "q4": {
+      "question": "What is a fuel and its calorific value?",
+      "reference_answer": "Substance that burns in oxygen to release energy. Calorific value: amount of heat energy produced when unit mass of fuel is completely burned.",
+      "keywords": [
+        [
+          "substance",
+          0.7
+        ],
+        [
+          "burns",
+          0.9
+        ],
+        [
+          "oxygen",
+          0.9
+        ],
+        [
+          "release energy",
+          0.9
+        ],
+        [
+          "calorific value",
+          1.0
+        ],
+        [
+          "heat energy",
+          0.9
+        ],
+        [
+          "unit mass",
+          0.9
+        ],
+        [
+          "completely burned",
+          0.9
+        ]
+      ]
+    },
+    "q3": {
+      "question": "What is a flame and its structure?",
+      "reference_answer": "Visible, gaseous part of fire where combustion occurs. Structure: inner zone (unburnt fuel), middle zone (partial combustion, luminous), outer zone (complete combustion, hottest).",
+      "keywords": [
+        [
+          "visible",
+          0.8
+        ],
+        [
+          "gaseous part",
+          0.9
+        ],
+        [
+          "fire",
+          0.8
+        ],
+        [
+          "combustion occurs",
+          0.9
+        ],
+        [
+          "inner zone",
+          1.0
+        ],
+        [
+          "unburnt fuel",
+          0.9
+        ],
+        [
+          "middle zone",
+          1.0
+        ],
+        [
+          "partial combustion",
+          0.9
+        ],
+        [
+          "outer zone",
+          1.0
+        ],
+        [
+          "complete combustion",
+          0.9
+        ],
+        [
+          "hottest",
+          0.9
+        ]
+      ]
+    }
+  },
+  "class6_light": {
+    "q1": {
+      "question": "What are luminous and non-luminous objects?",
+      "reference_answer": "Luminous objects emit their own light, like sun, stars, and burning candles. Non-luminous objects reflect light from luminous objects, like moon, planets, and most objects around us.",
+      "keywords": [
+        [
+          "luminous",
+          1.0
+        ],
+        [
+          "emit",
+          0.9
+        ],
+        [
+          "own light",
+          0.9
+        ],
+        [
+          "sun",
+          0.8
+        ],
+        [
+          "stars",
+          0.8
+        ],
+        [
+          "non-luminous",
+          1.0
+        ],
+        [
+          "reflect",
+          0.9
+        ],
+        [
+          "moon",
+          0.8
+        ],
+        [
+          "planets",
+          0.8
+        ]
+      ]
+    },
+    "q5": {
+      "question": "How do we see objects?",
+      "reference_answer": "Light from source reflects off objects, enters our eyes through pupil, focuses by lens onto retina, converting light signals to nerve impulses transmitted to brain.",
+      "keywords": [
+        [
+          "light",
+          0.8
+        ],
+        [
+          "source",
+          0.8
+        ],
+        [
+          "reflects",
+          0.9
+        ],
+        [
+          "enters",
+          0.8
+        ],
+        [
+          "eyes",
+          0.9
+        ],
+        [
+          "pupil",
+          0.9
+        ],
+        [
+          "focuses",
+          0.9
+        ],
+        [
+          "lens",
+          0.9
+        ],
+        [
+          "retina",
+          1.0
+        ],
+        [
+          "nerve impulses",
+          0.9
+        ],
+        [
+          "brain",
+          0.9
+        ]
+      ]
+    },
+    "q2": {
+      "question": "What is reflection of light?",
+      "reference_answer": "Phenomenon where light bounces back from surface it strikes, following laws of reflection: angle of incidence equals angle of reflection.",
+      "keywords": [
+        [
+          "phenomenon",
+          0.7
+        ],
+        [
+          "bounces back",
+          0.9
+        ],
+        [
+          "surface",
+          0.9
+        ],
+        [
+          "strikes",
+          0.8
+        ],
+        [
+          "laws of reflection",
+          0.9
+        ],
+        [
+          "angle of incidence",
+          1.0
+        ],
+        [
+          "equals",
+          0.8
+        ],
+        [
+          "angle of reflection",
+          1.0
+        ]
+      ]
+    }
+  },
+  "class5_air": {
+    "q4": {
+      "question": "What is air pressure?",
+      "reference_answer": "Force exerted by weight of air column above given area, decreasing with altitude and affected by temperature and humidity.",
+      "keywords": [
+        [
+          "force",
+          0.9
+        ],
+        [
+          "exerted",
+          0.8
+        ],
+        [
+          "weight",
+          0.9
+        ],
+        [
+          "air column",
+          0.9
+        ],
+        [
+          "area",
+          0.8
+        ],
+        [
+          "decreasing",
+          0.8
+        ],
+        [
+          "altitude",
+          0.9
+        ],
+        [
+          "temperature",
+          0.9
+        ],
+        [
+          "humidity",
+          0.9
+        ]
+      ]
+    },
+    "q3": {
+      "question": "What are the properties of air?",
+      "reference_answer": "Occupies space, has mass, exerts pressure, can be compressed, expands when heated, conducts heat and sound, and has weight.",
+      "keywords": [
+        [
+          "occupies space",
+          0.9
+        ],
+        [
+          "mass",
+          0.9
+        ],
+        [
+          "exerts pressure",
+          0.9
+        ],
+        [
+          "compressed",
+          0.9
+        ],
+        [
+          "expands",
+          0.9
+        ],
+        [
+          "heated",
+          0.8
+        ],
+        [
+          "conducts heat",
+          0.9
+        ],
+        [
+          "sound",
+          0.8
+        ],
+        [
+          "weight",
+          0.9
+        ]
+      ]
+    },
+    "q5": {
+      "question": "How does air help in weather formation?",
+      "reference_answer": "Movement of air masses with different temperatures and humidity creates winds, clouds, precipitation, and diverse weather patterns around Earth.",
+      "keywords": [
+        [
+          "movement",
+          0.9
+        ],
+        [
+          "air masses",
+          0.9
+        ],
+        [
+          "different temperatures",
+          0.9
+        ],
+        [
+          "humidity",
+          0.9
+        ],
+        [
+          "winds",
+          0.9
+        ],
+        [
+          "clouds",
+          0.9
+        ],
+        [
+          "precipitation",
+          0.9
+        ],
+        [
+          "weather patterns",
+          0.9
+        ]
+      ]
+    }
+  },
+  "class5_water": {
+    "q2": {
+      "question": "What is the water cycle?",
+      "reference_answer": "Continuous movement of water on, above, and below Earth's surface through evaporation, condensation, precipitation, runoff, and infiltration.",
+      "keywords": [
+        [
+          "continuous movement",
+          0.9
+        ],
+        [
+          "on, above, and below",
+          0.9
+        ],
+        [
+          "Earth's surface",
+          0.9
+        ],
+        [
+          "evaporation",
+          1.0
+        ],
+        [
+          "condensation",
+          1.0
+        ],
+        [
+          "precipitation",
+          1.0
+        ],
+        [
+          "runoff",
+          0.9
+        ],
+        [
+          "infiltration",
+          0.9
+        ]
+      ]
+    },
+    "q4": {
+      "question": "What is water pollution and its causes?",
+      "reference_answer": "Contamination of water bodies making water unfit for use. Causes: industrial waste, sewage, agricultural chemicals, oil spills, and improper waste disposal.",
+      "keywords": [
+        [
+          "contamination",
+          0.9
+        ],
+        [
+          "water bodies",
+          0.9
+        ],
+        [
+          "unfit",
+          0.9
+        ],
+        [
+          "industrial waste",
+          0.9
+        ],
+        [
+          "sewage",
+          0.9
+        ],
+        [
+          "agricultural chemicals",
+          0.9
+        ],
+        [
+          "oil spills",
+          0.9
+        ],
+        [
+          "waste disposal",
+          0.9
+        ]
+      ]
+    },
+    "q5": {
+      "question": "How can we conserve water?",
+      "reference_answer": "Fix leaking taps, use water-efficient appliances, harvest rainwater, reuse water when possible, and develop water-saving habits in daily activities.",
+      "keywords": [
+        [
+          "fix leaking taps",
+          0.9
+        ],
+        [
+          "water-efficient appliances",
+          0.9
+        ],
+        [
+          "harvest rainwater",
+          0.9
+        ],
+        [
+          "reuse water",
+          0.9
+        ],
+        [
+          "water-saving habits",
+          0.9
+        ],
+        [
+          "daily activities",
+          0.8
+        ]
+      ]
+    }
+  },
+  "class9_natural_resources": {
+    "q4": {
+      "question": "What are the causes and effects of deforestation?",
+      "reference_answer": "Causes: agriculture expansion, logging, urbanization, and mining. Effects: soil erosion, biodiversity loss, climate change, altered water cycles, and habitat destruction.",
+      "keywords": [
+        [
+          "causes",
+          0.7
+        ],
+        [
+          "agriculture expansion",
+          0.9
+        ],
+        [
+          "logging",
+          0.9
+        ],
+        [
+          "urbanization",
+          0.9
+        ],
+        [
+          "mining",
+          0.9
+        ],
+        [
+          "effects",
+          0.7
+        ],
+        [
+          "soil erosion",
+          0.9
+        ],
+        [
+          "biodiversity loss",
+          0.9
+        ],
+        [
+          "climate change",
+          0.9
+        ],
+        [
+          "water cycles",
+          0.9
+        ],
+        [
+          "habitat destruction",
+          0.9
+        ]
+      ]
+    },
+    "q3": {
+      "question": "What is soil erosion and its causes?",
+      "reference_answer": "Removal of topsoil by natural physical forces or human activities. Causes: deforestation, overgrazing, improper farming practices, construction, and natural factors like wind and water.",
+      "keywords": [
+        [
+          "removal",
+          0.9
+        ],
+        [
+          "topsoil",
+          1.0
+        ],
+        [
+          "natural physical forces",
+          0.9
+        ],
+        [
+          "human activities",
+          0.9
+        ],
+        [
+          "deforestation",
+          0.9
+        ],
+        [
+          "overgrazing",
+          0.9
+        ],
+        [
+          "improper farming",
+          0.9
+        ],
+        [
+          "construction",
+          0.8
+        ],
+        [
+          "wind",
+          0.8
+        ],
+        [
+          "water",
+          0.8
+        ]
+      ]
+    },
+    "q1": {
+      "question": "What are natural resources?",
+      "reference_answer": "Materials or substances occurring naturally in environment that humans use for economic and social needs, classified as renewable or non-renewable.",
+      "keywords": [
+        [
+          "materials",
+          0.9
+        ],
+        [
+          "substances",
+          0.9
+        ],
+        [
+          "occurring naturally",
+          0.9
+        ],
+        [
+          "environment",
+          0.8
+        ],
+        [
+          "economic",
+          0.9
+        ],
+        [
+          "social needs",
+          0.9
+        ],
+        [
+          "renewable",
+          0.9
+        ],
+        [
+          "non-renewable",
+          0.9
+        ]
+      ]
+    }
+  },
+  "class9_human_health": {
+    "q4": {
+      "question": "What are the principles of good health?",
+      "reference_answer": "Balanced nutrition, regular physical activity, adequate rest and sleep, personal hygiene, stress management, and avoiding harmful substances and habits.",
+      "keywords": [
+        [
+          "balanced nutrition",
+          0.9
+        ],
+        [
+          "regular physical activity",
+          0.9
+        ],
+        [
+          "adequate rest",
+          0.9
+        ],
+        [
+          "sleep",
+          0.9
+        ],
+        [
+          "personal hygiene",
+          0.9
+        ],
+        [
+          "stress management",
+          0.9
+        ],
+        [
+          "avoiding harmful substances",
+          0.9
+        ],
+        [
+          "habits",
+          0.8
+        ]
+      ]
+    },
+    "q3": {
+      "question": "What are non-communicable diseases and their causes?",
+      "reference_answer": "Diseases not transmitted between individuals, usually chronic and long-term. Causes: genetic factors, lifestyle choices, environmental exposures, and aging.",
+      "keywords": [
+        [
+          "not transmitted",
+          0.9
+        ],
+        [
+          "between individuals",
+          0.9
+        ],
+        [
+          "chronic",
+          0.9
+        ],
+        [
+          "long-term",
+          0.9
+        ],
+        [
+          "genetic factors",
+          0.9
+        ],
+        [
+          "lifestyle choices",
+          0.9
+        ],
+        [
+          "environmental exposures",
+          0.9
+        ],
+        [
+          "aging",
+          0.9
+        ]
+      ]
+    },
+    "q5": {
+      "question": "How do vaccines work?",
+      "reference_answer": "Introduce weakened or inactive pathogens or their parts to stimulate immune system to produce antibodies, creating immunity without causing disease.",
+      "keywords": [
+        [
+          "introduce",
+          0.8
+        ],
+        [
+          "weakened",
+          0.9
+        ],
+        [
+          "inactive pathogens",
+          0.9
+        ],
+        [
+          "parts",
+          0.8
+        ],
+        [
+          "stimulate",
+          0.9
+        ],
+        [
+          "immune system",
+          0.9
+        ],
+        [
+          "antibodies",
+          1.0
+        ],
+        [
+          "immunity",
+          0.9
+        ],
+        [
+          "without causing disease",
+          0.9
+        ]
+      ]
+    }
+  },
+  "class9_cell_division": {
+    "q2": {
+      "question": "What is the cell cycle?",
+      "reference_answer": "Sequence of events between one cell division and next, comprising interphase (G\u2081, S, G\u2082 phases) and mitotic phase (mitosis and cytokinesis).",
+      "keywords": [
+        [
+          "sequence",
+          0.9
+        ],
+        [
+          "events",
+          0.8
+        ],
+        [
+          "cell division",
+          0.9
+        ],
+        [
+          "interphase",
+          1.0
+        ],
+        [
+          "G\u2081",
+          0.9
+        ],
+        [
+          "S",
+          0.9
+        ],
+        [
+          "G\u2082",
+          0.9
+        ],
+        [
+          "mitotic phase",
+          1.0
+        ],
+        [
+          "mitosis",
+          0.9
+        ],
+        [
+          "cytokinesis",
+          0.9
+        ]
+      ]
+    },
+    "q4": {
+      "question": "What is meiosis and how is it different from mitosis?",
+      "reference_answer": "Division producing four haploid cells from diploid cell, essential for sexual reproduction. Unlike mitosis, involves two consecutive divisions, genetic recombination, and produces genetically diverse cells.",
+      "keywords": [
+        [
+          "division",
+          0.8
+        ],
+        [
+          "four haploid cells",
+          0.9
+        ],
+        [
+          "diploid cell",
+          0.9
+        ],
+        [
+          "sexual reproduction",
+          0.9
+        ],
+        [
+          "unlike mitosis",
+          0.9
+        ],
+        [
+          "two consecutive divisions",
+          1.0
+        ],
+        [
+          "genetic recombination",
+          1.0
+        ],
+        [
+          "genetically diverse",
+          0.9
+        ]
+      ]
+    },
+    "q5": {
+      "question": "What is cytokinesis?",
+      "reference_answer": "Final phase of cell division where cytoplasm divides, forming two separate daughter cells after nuclear division (mitosis or meiosis).",
+      "keywords": [
+        [
+          "final phase",
+          0.9
+        ],
+        [
+          "cell division",
+          0.9
+        ],
+        [
+          "cytoplasm divides",
+          1.0
+        ],
+        [
+          "two separate",
+          0.9
+        ],
+        [
+          "daughter cells",
+          0.9
+        ],
+        [
+          "after nuclear division",
+          0.9
+        ],
+        [
+          "mitosis",
+          0.8
+        ],
+        [
+          "meiosis",
+          0.8
+        ]
+      ]
+    }
+  },
+  "class10_genetics_biotechnology": {
+    "q2": {
+      "question": "What is gene expression?",
+      "reference_answer": "Process where genetic information from DNA is used to synthesize functional gene products (proteins or RNA) through transcription and translation.",
+      "keywords": [
+        [
+          "process",
+          0.7
+        ],
+        [
+          "genetic information",
+          0.9
+        ],
+        [
+          "DNA",
+          0.9
+        ],
+        [
+          "synthesize",
+          0.9
+        ],
+        [
+          "functional gene products",
+          0.9
+        ],
+        [
+          "proteins",
+          0.9
+        ],
+        [
+          "RNA",
+          0.9
+        ],
+        [
+          "transcription",
+          1.0
+        ],
+        [
+          "translation",
+          1.0
+        ]
+      ]
+    },
+    "q5": {
+      "question": "What are genetically modified organisms (GMOs)?",
+      "reference_answer": "Organisms whose genetic material has been altered using genetic engineering techniques, modifying characteristics for agricultural, industrial, or medical purposes.",
+      "keywords": [
+        [
+          "organisms",
+          0.8
+        ],
+        [
+          "genetic material",
+          0.9
+        ],
+        [
+          "altered",
+          0.9
+        ],
+        [
+          "genetic engineering techniques",
+          0.9
+        ],
+        [
+          "modifying characteristics",
+          0.9
+        ],
+        [
+          "agricultural",
+          0.9
+        ],
+        [
+          "industrial",
+          0.9
+        ],
+        [
+          "medical purposes",
+          0.9
+        ]
+      ]
+    },
+    "q1": {
+      "question": "What is DNA and its structure?",
+      "reference_answer": "Deoxyribonucleic acid, genetic material storing hereditary information. Double helix structure with two complementary strands of nucleotides containing phosphate, deoxyribose sugar, and nitrogenous bases.",
+      "keywords": [
+        [
+          "Deoxyribonucleic acid",
+          1.0
+        ],
+        [
+          "genetic material",
+          0.9
+        ],
+        [
+          "hereditary information",
+          0.9
+        ],
+        [
+          "double helix",
+          1.0
+        ],
+        [
+          "complementary strands",
+          0.9
+        ],
+        [
+          "nucleotides",
+          0.9
+        ],
+        [
+          "phosphate",
+          0.9
+        ],
+        [
+          "deoxyribose",
+          0.9
+        ],
+        [
+          "nitrogenous bases",
+          0.9
+        ]
+      ]
+    }
+  },
+  "class8_rocks_minerals": {
+    "q3": {
+      "question": "What are minerals and their properties?",
+      "reference_answer": "Naturally occurring inorganic solids with definite chemical composition and crystal structure. Properties: hardness, luster, color, streak, cleavage, fracture, and specific gravity.",
+      "keywords": [
+        [
+          "naturally occurring",
+          0.9
+        ],
+        [
+          "inorganic",
+          0.9
+        ],
+        [
+          "solids",
+          0.8
+        ],
+        [
+          "definite chemical composition",
+          0.9
+        ],
+        [
+          "crystal structure",
+          0.9
+        ],
+        [
+          "hardness",
+          0.9
+        ],
+        [
+          "luster",
+          0.9
+        ],
+        [
+          "color",
+          0.8
+        ],
+        [
+          "streak",
+          0.9
+        ],
+        [
+          "cleavage",
+          0.9
+        ],
+        [
+          "fracture",
+          0.9
+        ],
+        [
+          "specific gravity",
+          0.9
+        ]
+      ]
+    },
+    "q2": {
+      "question": "What is the rock cycle?",
+      "reference_answer": "Continuous process where rocks transform between three types (igneous, sedimentary, metamorphic) through processes like cooling, weathering, erosion, compaction, melting, and metamorphism.",
+      "keywords": [
+        [
+          "continuous process",
+          0.9
+        ],
+        [
+          "transform",
+          0.9
+        ],
+        [
+          "three types",
+          0.9
+        ],
+        [
+          "igneous",
+          0.9
+        ],
+        [
+          "sedimentary",
+          0.9
+        ],
+        [
+          "metamorphic",
+          0.9
+        ],
+        [
+          "cooling",
+          0.9
+        ],
+        [
+          "weathering",
+          0.9
+        ],
+        [
+          "erosion",
+          0.9
+        ],
+        [
+          "compaction",
+          0.9
+        ],
+        [
+          "melting",
+          0.9
+        ],
+        [
+          "metamorphism",
+          0.9
+        ]
+      ]
+    },
+    "q1": {
+      "question": "What are rocks and their types?",
+      "reference_answer": "Naturally occurring solid aggregates of minerals. Types: igneous (from molten magma), sedimentary (from compressed sediments), and metamorphic (transformed by heat/pressure).",
+      "keywords": [
+        [
+          "naturally occurring",
+          0.9
+        ],
+        [
+          "solid aggregates",
+          0.9
+        ],
+        [
+          "minerals",
+          0.9
+        ],
+        [
+          "igneous",
+          1.0
+        ],
+        [
+          "molten magma",
+          0.9
+        ],
+        [
+          "sedimentary",
+          1.0
+        ],
+        [
+          "compressed sediments",
+          0.9
+        ],
+        [
+          "metamorphic",
+          1.0
+        ],
+        [
+          "heat/pressure",
+          0.9
+        ]
+      ]
+    }
+  },
+  "class8_stars_solar_system": {
+    "q5": {
+      "question": "What is the difference between a planet and a dwarf planet?",
+      "reference_answer": "Planets orbit Sun, have sufficient mass for self-gravity to maintain nearly round shape, and have cleared neighborhood around orbit. Dwarf planets satisfy first two criteria but not third.",
+      "keywords": [
+        [
+          "orbit Sun",
+          0.9
+        ],
+        [
+          "sufficient mass",
+          0.9
+        ],
+        [
+          "self-gravity",
+          0.9
+        ],
+        [
+          "round shape",
+          0.9
+        ],
+        [
+          "cleared neighborhood",
+          1.0
+        ],
+        [
+          "orbit",
+          0.8
+        ],
+        [
+          "dwarf planets",
+          0.9
+        ],
+        [
+          "satisfy first two",
+          0.9
+        ],
+        [
+          "not third",
+          0.9
+        ]
+      ]
+    },
+    "q3": {
+      "question": "What are constellations?",
+      "reference_answer": "Patterns of stars perceived as recognizable shapes, named after mythological figures, animals, or objects. Used for navigation and marking seasons throughout history.",
+      "keywords": [
+        [
+          "patterns",
+          0.9
+        ],
+        [
+          "stars",
+          0.9
+        ],
+        [
+          "recognizable shapes",
+          0.9
+        ],
+        [
+          "named after",
+          0.8
+        ],
+        [
+          "mythological figures",
+          0.9
+        ],
+        [
+          "animals",
+          0.8
+        ],
+        [
+          "objects",
+          0.8
+        ],
+        [
+          "navigation",
+          0.9
+        ],
+        [
+          "marking seasons",
+          0.9
+        ]
+      ]
+    },
+    "q1": {
+      "question": "What is the solar system?",
+      "reference_answer": "System consisting of Sun at center, with eight planets, dwarf planets, moons, asteroids, comets, and other celestial bodies orbiting around it.",
+      "keywords": [
+        [
+          "system",
+          0.7
+        ],
+        [
+          "Sun",
+          0.9
+        ],
+        [
+          "center",
+          0.8
+        ],
+        [
+          "eight planets",
+          0.9
+        ],
+        [
+          "dwarf planets",
+          0.9
+        ],
+        [
+          "moons",
+          0.9
+        ],
+        [
+          "asteroids",
+          0.9
+        ],
+        [
+          "comets",
+          0.9
+        ],
+        [
+          "celestial bodies",
+          0.9
+        ],
+        [
+          "orbiting",
+          0.9
+        ]
+      ]
+    }
+  }
+}

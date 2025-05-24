@@ -1,0 +1,424 @@
+{
+  "class9_motion": {
+    "q1": {
+      "question": "Define speed, velocity and acceleration.",
+      "reference_answer": "Speed: distance traveled per unit time; velocity: displacement per unit time (with direction); acceleration: rate of change of velocity.",
+      "keywords": [
+        ["speed", 1.0], ["distance", 0.9], ["time", 0.8], 
+        ["velocity", 1.0], ["displacement", 0.9], ["direction", 0.9], 
+        ["acceleration", 1.0], ["rate of change", 0.9]
+      ]
+    },
+    "q2": {
+      "question": "State Newton's laws of motion.",
+      "reference_answer": "First: Objects remain at rest/motion unless external force acts. Second: F=ma. Third: Every action has equal and opposite reaction.",
+      "keywords": [
+        ["first law", 1.0], ["rest", 0.8], ["motion", 0.8], ["force", 0.8], 
+        ["second law", 1.0], ["F=ma", 1.0], ["third law", 1.0], ["action", 0.9], ["reaction", 0.9]
+      ]
+    },
+    "q3": {
+      "question": "What is momentum?",
+      "reference_answer": "Product of an object's mass and velocity, a vector quantity measured in kg·m/s, indicating motion quantity.",
+      "keywords": [
+        ["product", 0.9], ["mass", 1.0], ["velocity", 1.0], 
+        ["vector quantity", 0.9], ["kg·m/s", 0.9], ["motion quantity", 0.8]
+      ]
+    },
+    "q4": {
+      "question": "What is friction and its types?",
+      "reference_answer": "Force opposing relative motion between surfaces. Types: static (prevents motion), kinetic (during motion), rolling, and fluid friction.",
+      "keywords": [
+        ["force", 0.9], ["opposing", 0.9], ["relative motion", 0.9], 
+        ["surfaces", 0.8], ["static", 1.0], ["kinetic", 1.0], ["rolling", 0.9], ["fluid", 0.9]
+      ]
+    },
+    "q5": {
+      "question": "State and explain the law of conservation of momentum.",
+      "reference_answer": "Total momentum of an isolated system remains constant regardless of interactions between its parts if no external force acts.",
+      "keywords": [
+        ["total momentum", 1.0], ["isolated system", 0.9], ["constant", 0.9], 
+        ["interactions", 0.8], ["parts", 0.7], ["no external force", 0.9]
+      ]
+    }
+  },
+  "class9_force": {
+    "q1": {
+      "question": "What is force?",
+      "reference_answer": "Push or pull that changes or tends to change object's state of rest or motion or direction of motion.",
+      "keywords": [
+        ["push", 1.0], ["pull", 1.0], ["changes", 0.9], 
+        ["state of rest", 0.9], ["motion", 0.9], ["direction", 0.9]
+      ]
+    },
+    "q2": {
+      "question": "What is the gravitational force?",
+      "reference_answer": "Attractive force between any two objects with mass, directly proportional to masses and inversely proportional to square of distance.",
+      "keywords": [
+        ["attractive", 0.9], ["two objects", 0.8], ["mass", 0.9], 
+        ["directly proportional", 0.9], ["masses", 0.8], ["inversely proportional", 0.9], ["square of distance", 0.9]
+      ]
+    },
+    "q3": {
+      "question": "What is the difference between mass and weight?",
+      "reference_answer": "Mass is amount of matter (constant); weight is gravitational force acting on object (varies with location's gravitational field).",
+      "keywords": [
+        ["mass", 1.0], ["amount of matter", 0.9], ["constant", 0.9], 
+        ["weight", 1.0], ["gravitational force", 0.9], ["varies", 0.8], ["location", 0.8]
+      ]
+    },
+    "q4": {
+      "question": "What is acceleration due to gravity?",
+      "reference_answer": "Rate at which speed of falling object increases due to gravitational force, approximately 9.8 m/s² on Earth's surface.",
+      "keywords": [
+        ["rate", 0.8], ["speed", 0.8], ["falling object", 0.9], 
+        ["increases", 0.8], ["gravitational force", 0.9], ["9.8 m/s²", 1.0], ["Earth's surface", 0.9]
+      ]
+    },
+    "q5": {
+      "question": "What is the difference between g and G?",
+      "reference_answer": "g is acceleration due to gravity at specific location (9.8 m/s² on Earth); G is universal gravitational constant (6.67×10⁻¹¹ N·m²/kg²).",
+      "keywords": [
+        ["g", 1.0], ["acceleration due to gravity", 0.9], ["9.8 m/s²", 0.9], 
+        ["G", 1.0], ["universal gravitational constant", 0.9], ["6.67×10⁻¹¹", 0.9], ["N·m²/kg²", 0.9]
+      ]
+    }
+  },
+  "class9_work_energy": {
+    "q1": {
+      "question": "What is work in physics?",
+      "reference_answer": "Product of force and displacement in force direction, measured in joules, occurring only when force causes displacement.",
+      "keywords": [
+        ["product", 0.9], ["force", 0.9], ["displacement", 0.9], 
+        ["force direction", 1.0], ["joules", 0.9], ["causes displacement", 0.8]
+      ]
+    },
+    "q2": {
+      "question": "What is energy?",
+      "reference_answer": "Capacity to do work, existing in various forms (kinetic, potential, thermal, etc.), measured in joules, always conserved.",
+      "keywords": [
+        ["capacity", 0.9], ["do work", 0.9], ["forms", 0.8], 
+        ["kinetic", 0.9], ["potential", 0.9], ["joules", 0.9], ["conserved", 0.9]
+      ]
+    },
+    "q3": {
+      "question": "What is the law of conservation of energy?",
+      "reference_answer": "Energy can neither be created nor destroyed, only transformed from one form to another, with total energy remaining constant.",
+      "keywords": [
+        ["neither created", 0.9], ["nor destroyed", 0.9], ["transformed", 1.0], 
+        ["one form to another", 0.9], ["total energy", 0.9], ["constant", 0.9]
+      ]
+    },
+    "q4": {
+      "question": "What is power?",
+      "reference_answer": "Rate of doing work or energy transfer, measured in watts (joules per second), indicates how quickly work is done.",
+      "keywords": [
+        ["rate", 1.0], ["doing work", 0.9], ["energy transfer", 0.9], 
+        ["watts", 0.9], ["joules per second", 0.9], ["quickly", 0.8]
+      ]
+    },
+    "q5": {
+      "question": "Explain kinetic and potential energy with examples.",
+      "reference_answer": "Kinetic energy: energy of motion (moving car, falling object); potential energy: stored energy due to position/configuration (raised weight, compressed spring).",
+      "keywords": [
+        ["kinetic energy", 1.0], ["motion", 0.9], ["moving car", 0.8], 
+        ["potential energy", 1.0], ["stored", 0.9], ["position", 0.9], ["raised weight", 0.8], ["compressed spring", 0.8]
+      ]
+    }
+  },
+  "class9_sound": {
+    "q1": {
+      "question": "What is sound and how is it produced?",
+      "reference_answer": "Mechanical wave requiring medium, produced by vibrating objects creating compressions and rarefactions that travel through medium as longitudinal waves.",
+      "keywords": [
+        ["mechanical wave", 0.9], ["medium", 0.9], ["vibrating objects", 1.0], 
+        ["compressions", 0.9], ["rarefactions", 0.9], ["longitudinal waves", 1.0]
+      ]
+    },
+    "q2": {
+      "question": "What are the characteristics of sound waves?",
+      "reference_answer": "Wavelength, frequency (pitch), amplitude (loudness), speed (dependent on medium), and quality/timbre (waveform shape).",
+      "keywords": [
+        ["wavelength", 0.9], ["frequency", 1.0], ["pitch", 0.9], 
+        ["amplitude", 1.0], ["loudness", 0.9], ["speed", 0.9], ["quality", 0.9], ["timbre", 0.9]
+      ]
+    },
+    "q3": {
+      "question": "What factors affect the speed of sound?",
+      "reference_answer": "Medium type (fastest in solids, slower in liquids, slowest in gases), temperature (increases with temperature), and humidity.",
+      "keywords": [
+        ["medium type", 1.0], ["solids", 0.9], ["liquids", 0.9], 
+        ["gases", 0.9], ["temperature", 1.0], ["increases", 0.8], ["humidity", 0.9]
+      ]
+    },
+    "q4": {
+      "question": "What is reflection of sound?",
+      "reference_answer": "Bouncing back of sound waves upon striking a surface, following law of reflection; causes echo when delay is at least 0.1 second.",
+      "keywords": [
+        ["bouncing back", 0.9], ["sound waves", 0.8], ["surface", 0.8], 
+        ["law of reflection", 0.9], ["echo", 1.0], ["delay", 0.9], ["0.1 second", 0.9]
+      ]
+    },
+    "q5": {
+      "question": "What is resonance?",
+      "reference_answer": "Phenomenon where object vibrates with maximum amplitude at specific frequencies (natural frequencies), absorbing energy efficiently from driving force.",
+      "keywords": [
+        ["phenomenon", 0.7], ["vibrates", 0.9], ["maximum amplitude", 0.9], 
+        ["specific frequencies", 0.9], ["natural frequencies", 1.0], ["absorbing energy", 0.9], ["driving force", 0.9]
+      ]
+    }
+  },
+  "class9_light": {
+    "q1": {
+      "question": "What is light?",
+      "reference_answer": "Form of electromagnetic radiation visible to human eye, traveling as waves and particles (photons), with wavelengths between 380-750 nm.",
+      "keywords": [
+        ["electromagnetic radiation", 1.0], ["visible", 0.9], ["human eye", 0.8], 
+        ["waves", 0.9], ["particles", 0.9], ["photons", 0.9], ["380-750 nm", 0.9]
+      ]
+    },
+    "q2": {
+      "question": "What are the laws of reflection of light?",
+      "reference_answer": "Angle of incidence equals angle of reflection; incident ray, reflected ray, and normal all lie in same plane.",
+      "keywords": [
+        ["angle of incidence", 1.0], ["angle of reflection", 1.0], ["equals", 0.9], 
+        ["incident ray", 0.9], ["reflected ray", 0.9], ["normal", 0.9], ["same plane", 0.9]
+      ]
+    },
+    "q3": {
+      "question": "What is refraction of light?",
+      "reference_answer": "Bending of light when it passes from one transparent medium to another due to speed change, following Snell's Law.",
+      "keywords": [
+        ["bending", 1.0], ["light", 0.8], ["transparent medium", 0.9], 
+        ["speed change", 0.9], ["Snell's Law", 1.0]
+      ]
+    },
+    "q4": {
+      "question": "What is a spherical mirror and its types?",
+      "reference_answer": "Mirror with reflecting surface forming part of sphere. Types: concave (inward curve, converging) and convex (outward curve, diverging).",
+      "keywords": [
+        ["reflecting surface", 0.9], ["sphere", 0.9], ["concave", 1.0], 
+        ["inward curve", 0.9], ["converging", 0.9], ["convex", 1.0], ["outward curve", 0.9], ["diverging", 0.9]
+      ]
+    },
+    "q5": {
+      "question": "What is a lens and its types?",
+      "reference_answer": "Transparent material with at least one curved surface. Types: convex/converging (thicker in middle) and concave/diverging (thicker at edges).",
+      "keywords": [
+        ["transparent material", 0.9], ["curved surface", 0.9], ["convex", 1.0], 
+        ["converging", 0.9], ["thicker in middle", 0.9], ["concave", 1.0], ["diverging", 0.9], ["thicker at edges", 0.9]
+      ]
+    }
+  },
+  "class10_electricity": {
+    "q1": {
+      "question": "What is electric current?",
+      "reference_answer": "Flow of electric charge (typically electrons) through a conductor, measured in amperes (A), flowing from higher to lower potential.",
+      "keywords": [
+        ["flow", 0.9], ["electric charge", 0.9], ["electrons", 0.9], 
+        ["conductor", 0.9], ["amperes", 1.0], ["higher", 0.8], ["lower potential", 0.8]
+      ]
+    },
+    "q2": {
+      "question": "State Ohm's law.",
+      "reference_answer": "Current through conductor is directly proportional to potential difference across it at constant temperature (V=IR).",
+      "keywords": [
+        ["current", 0.9], ["conductor", 0.8], ["directly proportional", 1.0], 
+        ["potential difference", 0.9], ["constant temperature", 0.9], ["V=IR", 1.0]
+      ]
+    },
+    "q3": {
+      "question": "What factors affect resistance of a conductor?",
+      "reference_answer": "Length (directly proportional), cross-sectional area (inversely proportional), material (resistivity), and temperature.",
+      "keywords": [
+        ["length", 1.0], ["directly proportional", 0.9], ["cross-sectional area", 1.0], 
+        ["inversely proportional", 0.9], ["material", 0.9], ["resistivity", 0.9], ["temperature", 0.9]
+      ]
+    },
+    "q4": {
+      "question": "What is the difference between series and parallel circuits?",
+      "reference_answer": "Series: components in single path, same current, voltages add; Parallel: components in branch paths, same voltage, currents add.",
+      "keywords": [
+        ["series", 1.0], ["single path", 0.9], ["same current", 0.9], 
+        ["voltages add", 0.9], ["parallel", 1.0], ["branch paths", 0.9], ["same voltage", 0.9], ["currents add", 0.9]
+      ]
+    },
+    "q5": {
+      "question": "What is Joule's law of heating?",
+      "reference_answer": "Heat produced in resistor is directly proportional to square of current, resistance, and time (H=I²Rt).",
+      "keywords": [
+        ["heat", 0.9], ["resistor", 0.9], ["directly proportional", 0.9], 
+        ["square of current", 1.0], ["resistance", 0.9], ["time", 0.9], ["H=I²Rt", 1.0]
+      ]
+    }
+  },
+  "class10_magnets": {
+    "q1": {
+      "question": "What is a magnetic field?",
+      "reference_answer": "Region around magnet where magnetic force is experienced by magnetic materials or moving charged particles.",
+      "keywords": [
+        ["region", 0.8], ["around magnet", 0.9], ["magnetic force", 0.9], 
+        ["experienced", 0.8], ["magnetic materials", 0.9], ["moving charged particles", 0.9]
+      ]
+    },
+    "q2": {
+      "question": "Explain Fleming's left-hand rule.",
+      "reference_answer": "When thumb, forefinger, and middle finger are held mutually perpendicular, they represent direction of motion, magnetic field, and current respectively.",
+      "keywords": [
+        ["thumb", 0.9], ["forefinger", 0.9], ["middle finger", 0.9], 
+        ["mutually perpendicular", 1.0], ["motion", 0.9], ["magnetic field", 0.9], ["current", 0.9]
+      ]
+    },
+    "q3": {
+      "question": "What is a solenoid?",
+      "reference_answer": "Coil of wire wound in helical form, producing uniform magnetic field inside when current passes, with field lines resembling bar magnet.",
+      "keywords": [
+        ["coil", 0.9], ["wire", 0.8], ["helical", 0.9], 
+        ["uniform magnetic field", 1.0], ["current passes", 0.9], ["field lines", 0.9], ["bar magnet", 0.9]
+      ]
+    },
+    "q4": {
+      "question": "What is electromagnetic induction?",
+      "reference_answer": "Production of electromotive force (voltage) across conductor when exposed to changing magnetic field, discovered by Michael Faraday.",
+      "keywords": [
+        ["production", 0.8], ["electromotive force", 0.9], ["voltage", 0.9], 
+        ["conductor", 0.9], ["changing magnetic field", 1.0], ["Michael Faraday", 0.9]
+      ]
+    },
+    "q5": {
+      "question": "State the factors affecting induced current in electromagnetic induction.",
+      "reference_answer": "Strength of magnetic field, rate of change of magnetic flux, number of conductor turns, and relative motion between conductor and magnet.",
+      "keywords": [
+        ["strength", 0.9], ["magnetic field", 0.9], ["rate of change", 1.0], 
+        ["magnetic flux", 1.0], ["number of turns", 0.9], ["relative motion", 0.9], ["conductor", 0.8], ["magnet", 0.8]
+      ]
+    }
+  },
+  "class10_chemical_reactions": {
+    "q1": {
+      "question": "What is a chemical reaction?",
+      "reference_answer": "Process where substances (reactants) transform into new substances (products) by breaking and forming chemical bonds.",
+      "keywords": [
+        ["process", 0.8], ["substances", 0.8], ["reactants", 0.9], 
+        ["transform", 0.9], ["products", 0.9], ["breaking", 0.9], ["forming", 0.9], ["chemical bonds", 1.0]
+      ]
+    },
+    "q2": {
+      "question": "What are the types of chemical reactions?",
+      "reference_answer": "Combination, decomposition, displacement (single/double), redox, precipitation, neutralization, combustion, and polymerization reactions.",
+      "keywords": [
+        ["combination", 0.9], ["decomposition", 0.9], ["displacement", 0.9], 
+        ["redox", 0.9], ["precipitation", 0.9], ["neutralization", 0.9], ["combustion", 0.9], ["polymerization", 0.9]
+      ]
+    },
+    "q3": {
+      "question": "What is a redox reaction?",
+      "reference_answer": "Reaction involving electron transfer, with oxidation (loss of electrons) and reduction (gain of electrons) occurring simultaneously.",
+      "keywords": [
+        ["electron transfer", 1.0], ["oxidation", 1.0], ["loss of electrons", 0.9], 
+        ["reduction", 1.0], ["gain of electrons", 0.9], ["simultaneously", 0.9]
+      ]
+    },
+    "q4": {
+      "question": "What are the indicators of a chemical reaction?",
+      "reference_answer": "Change in state, color change, temperature change, gas evolution, precipitation formation, and light/sound production.",
+      "keywords": [
+        ["change in state", 0.9], ["color change", 0.9], ["temperature change", 0.9], 
+        ["gas evolution", 0.9], ["precipitation formation", 0.9], ["light", 0.8], ["sound", 0.8]
+      ]
+    },
+    "q5": {
+      "question": "What is a balanced chemical equation?",
+      "reference_answer": "Equation with equal number of atoms of each element on both sides, following law of conservation of mass.",
+      "keywords": [
+        ["equal number", 0.9], ["atoms", 0.9], ["each element", 0.9], 
+        ["both sides", 0.9], ["law of conservation of mass", 1.0]
+      ]
+    }
+  },
+  "class10_acids_bases": {
+    "q1": {
+      "question": "What are acids and bases?",
+      "reference_answer": "Acids: substances that donate protons (H⁺), taste sour, turn blue litmus red; Bases: substances that accept protons or donate OH⁻, taste bitter, turn red litmus blue.",
+      "keywords": [
+        ["acids", 1.0], ["donate protons", 0.9], ["H⁺", 0.9], ["sour", 0.8], 
+        ["blue litmus red", 0.9], ["bases", 1.0], ["accept protons", 0.9], ["donate OH⁻", 0.9], ["bitter", 0.8], ["red litmus blue", 0.9]
+      ]
+    },
+    "q2": {
+      "question": "What is the pH scale?",
+      "reference_answer": "Scale from 0-14 measuring acidity/alkalinity of solutions, with 7 as neutral, below 7 as acidic, and above 7 as basic.",
+      "keywords": [
+        ["scale", 0.8], ["0-14", 0.9], ["acidity", 0.9], ["alkalinity", 0.9], 
+        ["7", 0.9], ["neutral", 0.9], ["below 7", 0.9], ["acidic", 0.9], ["above 7", 0.9], ["basic", 0.9]
+      ]
+    },
+    "q3": {
+      "question": "What are neutralization reactions?",
+      "reference_answer": "Reactions between acids and bases forming salt and water, with pH moving toward 7, often releasing heat energy.",
+      "keywords": [
+        ["reactions", 0.8], ["acids", 0.9], ["bases", 0.9], 
+        ["salt", 1.0], ["water", 1.0], ["pH", 0.9], ["7", 0.8], ["heat energy", 0.9]
+      ]
+    },
+    "q4": {
+      "question": "How do indicators work?",
+      "reference_answer": "Chemical substances that change color in different pH conditions, helping identify whether solution is acidic, basic, or neutral.",
+      "keywords": [
+        ["chemical substances", 0.8], ["change color", 1.0], ["pH conditions", 0.9], 
+        ["identify", 0.8], ["acidic", 0.9], ["basic", 0.9], ["neutral", 0.9]
+      ]
+    },
+    "q5": {
+      "question": "What are the uses of acids and bases in daily life?",
+      "reference_answer": "Acids: food preservation, batteries, digestion; Bases: cleaning agents, medicines, paper production, soap making.",
+      "keywords": [
+        ["acids", 0.9], ["food preservation", 0.9], ["batteries", 0.9], ["digestion", 0.9], 
+        ["bases", 0.9], ["cleaning agents", 0.9], ["medicines", 0.9], ["soap", 0.9]
+      ]
+    }
+  },
+  "class10_carbon": {
+    "q1": {
+      "question": "What is a carbon compound?",
+      "reference_answer": "Compound containing carbon atoms bonded with other elements, primarily hydrogen, oxygen, nitrogen, halogens or sulfur.",
+      "keywords": [
+        ["compound", 0.8], ["carbon atoms", 0.9], ["bonded", 0.9], 
+        ["hydrogen", 0.9], ["oxygen", 0.9], ["nitrogen", 0.9], ["halogens", 0.9], ["sulfur", 0.9]
+      ]
+    },
+    "q2": {
+      "question": "What is covalent bonding?",
+      "reference_answer": "Chemical bonding where atoms share electron pairs to achieve stable electron configurations, typical in carbon compounds.",
+      "keywords": [
+        ["chemical bonding", 0.9], ["atoms", 0.8], ["share", 0.9], 
+        ["electron pairs", 1.0], ["stable", 0.9], ["electron configurations", 0.9], ["carbon compounds", 0.9]
+      ]
+    },
+    "q3": {
+      "question": "What is a homologous series?",
+      "reference_answer": "Group of organic compounds with same functional group, similar chemical properties, and consecutive members differing by CH₂ group.",
+      "keywords": [
+        ["organic compounds", 0.9], ["same functional group", 1.0], ["similar chemical properties", 0.9], 
+        ["consecutive members", 0.9], ["differing", 0.8], ["CH₂ group", 1.0]
+      ]
+    },
+    "q4": {
+      "question": "Explain the concept of isomerism.",
+      "reference_answer": "Phenomenon where compounds have same molecular formula but different structural arrangements, resulting in different properties.",
+      "keywords": [
+        ["phenomenon", 0.8], ["compounds", 0.8], ["same molecular formula", 1.0], 
+        ["different structural arrangements", 1.0], ["different properties", 0.9]
+      ]
+    },
+    "q5": {
+      "question": "What are the major functional groups in carbon compounds?",
+      "reference_answer": "Alcohol (-OH), aldehyde (-CHO), ketone (>C=O), carboxylic acid (-COOH), ester (-COOR), and amine (-NH₂).",
+      "keywords": [
+        ["alcohol", 1.0], ["-OH", 0.9], ["aldehyde", 1.0], 
+        ["-CHO", 0.9], ["ketone", 1.0], [">C=O", 0.9], ["carboxylic acid", 1.0], 
+        ["-COOH", 0.9], ["ester", 1.0], ["-COOR", 0.9], ["amine", 1.0], ["-NH₂", 0.9]
+      ]
+    }
+  }
+}

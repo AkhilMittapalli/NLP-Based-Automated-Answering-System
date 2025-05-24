@@ -1,0 +1,422 @@
+{
+  "class10_periodic_table": {
+    "q1": {
+      "question": "What is the periodic table?",
+      "reference_answer": "Tabular arrangement of chemical elements organized by atomic number, electron configuration, and recurring chemical properties in rows (periods) and columns (groups).",
+      "keywords": [
+        ["tabular arrangement", 0.9], ["chemical elements", 0.9], ["atomic number", 1.0], 
+        ["electron configuration", 0.9], ["chemical properties", 0.9], ["periods", 1.0], ["groups", 1.0]
+      ]
+    },
+    "q2": {
+      "question": "What is the modern periodic law?",
+      "reference_answer": "Properties of elements are periodic functions of their atomic numbers, with elements in same group having similar properties.",
+      "keywords": [
+        ["properties", 0.9], ["periodic functions", 1.0], ["atomic numbers", 1.0], 
+        ["same group", 0.9], ["similar properties", 0.9]
+      ]
+    },
+    "q3": {
+      "question": "What are groups and periods in the periodic table?",
+      "reference_answer": "Groups (vertical columns): elements with similar properties due to same valence electron configuration; Periods (horizontal rows): elements with increasing atomic number.",
+      "keywords": [
+        ["groups", 1.0], ["vertical columns", 0.9], ["similar properties", 0.9], 
+        ["valence electron", 0.9], ["periods", 1.0], ["horizontal rows", 0.9], ["atomic number", 0.9]
+      ]
+    },
+    "q4": {
+      "question": "How does atomic size change across periods and down groups?",
+      "reference_answer": "Atomic size decreases across period (left to right) due to increasing nuclear charge; increases down group due to addition of new electron shells.",
+      "keywords": [
+        ["atomic size", 1.0], ["decreases", 0.9], ["across period", 0.9], 
+        ["left to right", 0.9], ["nuclear charge", 0.9], ["increases", 0.9], ["down group", 0.9], ["electron shells", 0.9]
+      ]
+    },
+    "q5": {
+      "question": "What are metals, non-metals and metalloids?",
+      "reference_answer": "Metals: left/center of table, conduct heat/electricity, malleable; Non-metals: right side, poor conductors, brittle; Metalloids: properties between both, semiconductor behavior.",
+      "keywords": [
+        ["metals", 1.0], ["left/center", 0.9], ["conduct", 0.9], 
+        ["non-metals", 1.0], ["right side", 0.9], ["poor conductors", 0.9], ["metalloids", 1.0], ["between both", 0.9], ["semiconductor", 0.9]
+      ]
+    }
+  },
+  "class10_life_processes": {
+    "q1": {
+      "question": "What are life processes?",
+      "reference_answer": "Basic functions performed by living organisms to maintain life, including nutrition, respiration, circulation, excretion, movement, and reproduction.",
+      "keywords": [
+        ["basic functions", 0.9], ["living organisms", 0.9], ["maintain life", 0.9], 
+        ["nutrition", 1.0], ["respiration", 1.0], ["circulation", 1.0], ["excretion", 1.0], ["movement", 0.9], ["reproduction", 1.0]
+      ]
+    },
+    "q2": {
+      "question": "What is photosynthesis and its equation?",
+      "reference_answer": "Process where plants convert light energy into chemical energy, producing glucose and oxygen from carbon dioxide and water. 6CO₂ + 6H₂O + light → C₆H₁₂O₆ + 6O₂",
+      "keywords": [
+        ["process", 0.7], ["plants", 0.8], ["light energy", 0.9], 
+        ["chemical energy", 0.9], ["glucose", 0.9], ["oxygen", 0.9], ["carbon dioxide", 0.9], ["water", 0.9], ["6CO₂ + 6H₂O", 1.0], ["C₆H₁₂O₆ + 6O₂", 1.0]
+      ]
+    },
+    "q3": {
+      "question": "Explain the process of human digestion.",
+      "reference_answer": "Breaking down food through mechanical (chewing, churning) and chemical (enzymes) processes from mouth through esophagus, stomach, small intestine, and large intestine.",
+      "keywords": [
+        ["breaking down", 0.9], ["food", 0.8], ["mechanical", 0.9], 
+        ["chemical", 0.9], ["enzymes", 0.9], ["mouth", 0.9], ["esophagus", 0.9], ["stomach", 0.9], ["small intestine", 0.9], ["large intestine", 0.9]
+      ]
+    },
+    "q4": {
+      "question": "How does the human respiratory system work?",
+      "reference_answer": "Air enters through nose/mouth, passes through trachea, bronchi, and bronchioles into alveoli, where oxygen enters bloodstream and carbon dioxide exits.",
+      "keywords": [
+        ["air", 0.8], ["nose/mouth", 0.9], ["trachea", 1.0], 
+        ["bronchi", 1.0], ["bronchioles", 1.0], ["alveoli", 1.0], ["oxygen", 0.9], ["bloodstream", 0.9], ["carbon dioxide", 0.9]
+      ]
+    },
+    "q5": {
+      "question": "What is transpiration and its importance in plants?",
+      "reference_answer": "Loss of water vapor from plant surfaces, especially leaves. Important for water/mineral transport, cooling, maintaining turgidity, and influencing photosynthesis.",
+      "keywords": [
+        ["loss", 0.8], ["water vapor", 0.9], ["plant surfaces", 0.9], 
+        ["leaves", 0.9], ["water/mineral transport", 1.0], ["cooling", 0.9], ["turgidity", 0.9], ["photosynthesis", 0.9]
+      ]
+    }
+  },
+  "class10_control_coordination": {
+    "q1": {
+      "question": "What is the nervous system and its components?",
+      "reference_answer": "System coordinating body activities through electrical signals. Components: central nervous system (brain, spinal cord) and peripheral nervous system (cranial, spinal nerves).",
+      "keywords": [
+        ["system", 0.7], ["coordinating", 0.9], ["electrical signals", 0.9], 
+        ["central nervous system", 1.0], ["brain", 0.9], ["spinal cord", 0.9], ["peripheral nervous system", 1.0], ["cranial", 0.9], ["spinal nerves", 0.9]
+      ]
+    },
+    "q2": {
+      "question": "What is a neuron and its structure?",
+      "reference_answer": "Specialized cell transmitting nerve impulses. Structure: cell body (with nucleus), dendrites (receive signals), axon (conducts impulses), and axon terminals.",
+      "keywords": [
+        ["specialized cell", 0.9], ["nerve impulses", 0.9], ["cell body", 1.0], 
+        ["nucleus", 0.9], ["dendrites", 1.0], ["receive signals", 0.9], ["axon", 1.0], ["conducts impulses", 0.9], ["axon terminals", 1.0]
+      ]
+    },
+    "q3": {
+      "question": "What are reflex actions and reflex arc?",
+      "reference_answer": "Reflex actions: automatic, involuntary responses to stimuli. Reflex arc: pathway of impulse from receptor to effector through sensory neuron, interneuron, and motor neuron.",
+      "keywords": [
+        ["reflex actions", 1.0], ["automatic", 0.9], ["involuntary", 0.9], 
+        ["stimuli", 0.9], ["reflex arc", 1.0], ["pathway", 0.8], ["receptor", 0.9], ["effector", 0.9], ["sensory neuron", 0.9], ["interneuron", 0.9], ["motor neuron", 0.9]
+      ]
+    },
+    "q4": {
+      "question": "What are hormones and how do they function?",
+      "reference_answer": "Chemical messengers secreted by endocrine glands directly into bloodstream, acting on specific target organs to regulate physiological processes.",
+      "keywords": [
+        ["chemical messengers", 1.0], ["secreted", 0.9], ["endocrine glands", 1.0], 
+        ["bloodstream", 0.9], ["target organs", 1.0], ["regulate", 0.9], ["physiological processes", 0.9]
+      ]
+    },
+    "q5": {
+      "question": "How do plants respond to stimuli?",
+      "reference_answer": "Through tropisms and nastic movements. Tropisms: directional growth responses to stimuli like light (phototropism), gravity (geotropism), and water (hydrotropism).",
+      "keywords": [
+        ["tropisms", 1.0], ["nastic movements", 0.9], ["directional growth", 0.9], 
+        ["responses", 0.8], ["stimuli", 0.8], ["phototropism", 1.0], ["geotropism", 1.0], ["hydrotropism", 1.0]
+      ]
+    }
+  },
+  "class10_reproduction": {
+    "q1": {
+      "question": "What is reproduction and its types?",
+      "reference_answer": "Process by which organisms produce offspring. Types: asexual (single parent, identical offspring) and sexual (two parents, genetic variation).",
+      "keywords": [
+        ["process", 0.8], ["organisms", 0.8], ["offspring", 0.9], 
+        ["asexual", 1.0], ["single parent", 0.9], ["identical", 0.9], ["sexual", 1.0], ["two parents", 0.9], ["genetic variation", 0.9]
+      ]
+    },
+    "q2": {
+      "question": "How do organisms reproduce asexually?",
+      "reference_answer": "Through binary fission (bacteria), budding (yeast), fragmentation (planaria), spore formation (fungi), vegetative propagation (plants), and regeneration (hydra).",
+      "keywords": [
+        ["binary fission", 1.0], ["bacteria", 0.9], ["budding", 1.0], 
+        ["yeast", 0.9], ["fragmentation", 1.0], ["planaria", 0.9], ["spore formation", 1.0], ["fungi", 0.9], ["vegetative propagation", 1.0], ["plants", 0.9], ["regeneration", 1.0], ["hydra", 0.9]
+      ]
+    },
+    "q3": {
+      "question": "Describe sexual reproduction in flowering plants.",
+      "reference_answer": "Involves pollination (transfer of pollen from anther to stigma), fertilization (fusion of male gamete with egg cell), and seed/fruit development.",
+      "keywords": [
+        ["pollination", 1.0], ["pollen", 0.9], ["anther", 0.9], 
+        ["stigma", 0.9], ["fertilization", 1.0], ["fusion", 0.9], ["male gamete", 0.9], ["egg cell", 0.9], ["seed/fruit", 0.9], ["development", 0.8]
+      ]
+    },
+    "q4": {
+      "question": "What are the male and female reproductive organs in humans?",
+      "reference_answer": "Male: testes (produce sperm), vas deferens, seminal vesicles, prostate gland, and penis. Female: ovaries (produce eggs), fallopian tubes, uterus, and vagina.",
+      "keywords": [
+        ["male", 0.8], ["testes", 1.0], ["sperm", 0.9], ["vas deferens", 0.9], 
+        ["seminal vesicles", 0.9], ["prostate gland", 0.9], ["penis", 0.9], ["female", 0.8], ["ovaries", 1.0], ["eggs", 0.9], ["fallopian tubes", 1.0], ["uterus", 1.0], ["vagina", 1.0]
+      ]
+    },
+    "q5": {
+      "question": "How does fertilization occur in humans?",
+      "reference_answer": "Fusion of male gamete (sperm) with female gamete (egg/ovum) typically in fallopian tube, forming zygote with complete set of chromosomes.",
+      "keywords": [
+        ["fusion", 0.9], ["male gamete", 0.9], ["sperm", 0.9], 
+        ["female gamete", 0.9], ["egg/ovum", 0.9], ["fallopian tube", 1.0], ["zygote", 1.0], ["chromosomes", 0.9]
+      ]
+    }
+  },
+  "class10_heredity": {
+    "q1": {
+      "question": "What is heredity?",
+      "reference_answer": "Transmission of genetic characteristics from parents to offspring through genes, determining similarities and variations among related organisms.",
+      "keywords": [
+        ["transmission", 0.9], ["genetic characteristics", 1.0], ["parents", 0.9], 
+        ["offspring", 0.9], ["genes", 1.0], ["similarities", 0.9], ["variations", 0.9]
+      ]
+    },
+    "q2": {
+      "question": "What are genes and chromosomes?",
+      "reference_answer": "Genes: DNA segments carrying hereditary information for specific traits. Chromosomes: thread-like structures composed of DNA and proteins carrying genes.",
+      "keywords": [
+        ["genes", 1.0], ["DNA segments", 0.9], ["hereditary information", 0.9], 
+        ["traits", 0.9], ["chromosomes", 1.0], ["thread-like structures", 0.9], ["DNA and proteins", 0.9], ["carrying genes", 0.9]
+      ]
+    },
+    "q3": {
+      "question": "Explain Mendel's laws of inheritance.",
+      "reference_answer": "Law of Dominance: dominant traits mask recessive traits; Law of Segregation: allele pairs separate during gamete formation; Law of Independent Assortment: different traits inherit independently.",
+      "keywords": [
+        ["Law of Dominance", 1.0], ["dominant traits", 0.9], ["recessive traits", 0.9], 
+        ["Law of Segregation", 1.0], ["allele pairs", 0.9], ["gamete formation", 0.9], ["Law of Independent Assortment", 1.0], ["independently", 0.9]
+      ]
+    },
+    "q4": {
+      "question": "What are dominant and recessive traits?",
+      "reference_answer": "Dominant traits: expressed when at least one allele is present; mask recessive traits. Recessive traits: expressed only when two recessive alleles are present.",
+      "keywords": [
+        ["dominant traits", 1.0], ["expressed", 0.9], ["one allele", 0.9], 
+        ["mask", 0.9], ["recessive traits", 1.0], ["two recessive alleles", 1.0]
+      ]
+    },
+    "q5": {
+      "question": "What are sex chromosomes and how do they determine gender?",
+      "reference_answer": "Chromosomes determining biological sex. Females have two X chromosomes (XX); males have one X and one Y chromosome (XY), with Y chromosome determining male development.",
+      "keywords": [
+        ["sex chromosomes", 1.0], ["biological sex", 0.9], ["females", 0.9], 
+        ["XX", 1.0], ["males", 0.9], ["XY", 1.0], ["Y chromosome", 0.9], ["male development", 0.9]
+      ]
+    }
+  },
+  "class10_evolution": {
+    "q1": {
+      "question": "What is evolution?",
+      "reference_answer": "Gradual process of change in heritable characteristics of a population over successive generations, leading to diversity of organisms over time.",
+      "keywords": [
+        ["gradual process", 0.9], ["change", 0.8], ["heritable characteristics", 1.0], 
+        ["population", 0.9], ["successive generations", 0.9], ["diversity", 0.9], ["organisms", 0.8], ["time", 0.7]
+      ]
+    },
+    "q2": {
+      "question": "What is Darwin's theory of evolution?",
+      "reference_answer": "Theory proposing all species evolved from common ancestors through natural selection, where individuals with favorable traits survive and reproduce more successfully.",
+      "keywords": [
+        ["Darwin's theory", 1.0], ["species evolved", 0.9], ["common ancestors", 0.9], 
+        ["natural selection", 1.0], ["favorable traits", 0.9], ["survive", 0.9], ["reproduce", 0.9], ["successfully", 0.8]
+      ]
+    },
+    "q3": {
+      "question": "What are the evidences for evolution?",
+      "reference_answer": "Fossil records, comparative anatomy (homologous/analogous organs), embryological similarities, vestigial organs, biochemical similarities, and biogeographical evidence.",
+      "keywords": [
+        ["fossil records", 1.0], ["comparative anatomy", 1.0], ["homologous", 0.9], 
+        ["analogous", 0.9], ["embryological similarities", 1.0], ["vestigial organs", 1.0], ["biochemical similarities", 1.0], ["biogeographical evidence", 0.9]
+      ]
+    },
+    "q4": {
+      "question": "What is speciation and its types?",
+      "reference_answer": "Formation of new species through evolution. Types: allopatric (geographic isolation), sympatric (without isolation), parapatric (partial isolation), and peripatric (small population isolation).",
+      "keywords": [
+        ["speciation", 1.0], ["formation", 0.8], ["new species", 0.9], 
+        ["allopatric", 1.0], ["geographic isolation", 0.9], ["sympatric", 1.0], ["without isolation", 0.9], ["parapatric", 1.0], ["partial isolation", 0.9], ["peripatric", 1.0], ["small population", 0.9]
+      ]
+    },
+    "q5": {
+      "question": "What are homologous and analogous organs?",
+      "reference_answer": "Homologous: similar structure and origin but different functions, indicating common ancestry. Analogous: different structure and origin but similar functions, due to convergent evolution.",
+      "keywords": [
+        ["homologous", 1.0], ["similar structure", 0.9], ["origin", 0.9], 
+        ["different functions", 0.9], ["common ancestry", 0.9], ["analogous", 1.0], ["different structure", 0.9], ["similar functions", 0.9], ["convergent evolution", 1.0]
+      ]
+    }
+  },
+  "class10_environment": {
+    "q1": {
+      "question": "What is an ecosystem?",
+      "reference_answer": "Biological community of interacting organisms and their physical environment, functioning as a self-sustaining ecological unit with energy flow and nutrient cycling.",
+      "keywords": [
+        ["biological community", 0.9], ["interacting organisms", 0.9], ["physical environment", 0.9], 
+        ["self-sustaining", 0.9], ["ecological unit", 0.9], ["energy flow", 0.9], ["nutrient cycling", 0.9]
+      ]
+    },
+    "q2": {
+      "question": "What is a food chain and food web?",
+      "reference_answer": "Food chain: linear sequence of organisms through which energy transfers from producers to consumers to decomposers. Food web: interconnected multiple food chains showing feeding relationships.",
+      "keywords": [
+        ["food chain", 1.0], ["linear sequence", 0.9], ["energy transfers", 0.9], 
+        ["producers", 0.9], ["consumers", 0.9], ["decomposers", 0.9], ["food web", 1.0], ["interconnected", 0.9], ["multiple food chains", 0.9], ["feeding relationships", 0.9]
+      ]
+    },
+    "q3": {
+      "question": "What are biodegradable and non-biodegradable substances?",
+      "reference_answer": "Biodegradable: substances decomposed by natural processes and microorganisms into simpler compounds. Non-biodegradable: substances that cannot be decomposed naturally.",
+      "keywords": [
+        ["biodegradable", 1.0], ["decomposed", 0.9], ["natural processes", 0.9], 
+        ["microorganisms", 0.9], ["simpler compounds", 0.9], ["non-biodegradable", 1.0], ["cannot be decomposed", 0.9], ["naturally", 0.8]
+      ]
+    },
+    "q4": {
+      "question": "What are the causes and effects of ozone layer depletion?",
+      "reference_answer": "Causes: chlorofluorocarbons (CFCs), halons, and other ozone-depleting substances. Effects: increased UV radiation causing skin cancer, eye damage, immune system suppression, and ecosystem disruption.",
+      "keywords": [
+        ["causes", 0.7], ["chlorofluorocarbons", 1.0], ["CFCs", 0.9], ["halons", 0.9], 
+        ["ozone-depleting substances", 0.9], ["effects", 0.7], ["UV radiation", 0.9], ["skin cancer", 0.9], ["eye damage", 0.9], ["immune system", 0.9], ["ecosystem disruption", 0.9]
+      ]
+    },
+    "q5": {
+      "question": "What is sustainable development?",
+      "reference_answer": "Development meeting present needs without compromising future generations' ability to meet their needs, balancing environmental protection, social progress, and economic growth.",
+      "keywords": [
+        ["development", 0.8], ["present needs", 0.9], ["without compromising", 0.9], 
+        ["future generations", 0.9], ["balancing", 0.8], ["environmental protection", 0.9], ["social progress", 0.9], ["economic growth", 0.9]
+      ]
+    }
+  },
+  "class7_physical_changes": {
+    "q1": {
+      "question": "What are physical changes?",
+      "reference_answer": "Changes affecting physical properties without changing chemical composition, usually reversible, like changes in state, shape, or size.",
+      "keywords": [
+        ["physical properties", 1.0], ["without changing", 0.9], ["chemical composition", 0.9], 
+        ["reversible", 0.9], ["state", 0.8], ["shape", 0.8], ["size", 0.8]
+      ]
+    },
+    "q2": {
+      "question": "What are chemical changes?",
+      "reference_answer": "Changes producing new substances with different properties through chemical reactions, usually irreversible, like burning, rusting, or cooking.",
+      "keywords": [
+        ["new substances", 1.0], ["different properties", 0.9], ["chemical reactions", 0.9], 
+        ["irreversible", 0.9], ["burning", 0.8], ["rusting", 0.8], ["cooking", 0.8]
+      ]
+    },
+    "q3": {
+      "question": "What is crystallization?",
+      "reference_answer": "Process where dissolved solid separates from solution and forms crystals with regular geometric shapes upon cooling or solvent evaporation.",
+      "keywords": [
+        ["process", 0.7], ["dissolved solid", 0.9], ["separates", 0.9], 
+        ["solution", 0.9], ["crystals", 1.0], ["regular geometric shapes", 0.9], ["cooling", 0.9], ["solvent evaporation", 0.9]
+      ]
+    },
+    "q4": {
+      "question": "How do substances expand and contract with temperature?",
+      "reference_answer": "Substances generally expand when heated (particles move faster, increasing spacing) and contract when cooled (particles move slower, decreasing spacing).",
+      "keywords": [
+        ["expand", 1.0], ["heated", 0.9], ["particles move faster", 0.9], 
+        ["increasing spacing", 0.9], ["contract", 1.0], ["cooled", 0.9], ["particles move slower", 0.9], ["decreasing spacing", 0.9]
+      ]
+    },
+    "q5": {
+      "question": "What is sublimation?",
+      "reference_answer": "Direct conversion of solid to gas without passing through liquid state, like dry ice converting to carbon dioxide gas.",
+      "keywords": [
+        ["direct conversion", 0.9], ["solid", 0.9], ["gas", 0.9], 
+        ["without passing through", 0.9], ["liquid state", 0.9], ["dry ice", 0.9], ["carbon dioxide", 0.9]
+      ]
+    }
+  },
+  "class7_acids_bases_salts": {
+    "q1": {
+      "question": "What are acids and their properties?",
+      "reference_answer": "Compounds that release hydrogen ions (H⁺) in solution. Properties: sour taste, turn blue litmus red, conduct electricity, react with metals producing hydrogen gas.",
+      "keywords": [
+        ["compounds", 0.8], ["hydrogen ions", 1.0], ["H⁺", 0.9], 
+        ["solution", 0.8], ["sour taste", 0.9], ["blue litmus red", 1.0], ["conduct electricity", 0.9], ["metals", 0.8], ["hydrogen gas", 0.9]
+      ]
+    },
+    "q2": {
+      "question": "What are bases and their properties?",
+      "reference_answer": "Compounds that release hydroxide ions (OH⁻) in solution. Properties: bitter taste, soapy feel, turn red litmus blue, conduct electricity.",
+      "keywords": [
+        ["compounds", 0.8], ["hydroxide ions", 1.0], ["OH⁻", 0.9], 
+        ["solution", 0.8], ["bitter taste", 0.9], ["soapy feel", 0.9], ["red litmus blue", 1.0], ["conduct electricity", 0.9]
+      ]
+    },
+    "q3": {
+      "question": "What are salts and how are they formed?",
+      "reference_answer": "Ionic compounds formed through neutralization reactions between acids and bases, consisting of positive ions (except H⁺) and negative ions (except OH⁻).",
+      "keywords": [
+        ["ionic compounds", 0.9], ["neutralization reactions", 1.0], ["acids", 0.9], 
+        ["bases", 0.9], ["positive ions", 0.9], ["except H⁺", 0.9], ["negative ions", 0.9], ["except OH⁻", 0.9]
+      ]
+    },
+    "q4": {
+      "question": "What are indicators and how do they work?",
+      "reference_answer": "Substances that change color in different pH environments, helping identify acidic or basic nature of solutions by distinctive color changes.",
+      "keywords": [
+        ["substances", 0.7], ["change color", 1.0], ["pH environments", 0.9], 
+        ["identify", 0.8], ["acidic", 0.9], ["basic", 0.9], ["solutions", 0.8], ["color changes", 0.9]
+      ]
+    },
+    "q5": {
+      "question": "What are the uses of acids, bases, and salts in daily life?",
+      "reference_answer": "Acids: food preservatives, batteries, cleaning; Bases: soaps, detergents, medicines; Salts: food preservatives, fertilizers, medicines, construction materials.",
+      "keywords": [
+        ["acids", 0.9], ["food preservatives", 0.9], ["batteries", 0.8], 
+        ["cleaning", 0.8], ["bases", 0.9], ["soaps", 0.8], ["detergents", 0.8], ["medicines", 0.8], ["salts", 0.9], ["fertilizers", 0.8], ["construction materials", 0.8]
+      ]
+    }
+  },
+  "class8_combustion": {
+    "q1": {
+      "question": "What is combustion?",
+      "reference_answer": "Chemical process where substance combines with oxygen, producing heat and light, often accompanied by flame, requiring fuel, oxygen, and ignition temperature.",
+      "keywords": [
+        ["chemical process", 0.9], ["combines with oxygen", 1.0], ["heat", 0.9], 
+        ["light", 0.9], ["flame", 0.9], ["fuel", 0.9], ["oxygen", 0.9], ["ignition temperature", 1.0]
+      ]
+    },
+    "q2": {
+      "question": "What is the difference between complete and incomplete combustion?",
+      "reference_answer": "Complete combustion: sufficient oxygen supply, producing carbon dioxide and water with maximum energy. Incomplete combustion: insufficient oxygen, producing carbon monoxide and carbon particles.",
+      "keywords": [
+        ["complete combustion", 1.0], ["sufficient oxygen", 0.9], ["carbon dioxide", 0.9], 
+        ["water", 0.8], ["maximum energy", 0.9], ["incomplete combustion", 1.0], ["insufficient oxygen", 0.9], ["carbon monoxide", 1.0], ["carbon particles", 0.9]
+      ]
+    },
+    "q3": {
+      "question": "What is a flame and its structure?",
+      "reference_answer": "Visible, gaseous part of fire where combustion occurs. Structure: inner zone (unburnt fuel), middle zone (partial combustion, luminous), outer zone (complete combustion, hottest).",
+      "keywords": [
+        ["visible", 0.8], ["gaseous part", 0.9], ["fire", 0.8], 
+        ["combustion occurs", 0.9], ["inner zone", 1.0], ["unburnt fuel", 0.9], ["middle zone", 1.0], ["partial combustion", 0.9], ["outer zone", 1.0], ["complete combustion", 0.9], ["hottest", 0.9]
+      ]
+    },
+    "q4": {
+      "question": "What is a fuel and its calorific value?",
+      "reference_answer": "Substance that burns in oxygen to release energy. Calorific value: amount of heat energy produced when unit mass of fuel is completely burned.",
+      "keywords": [
+        ["substance", 0.7], ["burns", 0.9], ["oxygen", 0.9], 
+        ["release energy", 0.9], ["calorific value", 1.0], ["heat energy", 0.9], ["unit mass", 0.9], ["completely burned", 0.9]
+      ]
+    },
+    "q5": {
+      "question": "How can fire be controlled or extinguished?",
+      "reference_answer": "By removing one essential component: cutting off oxygen supply (smothering), removing fuel, or lowering temperature below ignition point (cooling).",
+      "keywords": [
+        ["removing", 0.9], ["essential component", 0.9], ["cutting off", 0.9], 
+        ["oxygen supply", 0.9], ["smothering", 1.0], ["removing fuel", 0.9], ["lowering temperature", 0.9], ["ignition point", 0.9], ["cooling", 1.0]
+      ]
+    }
+  }
+}

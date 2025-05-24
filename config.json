@@ -1,0 +1,22 @@
+{
+  "preprocessing": {
+    "remove_stopwords": true,
+    "lemmatize": true,
+    "lowercase": true
+  },
+  "keyword_extraction": {
+    "method": "frequency",
+    "max_keywords": 15
+  },
+  "scoring": {
+    "keyword_weight": 0.35,
+    "keyword_order_weight": 0.10,
+    "completeness_weight": 0.25,
+    "semantic_weight": 0.30,
+    "partial_match_threshold": 0.8
+  },
+  "semantic_analysis": {
+    "model_name": "en_core_web_md",
+    "similarity_method": "document"
+  }
+}

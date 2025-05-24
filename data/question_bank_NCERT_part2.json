@@ -1,0 +1,483 @@
+{
+  "class7_respiration": {
+    "q4": {
+      "question": "How do humans breathe?",
+      "reference_answer": "Inhalation (diaphragm contracts, chest expands) and exhalation (diaphragm relaxes, chest contracts) controlled by respiratory center.",
+      "keywords": [
+        ["inhalation", 1.0], ["diaphragm contracts", 0.9], ["chest expands", 0.9], 
+        ["exhalation", 1.0], ["diaphragm relaxes", 0.9], ["chest contracts", 0.9], ["respiratory center", 0.8]
+      ]
+    },
+    "q5": {
+      "question": "How do plants respire?",
+      "reference_answer": "Plants respire continuously through stomata, lenticels, and root surfaces, consuming oxygen and releasing carbon dioxide.",
+      "keywords": [
+        ["continuously", 0.8], ["stomata", 1.0], ["lenticels", 0.9], 
+        ["root surfaces", 0.9], ["oxygen", 0.9], ["carbon dioxide", 0.9]
+      ]
+    }
+  },
+  "class7_transport": {
+    "q1": {
+      "question": "What is the function of the circulatory system?",
+      "reference_answer": "Transports nutrients, oxygen, hormones, and waste products throughout the body via blood circulation.",
+      "keywords": [
+        ["transports", 0.9], ["nutrients", 0.9], ["oxygen", 0.9], 
+        ["hormones", 0.8], ["waste products", 0.9], ["blood circulation", 1.0]
+      ]
+    },
+    "q2": {
+      "question": "What is the structure and function of the human heart?",
+      "reference_answer": "Four-chambered muscular organ with two atria and two ventricles that pumps blood throughout the body.",
+      "keywords": [
+        ["four-chambered", 1.0], ["muscular", 0.9], ["atria", 1.0], 
+        ["ventricles", 1.0], ["pumps blood", 0.9]
+      ]
+    },
+    "q3": {
+      "question": "What are the components of blood?",
+      "reference_answer": "Plasma (liquid), red blood cells (oxygen transport), white blood cells (immune defense), and platelets (clotting).",
+      "keywords": [
+        ["plasma", 1.0], ["red blood cells", 1.0], ["oxygen transport", 0.9], 
+        ["white blood cells", 1.0], ["immune defense", 0.9], ["platelets", 1.0], ["clotting", 0.9]
+      ]
+    },
+    "q4": {
+      "question": "What is blood pressure?",
+      "reference_answer": "Force exerted by blood against vessel walls; measured as systolic (heart contracts) and diastolic (heart relaxes) pressure.",
+      "keywords": [
+        ["force", 0.9], ["blood", 0.8], ["vessel walls", 0.9], 
+        ["systolic", 1.0], ["diastolic", 1.0], ["contracts", 0.9], ["relaxes", 0.9]
+      ]
+    },
+    "q5": {
+      "question": "How do plants transport water and nutrients?",
+      "reference_answer": "Water and minerals move upward through xylem; prepared food moves through phloem throughout the plant.",
+      "keywords": [
+        ["water", 0.8], ["minerals", 0.8], ["upward", 0.8], 
+        ["xylem", 1.0], ["food", 0.8], ["phloem", 1.0]
+      ]
+    }
+  },
+  "class7_reproduction": {
+    "q1": {
+      "question": "What is reproduction?",
+      "reference_answer": "Biological process by which organisms produce offspring of their own kind, ensuring species continuation.",
+      "keywords": [
+        ["biological process", 0.9], ["produce offspring", 1.0], ["own kind", 0.9], 
+        ["species continuation", 0.9]
+      ]
+    },
+    "q2": {
+      "question": "What is the difference between sexual and asexual reproduction?",
+      "reference_answer": "Sexual reproduction involves two parents and gamete fusion; asexual needs only one parent without gamete fusion.",
+      "keywords": [
+        ["sexual", 1.0], ["two parents", 0.9], ["gamete fusion", 1.0], 
+        ["asexual", 1.0], ["one parent", 0.9], ["without gamete fusion", 0.9]
+      ]
+    },
+    "q3": {
+      "question": "How do humans reproduce?",
+      "reference_answer": "Through sexual reproduction involving sperm from male fertilizing egg from female, developing into embryo in uterus.",
+      "keywords": [
+        ["sexual reproduction", 0.9], ["sperm", 1.0], ["male", 0.8], 
+        ["egg", 1.0], ["female", 0.8], ["fertilizing", 0.9], ["embryo", 0.9], ["uterus", 0.9]
+      ]
+    },
+    "q4": {
+      "question": "How do plants reproduce sexually?",
+      "reference_answer": "Through flowers where male pollen fertilizes female ovules, forming seeds that develop into new plants.",
+      "keywords": [
+        ["flowers", 0.9], ["male pollen", 1.0], ["fertilizes", 0.9], 
+        ["female ovules", 1.0], ["seeds", 0.9], ["new plants", 0.8]
+      ]
+    },
+    "q5": {
+      "question": "What are different methods of asexual reproduction in plants?",
+      "reference_answer": "Vegetative propagation through stems (runners, suckers), roots (tubers), leaves (buds), and artificial methods like cutting, layering.",
+      "keywords": [
+        ["vegetative propagation", 1.0], ["stems", 0.9], ["runners", 0.8], 
+        ["roots", 0.9], ["tubers", 0.8], ["leaves", 0.9], ["cutting", 0.9], ["layering", 0.9]
+      ]
+    }
+  },
+  "class7_heat": {
+    "q1": {
+      "question": "What is heat?",
+      "reference_answer": "Form of energy transferred between objects due to temperature difference, flowing from hotter to cooler objects.",
+      "keywords": [
+        ["energy", 0.9], ["transferred", 0.9], ["temperature difference", 1.0], 
+        ["hotter", 0.9], ["cooler", 0.9]
+      ]
+    },
+    "q2": {
+      "question": "What are the modes of heat transfer?",
+      "reference_answer": "Conduction (direct contact), convection (fluid movement), and radiation (electromagnetic waves without medium).",
+      "keywords": [
+        ["conduction", 1.0], ["direct contact", 0.9], ["convection", 1.0], 
+        ["fluid movement", 0.9], ["radiation", 1.0], ["electromagnetic waves", 0.9], ["without medium", 0.9]
+      ]
+    },
+    "q3": {
+      "question": "What is temperature?",
+      "reference_answer": "Measure of average kinetic energy of particles in matter, indicating how hot or cold an object is.",
+      "keywords": [
+        ["measure", 0.8], ["average kinetic energy", 1.0], ["particles", 0.9], 
+        ["hot", 0.8], ["cold", 0.8]
+      ]
+    },
+    "q4": {
+      "question": "What is thermal expansion?",
+      "reference_answer": "Increase in size of matter when heated due to increased particle movement and spacing between particles.",
+      "keywords": [
+        ["increase", 0.9], ["size", 0.8], ["heated", 0.9], 
+        ["particle movement", 0.9], ["spacing", 0.9], ["between particles", 0.9]
+      ]
+    },
+    "q5": {
+      "question": "What is the difference between conductors and insulators of heat?",
+      "reference_answer": "Heat conductors allow heat to pass through easily (metals); insulators prevent heat flow (wood, plastic).",
+      "keywords": [
+        ["conductors", 1.0], ["allow heat", 0.9], ["pass through", 0.8], 
+        ["metals", 0.8], ["insulators", 1.0], ["prevent heat flow", 0.9], ["wood", 0.7], ["plastic", 0.7]
+      ]
+    }
+  },
+  "class7_weather": {
+    "q1": {
+      "question": "What is weather?",
+      "reference_answer": "Day-to-day condition of atmosphere at a place regarding temperature, humidity, rainfall, wind speed, etc.",
+      "keywords": [
+        ["day-to-day", 0.9], ["condition", 0.9], ["atmosphere", 0.9], 
+        ["temperature", 0.9], ["humidity", 0.9], ["rainfall", 0.9], ["wind speed", 0.9]
+      ]
+    },
+    "q2": {
+      "question": "What is the difference between weather and climate?",
+      "reference_answer": "Weather is short-term atmospheric conditions; climate is average weather pattern of a place over long periods.",
+      "keywords": [
+        ["weather", 0.9], ["short-term", 1.0], ["atmospheric conditions", 0.9], 
+        ["climate", 0.9], ["average weather", 1.0], ["long periods", 1.0]
+      ]
+    },
+    "q3": {
+      "question": "What causes wind?",
+      "reference_answer": "Uneven heating of Earth's surface creates air pressure differences, causing air movement from high to low pressure.",
+      "keywords": [
+        ["uneven heating", 1.0], ["Earth's surface", 0.9], ["air pressure", 1.0], 
+        ["differences", 0.8], ["high to low pressure", 0.9]
+      ]
+    },
+    "q4": {
+      "question": "How do clouds form?",
+      "reference_answer": "Water evaporates, rises, cools, and condenses on dust particles forming tiny water droplets that cluster into clouds.",
+      "keywords": [
+        ["evaporates", 0.9], ["rises", 0.8], ["cools", 0.9], 
+        ["condenses", 1.0], ["dust particles", 0.9], ["water droplets", 0.9], ["cluster", 0.8]
+      ]
+    },
+    "q5": {
+      "question": "What are the types of clouds?",
+      "reference_answer": "Cirrus (high, wispy), cumulus (fluffy, cotton-like), stratus (layered sheets), nimbus (dark rain clouds).",
+      "keywords": [
+        ["cirrus", 1.0], ["high", 0.8], ["wispy", 0.8], 
+        ["cumulus", 1.0], ["fluffy", 0.8], ["stratus", 1.0], ["layered", 0.8], 
+        ["nimbus", 1.0], ["rain clouds", 0.9]
+      ]
+    }
+  },
+  "class8_crop_production": {
+    "q1": {
+      "question": "What are the basic practices of crop production?",
+      "reference_answer": "Soil preparation, sowing, adding manure and fertilizers, irrigation, weeding, harvesting, and storage.",
+      "keywords": [
+        ["soil preparation", 0.9], ["sowing", 0.9], ["manure", 0.9], 
+        ["fertilizers", 0.9], ["irrigation", 0.9], ["weeding", 0.9], ["harvesting", 0.9], ["storage", 0.9]
+      ]
+    },
+    "q2": {
+      "question": "What is irrigation?",
+      "reference_answer": "Supply of water to crops at appropriate intervals for growth in proper amounts, especially in regions with insufficient rainfall.",
+      "keywords": [
+        ["supply", 0.9], ["water", 0.9], ["crops", 0.8], 
+        ["appropriate intervals", 0.9], ["growth", 0.8], ["insufficient rainfall", 0.9]
+      ]
+    },
+    "q3": {
+      "question": "What is the difference between manure and fertilizers?",
+      "reference_answer": "Manure is organic decomposed plant/animal waste; fertilizers are inorganic commercially produced chemicals containing specific nutrients.",
+      "keywords": [
+        ["manure", 1.0], ["organic", 0.9], ["decomposed", 0.9], ["waste", 0.8], 
+        ["fertilizers", 1.0], ["inorganic", 0.9], ["commercially produced", 0.8], ["specific nutrients", 0.9]
+      ]
+    },
+    "q4": {
+      "question": "What are weeds?",
+      "reference_answer": "Unwanted plants growing among crops, competing for nutrients, water, and sunlight, reducing yield and quality.",
+      "keywords": [
+        ["unwanted plants", 1.0], ["among crops", 0.9], ["competing", 0.9], 
+        ["nutrients", 0.8], ["water", 0.8], ["sunlight", 0.8], ["reducing yield", 0.9]
+      ]
+    },
+    "q5": {
+      "question": "What are the methods of crop protection?",
+      "reference_answer": "Proper preparation, treating seeds with fungicides, crop rotation, biological control, and using pesticides/herbicides.",
+      "keywords": [
+        ["preparation", 0.8], ["treating seeds", 0.9], ["fungicides", 0.9], 
+        ["crop rotation", 1.0], ["biological control", 1.0], ["pesticides", 0.9], ["herbicides", 0.9]
+      ]
+    }
+  },
+  "class8_microorganisms": {
+    "q1": {
+      "question": "What are microorganisms?",
+      "reference_answer": "Tiny living organisms visible only under microscope, including bacteria, fungi, protozoa, algae, viruses, and some parasites.",
+      "keywords": [
+        ["tiny", 0.8], ["living organisms", 0.9], ["microscope", 0.9], 
+        ["bacteria", 1.0], ["fungi", 1.0], ["protozoa", 0.9], ["algae", 0.9], ["viruses", 1.0]
+      ]
+    },
+    "q2": {
+      "question": "How are microorganisms beneficial to humans?",
+      "reference_answer": "Make food (yogurt, bread), produce medicines (antibiotics), decompose waste, help in digestion, and fix nitrogen in soil.",
+      "keywords": [
+        ["food", 0.9], ["yogurt", 0.8], ["bread", 0.8], ["medicines", 0.9], 
+        ["antibiotics", 0.9], ["decompose", 0.9], ["digestion", 0.9], ["nitrogen", 0.9]
+      ]
+    },
+    "q3": {
+      "question": "How do microorganisms cause diseases?",
+      "reference_answer": "Pathogens enter body through air, water, food, or direct contact, multiply, and release toxins causing symptoms.",
+      "keywords": [
+        ["pathogens", 1.0], ["enter body", 0.9], ["air", 0.8], ["water", 0.8], 
+        ["food", 0.8], ["direct contact", 0.8], ["multiply", 0.9], ["toxins", 1.0], ["symptoms", 0.9]
+      ]
+    },
+    "q4": {
+      "question": "What is fermentation?",
+      "reference_answer": "Process where microorganisms break down complex substances into simpler substances, often without oxygen, producing useful products.",
+      "keywords": [
+        ["process", 0.7], ["microorganisms", 0.9], ["break down", 0.9], 
+        ["complex substances", 0.9], ["simpler substances", 0.9], ["without oxygen", 0.9], ["useful products", 0.9]
+      ]
+    },
+    "q5": {
+      "question": "What are antibiotics?",
+      "reference_answer": "Medicines that kill or stop growth of bacteria, produced naturally by microorganisms or synthesized artificially.",
+      "keywords": [
+        ["medicines", 0.9], ["kill", 0.9], ["stop growth", 0.9], 
+        ["bacteria", 1.0], ["produced", 0.8], ["microorganisms", 0.9], ["synthesized artificially", 0.9]
+      ]
+    }
+  },
+  "class8_metals": {
+    "q1": {
+      "question": "What are the physical properties of metals?",
+      "reference_answer": "Lustrous, malleable, ductile, good conductors of heat and electricity, generally hard, high melting points, sonorous.",
+      "keywords": [
+        ["lustrous", 1.0], ["malleable", 1.0], ["ductile", 1.0], 
+        ["conductors", 0.9], ["heat", 0.8], ["electricity", 0.8], ["hard", 0.8], ["melting points", 0.9], ["sonorous", 0.9]
+      ]
+    },
+    "q2": {
+      "question": "What are the chemical properties of metals?",
+      "reference_answer": "Form basic oxides, react with oxygen, water, acids, replace less reactive metals from compounds, lose electrons to form positive ions.",
+      "keywords": [
+        ["basic oxides", 0.9], ["react", 0.8], ["oxygen", 0.9], 
+        ["water", 0.8], ["acids", 0.9], ["replace", 0.8], ["less reactive", 0.9], ["lose electrons", 1.0], ["positive ions", 0.9]
+      ]
+    },
+    "q3": {
+      "question": "What is the reactivity series of metals?",
+      "reference_answer": "Arrangement of metals in decreasing order of reactivity: K, Na, Ca, Mg, Al, Zn, Fe, Pb, Cu, Hg, Ag, Au.",
+      "keywords": [
+        ["arrangement", 0.8], ["decreasing order", 0.9], ["reactivity", 1.0], 
+        ["K", 0.8], ["Na", 0.8], ["Ca", 0.8], ["Fe", 0.8], ["Cu", 0.8], ["Au", 0.8]
+      ]
+    },
+    "q4": {
+      "question": "What is corrosion?",
+      "reference_answer": "Gradual deterioration of metals by chemical reactions with air, moisture, or chemicals in the environment.",
+      "keywords": [
+        ["deterioration", 0.9], ["metals", 0.8], ["chemical reactions", 0.9], 
+        ["air", 0.8], ["moisture", 0.9], ["environment", 0.8]
+      ]
+    },
+    "q5": {
+      "question": "What are alloys and why are they important?",
+      "reference_answer": "Mixtures of metals or metals with non-metals with improved properties like strength, corrosion resistance, and hardness.",
+      "keywords": [
+        ["mixtures", 0.9], ["metals", 0.9], ["non-metals", 0.9], 
+        ["improved properties", 0.9], ["strength", 0.8], ["corrosion resistance", 0.9], ["hardness", 0.8]
+      ]
+    }
+  },
+  "class8_force": {
+    "q1": {
+      "question": "What is force?",
+      "reference_answer": "Push or pull that can change object's state of motion, direction of motion, or shape when applied.",
+      "keywords": [
+        ["push", 1.0], ["pull", 1.0], ["change", 0.8], 
+        ["state of motion", 0.9], ["direction", 0.9], ["shape", 0.9]
+      ]
+    },
+    "q2": {
+      "question": "What is pressure?",
+      "reference_answer": "Force acting perpendicular to unit area of surface, calculated as force divided by area (P=F/A).",
+      "keywords": [
+        ["force", 0.9], ["perpendicular", 0.9], ["unit area", 0.9], 
+        ["surface", 0.8], ["divided", 0.8], ["P=F/A", 1.0]
+      ]
+    },
+    "q3": {
+      "question": "What is friction?",
+      "reference_answer": "Force that opposes relative motion between surfaces in contact, acting parallel to surfaces and opposite to motion direction.",
+      "keywords": [
+        ["force", 0.9], ["opposes", 1.0], ["relative motion", 0.9], 
+        ["surfaces", 0.9], ["contact", 0.9], ["parallel", 0.9], ["opposite", 0.9]
+      ]
+    },
+    "q4": {
+      "question": "What factors affect fluid pressure?",
+      "reference_answer": "Depth (increases with depth), density of fluid (increases with density), and gravity (directly proportional).",
+      "keywords": [
+        ["depth", 1.0], ["increases with depth", 0.9], ["density", 1.0], 
+        ["increases with density", 0.9], ["gravity", 0.9], ["directly proportional", 0.8]
+      ]
+    },
+    "q5": {
+      "question": "Explain Archimedes' principle.",
+      "reference_answer": "Object immersed in fluid experiences upward buoyant force equal to weight of fluid displaced by the object.",
+      "keywords": [
+        ["immersed", 0.9], ["fluid", 0.9], ["upward", 0.8], 
+        ["buoyant force", 1.0], ["equal", 0.8], ["weight", 0.9], ["fluid displaced", 1.0]
+      ]
+    }
+  },
+  "class8_sound": {
+    "q1": {
+      "question": "What is sound?",
+      "reference_answer": "Form of energy produced by vibrating objects, traveling as longitudinal waves through medium, causing pressure variations.",
+      "keywords": [
+        ["energy", 0.8], ["vibrating objects", 1.0], ["longitudinal waves", 1.0], 
+        ["medium", 0.9], ["pressure variations", 0.9]
+      ]
+    },
+    "q2": {
+      "question": "How is sound produced and propagated?",
+      "reference_answer": "Produced by vibrating objects creating compressions and rarefactions in medium, propagating as longitudinal waves requiring medium.",
+      "keywords": [
+        ["vibrating objects", 0.9], ["compressions", 1.0], ["rarefactions", 1.0], 
+        ["medium", 0.9], ["longitudinal waves", 0.9], ["requiring medium", 0.8]
+      ]
+    },
+    "q3": {
+      "question": "What are the characteristics of sound?",
+      "reference_answer": "Amplitude (loudness), frequency (pitch), quality (timbre), and speed (varies with medium type and properties).",
+      "keywords": [
+        ["amplitude", 1.0], ["loudness", 0.9], ["frequency", 1.0], 
+        ["pitch", 0.9], ["quality", 0.9], ["timbre", 0.9], ["speed", 0.9], ["medium", 0.8]
+      ]
+    },
+    "q4": {
+      "question": "How does human ear detect sound?",
+      "reference_answer": "Sound waves enter ear canal, vibrate eardrum, move ossicles, create fluid waves in cochlea, bend hair cells, generating nerve signals.",
+      "keywords": [
+        ["sound waves", 0.8], ["ear canal", 0.9], ["eardrum", 1.0], 
+        ["ossicles", 1.0], ["cochlea", 1.0], ["hair cells", 0.9], ["nerve signals", 0.9]
+      ]
+    },
+    "q5": {
+      "question": "What is noise pollution?",
+      "reference_answer": "Unwanted, unpleasant, or harmful sound that disrupts normal activities and can cause health problems with prolonged exposure.",
+      "keywords": [
+        ["unwanted", 0.9], ["unpleasant", 0.9], ["harmful", 0.9], 
+        ["disrupts", 0.9], ["normal activities", 0.8], ["health problems", 0.9], ["prolonged exposure", 0.8]
+      ]
+    }
+  },
+  "class9_matter": {
+    "q1": {
+      "question": "What is matter?",
+      "reference_answer": "Anything that occupies space, has mass, and can be perceived by senses, existing in solid, liquid, gas, or plasma states.",
+      "keywords": [
+        ["occupies space", 1.0], ["mass", 1.0], ["perceived", 0.8], 
+        ["senses", 0.8], ["solid", 0.9], ["liquid", 0.9], ["gas", 0.9], ["plasma", 0.8]
+      ]
+    },
+    "q2": {
+      "question": "What is the kinetic theory of matter?",
+      "reference_answer": "Matter consists of particles in constant random motion with spaces between them, having kinetic energy and attractive forces.",
+      "keywords": [
+        ["particles", 1.0], ["constant random motion", 1.0], ["spaces", 0.9], 
+        ["kinetic energy", 0.9], ["attractive forces", 0.9]
+      ]
+    },
+    "q3": {
+      "question": "What are elements, compounds, and mixtures?",
+      "reference_answer": "Elements: pure substances with one type of atom; compounds: substances with different atoms chemically combined; mixtures: physically mixed substances.",
+      "keywords": [
+        ["elements", 1.0], ["pure substances", 0.9], ["one type of atom", 0.9], 
+        ["compounds", 1.0], ["chemically combined", 1.0], ["mixtures", 1.0], ["physically mixed", 1.0]
+      ]
+    },
+    "q4": {
+      "question": "What is a solution?",
+      "reference_answer": "Homogeneous mixture where solute is completely dissolved in solvent with uniform composition and properties throughout.",
+      "keywords": [
+        ["homogeneous mixture", 1.0], ["solute", 0.9], ["completely dissolved", 0.9], 
+        ["solvent", 0.9], ["uniform composition", 0.9], ["properties", 0.8]
+      ]
+    },
+    "q5": {
+      "question": "Explain Boyle's law.",
+      "reference_answer": "At constant temperature, pressure of fixed mass of gas is inversely proportional to its volume (P₁V₁ = P₂V₂).",
+      "keywords": [
+        ["constant temperature", 0.9], ["pressure", 0.9], ["fixed mass", 0.9], 
+        ["gas", 0.8], ["inversely proportional", 1.0], ["volume", 0.9], ["P₁V₁ = P₂V₂", 1.0]
+      ]
+    }
+  },
+  "class9_atoms": {
+    "q1": {
+      "question": "What is the structure of an atom?",
+      "reference_answer": "Central nucleus containing positively charged protons and neutral neutrons, surrounded by negatively charged electrons in orbits.",
+      "keywords": [
+        ["nucleus", 1.0], ["protons", 1.0], ["positively charged", 0.9], 
+        ["neutrons", 1.0], ["neutral", 0.8], ["electrons", 1.0], ["negatively charged", 0.9], ["orbits", 0.9]
+      ]
+    },
+    "q2": {
+      "question": "What are atomic number and mass number?",
+      "reference_answer": "Atomic number: number of protons in nucleus; mass number: total number of protons and neutrons in nucleus.",
+      "keywords": [
+        ["atomic number", 1.0], ["protons", 0.9], ["nucleus", 0.8], 
+        ["mass number", 1.0], ["total", 0.7], ["protons and neutrons", 0.9]
+      ]
+    },
+    "q3": {
+      "question": "What are isotopes?",
+      "reference_answer": "Atoms of same element with same atomic number but different mass numbers due to different number of neutrons.",
+      "keywords": [
+        ["atoms", 0.8], ["same element", 0.9], ["same atomic number", 1.0], 
+        ["different mass numbers", 1.0], ["different number of neutrons", 0.9]
+      ]
+    },
+    "q4": {
+      "question": "What is an ion?",
+      "reference_answer": "Atom or molecule that has gained or lost electrons, resulting in positive charge (cation) or negative charge (anion).",
+      "keywords": [
+        ["atom", 0.8], ["molecule", 0.8], ["gained", 0.9], ["lost", 0.9], 
+        ["electrons", 0.9], ["positive charge", 0.9], ["cation", 1.0], ["negative charge", 0.9], ["anion", 1.0]
+      ]
+    },
+    "q5": {
+      "question": "What is the difference between orbit and orbital?",
+      "reference_answer": "Orbit is fixed circular path of electron in Bohr model; orbital is region of high probability of finding electron in quantum model.",
+      "keywords": [
+        ["orbit", 1.0], ["fixed circular path", 0.9], ["Bohr model", 0.9], 
+        ["orbital", 1.0], ["region", 0.8], ["high probability", 0.9], ["quantum model", 0.9]
+      ]
+    }
+  }
+}

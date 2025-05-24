@@ -1,0 +1,535 @@
+{
+  "class5_living_things": {
+    "q1": {
+      "question": "What are the characteristics of living things?",
+      "reference_answer": "Living things need food, water and air, grow, reproduce, respond to stimuli, adapt to environment, and are made of cells.",
+      "keywords": [
+        ["food", 0.8], ["water", 0.8], ["grow", 0.9], ["reproduce", 1.0], 
+        ["respond", 0.9], ["adapt", 0.9], ["cells", 0.9]
+      ]
+    },
+    "q2": {
+      "question": "How do plants make their food?",
+      "reference_answer": "Plants make food through photosynthesis using sunlight, carbon dioxide and water to produce glucose and oxygen.",
+      "keywords": [
+        ["photosynthesis", 1.0], ["sunlight", 0.9], ["carbon dioxide", 0.9], 
+        ["water", 0.8], ["glucose", 0.9], ["oxygen", 0.8]
+      ]
+    },
+    "q3": {
+      "question": "What is respiration in living organisms?",
+      "reference_answer": "Process where organisms break down food to release energy, using oxygen and producing carbon dioxide and water.",
+      "keywords": [
+        ["break down", 0.9], ["food", 0.8], ["energy", 1.0], 
+        ["oxygen", 0.9], ["carbon dioxide", 0.9], ["water", 0.7]
+      ]
+    },
+    "q4": {
+      "question": "What is the difference between plants and animals?",
+      "reference_answer": "Plants make their own food, can't move, have cell walls; animals can't make food, can move, lack cell walls.",
+      "keywords": [
+        ["make food", 1.0], ["move", 0.9], ["cell walls", 1.0], 
+        ["photosynthesis", 0.8], ["locomotion", 0.8]
+      ]
+    },
+    "q5": {
+      "question": "What is germination?",
+      "reference_answer": "Process where seeds develop into seedlings when provided with water, air, and suitable temperature.",
+      "keywords": [
+        ["seeds", 0.9], ["seedlings", 0.9], ["water", 0.8], 
+        ["air", 0.8], ["temperature", 0.8], ["develop", 0.7]
+      ]
+    }
+  },
+  "class5_matter": {
+    "q1": {
+      "question": "What are the states of matter?",
+      "reference_answer": "Matter exists in three main states: solid (fixed shape/volume), liquid (fixed volume/variable shape), and gas (variable shape/volume).",
+      "keywords": [
+        ["solid", 1.0], ["liquid", 1.0], ["gas", 1.0], 
+        ["shape", 0.9], ["volume", 0.9], ["fixed", 0.8], ["variable", 0.8]
+      ]
+    },
+    "q2": {
+      "question": "What is condensation?",
+      "reference_answer": "Process where water vapor (gas) changes into liquid water when cooled, forming clouds, dew, or water droplets.",
+      "keywords": [
+        ["water vapor", 0.9], ["gas", 0.8], ["liquid", 0.9], 
+        ["cooled", 0.9], ["clouds", 0.7], ["droplets", 0.8]
+      ]
+    },
+    "q3": {
+      "question": "What causes changes in states of matter?",
+      "reference_answer": "Changes in temperature or pressure cause matter to change state by affecting particle movement and arrangement.",
+      "keywords": [
+        ["temperature", 1.0], ["pressure", 0.9], ["particle", 0.9], 
+        ["movement", 0.8], ["arrangement", 0.8]
+      ]
+    },
+    "q4": {
+      "question": "What is a solution?",
+      "reference_answer": "Mixture where one substance (solute) dissolves completely in another substance (solvent) forming a uniform mixture.",
+      "keywords": [
+        ["mixture", 0.9], ["solute", 1.0], ["solvent", 1.0], 
+        ["dissolves", 0.9], ["uniform", 0.8]
+      ]
+    },
+    "q5": {
+      "question": "What is evaporation?",
+      "reference_answer": "Process where liquid changes to gas at the surface below boiling point, causing cooling effect.",
+      "keywords": [
+        ["liquid", 0.9], ["gas", 0.9], ["surface", 0.8], 
+        ["below boiling point", 1.0], ["cooling", 0.9]
+      ]
+    }
+  },
+  "class5_force": {
+    "q1": {
+      "question": "What is force?",
+      "reference_answer": "Push or pull that can cause an object to move, stop, change direction or change shape.",
+      "keywords": [
+        ["push", 1.0], ["pull", 1.0], ["move", 0.9], 
+        ["stop", 0.8], ["change direction", 0.9], ["change shape", 0.9]
+      ]
+    },
+    "q2": {
+      "question": "What is gravity?",
+      "reference_answer": "Force that pulls objects toward Earth's center, giving objects weight and causing falling objects to accelerate downward.",
+      "keywords": [
+        ["force", 0.9], ["pulls", 0.9], ["Earth", 0.9], 
+        ["weight", 1.0], ["falling", 0.8], ["downward", 0.8]
+      ]
+    },
+    "q3": {
+      "question": "What is friction?",
+      "reference_answer": "Force that opposes motion between surfaces in contact, converting kinetic energy to heat energy.",
+      "keywords": [
+        ["force", 0.9], ["opposes", 0.9], ["motion", 0.9], 
+        ["surfaces", 0.9], ["contact", 0.8], ["heat", 0.7]
+      ]
+    },
+    "q4": {
+      "question": "How can we increase or decrease friction?",
+      "reference_answer": "Increase friction with rough surfaces or more contact; decrease with smooth surfaces, lubricants, or air cushions.",
+      "keywords": [
+        ["increase", 0.9], ["rough surfaces", 1.0], ["decrease", 0.9], 
+        ["smooth surfaces", 1.0], ["lubricants", 1.0], ["air cushions", 0.8]
+      ]
+    },
+    "q5": {
+      "question": "What is magnetism?",
+      "reference_answer": "Force that attracts iron, nickel and cobalt, with magnets having north and south poles that attract or repel.",
+      "keywords": [
+        ["force", 0.8], ["attracts", 0.9], ["iron", 0.9], 
+        ["magnets", 0.9], ["north pole", 0.9], ["south pole", 0.9], ["repel", 0.8]
+      ]
+    }
+  },
+  "class5_solar_system": {
+    "q1": {
+      "question": "What is the solar system?",
+      "reference_answer": "System consisting of the Sun, eight planets, dwarf planets, moons, asteroids, comets, and other objects bound by gravity.",
+      "keywords": [
+        ["Sun", 1.0], ["planets", 1.0], ["dwarf planets", 0.8], 
+        ["moons", 0.8], ["asteroids", 0.8], ["comets", 0.8], ["gravity", 0.9]
+      ]
+    },
+    "q2": {
+      "question": "Name the planets in our solar system in order from the Sun.",
+      "reference_answer": "Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.",
+      "keywords": [
+        ["Mercury", 1.0], ["Venus", 1.0], ["Earth", 1.0], 
+        ["Mars", 1.0], ["Jupiter", 1.0], ["Saturn", 1.0], ["Uranus", 1.0], ["Neptune", 1.0]
+      ]
+    },
+    "q3": {
+      "question": "What causes day and night on Earth?",
+      "reference_answer": "Earth's rotation on its axis causes day and night, with areas facing the Sun experiencing daylight.",
+      "keywords": [
+        ["rotation", 1.0], ["axis", 0.9], ["facing the Sun", 0.9], 
+        ["daylight", 0.8], ["24 hours", 0.7]
+      ]
+    },
+    "q4": {
+      "question": "What causes seasons on Earth?",
+      "reference_answer": "Earth's tilted axis and revolution around the Sun cause seasons, with hemispheres receiving different amounts of sunlight.",
+      "keywords": [
+        ["tilted axis", 1.0], ["revolution", 0.9], ["Sun", 0.8], 
+        ["hemispheres", 0.9], ["sunlight", 0.9], ["23.5 degrees", 0.7]
+      ]
+    },
+    "q5": {
+      "question": "What is a satellite?",
+      "reference_answer": "Object that revolves around a planet, either natural (moon) or artificial (man-made spacecraft).",
+      "keywords": [
+        ["revolves", 1.0], ["planet", 0.9], ["natural", 0.9], 
+        ["moon", 0.8], ["artificial", 0.9], ["man-made", 0.8]
+      ]
+    }
+  },
+  "class5_environment": {
+    "q1": {
+      "question": "What is an ecosystem?",
+      "reference_answer": "Community of living organisms interacting with each other and their non-living environment in a specific area.",
+      "keywords": [
+        ["community", 0.9], ["living organisms", 0.9], ["interacting", 0.9], 
+        ["non-living", 0.9], ["environment", 0.9], ["specific area", 0.8]
+      ]
+    },
+    "q2": {
+      "question": "What is a food chain?",
+      "reference_answer": "Linear sequence showing how energy transfers from producers to consumers to decomposers in an ecosystem.",
+      "keywords": [
+        ["linear sequence", 0.9], ["energy", 0.9], ["transfers", 0.9], 
+        ["producers", 1.0], ["consumers", 1.0], ["decomposers", 1.0]
+      ]
+    },
+    "q3": {
+      "question": "What is air pollution?",
+      "reference_answer": "Contamination of air by harmful substances like smoke, dust, chemicals, and gases that harm living beings.",
+      "keywords": [
+        ["contamination", 0.9], ["harmful substances", 0.9], ["smoke", 0.8], 
+        ["dust", 0.8], ["chemicals", 0.8], ["gases", 0.8], ["harm", 0.7]
+      ]
+    },
+    "q4": {
+      "question": "What is the water cycle?",
+      "reference_answer": "Continuous movement of water between Earth's surface and atmosphere through evaporation, condensation, and precipitation.",
+      "keywords": [
+        ["continuous movement", 0.9], ["water", 0.8], ["surface", 0.7], 
+        ["atmosphere", 0.8], ["evaporation", 1.0], ["condensation", 1.0], ["precipitation", 1.0]
+      ]
+    },
+    "q5": {
+      "question": "What are natural resources?",
+      "reference_answer": "Materials from nature that living beings use to survive and thrive, like air, water, soil, minerals, and sunlight.",
+      "keywords": [
+        ["materials", 0.9], ["nature", 0.9], ["survive", 0.8], 
+        ["air", 0.8], ["water", 0.8], ["soil", 0.8], ["minerals", 0.8], ["sunlight", 0.8]
+      ]
+    }
+  },
+  "class6_food": {
+    "q1": {
+      "question": "What are nutrients?",
+      "reference_answer": "Substances in food that provide energy, promote growth and repair, and regulate body functions.",
+      "keywords": [
+        ["substances", 0.8], ["food", 0.8], ["energy", 0.9], 
+        ["growth", 0.9], ["repair", 0.9], ["regulate", 0.9], ["body functions", 0.9]
+      ]
+    },
+    "q2": {
+      "question": "What are the components of food?",
+      "reference_answer": "Carbohydrates, proteins, fats, vitamins, minerals, dietary fiber, and water, each serving specific functions.",
+      "keywords": [
+        ["carbohydrates", 1.0], ["proteins", 1.0], ["fats", 1.0], 
+        ["vitamins", 1.0], ["minerals", 1.0], ["dietary fiber", 0.9], ["water", 0.9]
+      ]
+    },
+    "q3": {
+      "question": "What is a balanced diet?",
+      "reference_answer": "Diet containing proper proportions of carbohydrates, fats, proteins, vitamins, minerals, and water for body's needs.",
+      "keywords": [
+        ["proper proportions", 1.0], ["carbohydrates", 0.9], ["fats", 0.9], 
+        ["proteins", 0.9], ["vitamins", 0.9], ["minerals", 0.9], ["body's needs", 0.9]
+      ]
+    },
+    "q4": {
+      "question": "What are deficiency diseases?",
+      "reference_answer": "Diseases caused by lack of essential nutrients in diet, like scurvy (vitamin C), rickets (vitamin D), anemia (iron).",
+      "keywords": [
+        ["lack", 0.9], ["essential nutrients", 1.0], ["scurvy", 0.8], 
+        ["vitamin C", 0.8], ["rickets", 0.8], ["vitamin D", 0.8], ["anemia", 0.8], ["iron", 0.8]
+      ]
+    },
+    "q5": {
+      "question": "How do plants obtain their food?",
+      "reference_answer": "Plants make food through photosynthesis using chlorophyll, sunlight, carbon dioxide and water.",
+      "keywords": [
+        ["make food", 0.9], ["photosynthesis", 1.0], ["chlorophyll", 0.9], 
+        ["sunlight", 0.9], ["carbon dioxide", 0.9], ["water", 0.9]
+      ]
+    }
+  },
+  "class6_materials": {
+    "q1": {
+      "question": "What is the difference between transparent, translucent and opaque materials?",
+      "reference_answer": "Transparent materials allow all light to pass through, translucent allow some light, opaque allow no light.",
+      "keywords": [
+        ["transparent", 1.0], ["allow all light", 0.9], ["translucent", 1.0], 
+        ["some light", 0.9], ["opaque", 1.0], ["no light", 0.9]
+      ]
+    },
+    "q2": {
+      "question": "What makes some materials soluble and others insoluble?",
+      "reference_answer": "Soluble materials dissolve in solvents because their particles can mix with solvent particles; insoluble cannot.",
+      "keywords": [
+        ["soluble", 1.0], ["dissolve", 0.9], ["solvents", 0.9], 
+        ["particles", 0.9], ["mix", 0.8], ["insoluble", 1.0]
+      ]
+    },
+    "q3": {
+      "question": "What are the methods of separation of mixtures?",
+      "reference_answer": "Handpicking, sieving, filtration, evaporation, distillation, sedimentation, decantation, and magnetic separation.",
+      "keywords": [
+        ["handpicking", 0.8], ["sieving", 0.9], ["filtration", 1.0], 
+        ["evaporation", 1.0], ["distillation", 1.0], ["sedimentation", 0.9], 
+        ["decantation", 0.9], ["magnetic separation", 0.9]
+      ]
+    },
+    "q4": {
+      "question": "What are reversible and irreversible changes?",
+      "reference_answer": "Reversible changes can be undone to recover original substances; irreversible changes create new substances permanently.",
+      "keywords": [
+        ["reversible", 1.0], ["undone", 0.9], ["recover", 0.9], 
+        ["original", 0.8], ["irreversible", 1.0], ["new substances", 0.9], ["permanently", 0.8]
+      ]
+    },
+    "q5": {
+      "question": "What are synthetic fibers?",
+      "reference_answer": "Man-made fibers created from chemical compounds, like nylon, polyester, acrylic, and rayon.",
+      "keywords": [
+        ["man-made", 0.9], ["chemical compounds", 0.9], ["nylon", 0.8], 
+        ["polyester", 0.8], ["acrylic", 0.8], ["rayon", 0.8]
+      ]
+    }
+  },
+  "class6_living_organisms": {
+    "q1": {
+      "question": "What is classification of living organisms?",
+      "reference_answer": "Grouping organisms based on similarities and differences into hierarchical categories like kingdom, phylum, class, order, family, genus, species.",
+      "keywords": [
+        ["grouping", 0.9], ["similarities", 0.9], ["differences", 0.9], 
+        ["hierarchical", 0.8], ["kingdom", 0.9], ["phylum", 0.9], ["class", 0.9], 
+        ["order", 0.9], ["family", 0.9], ["genus", 0.9], ["species", 0.9]
+      ]
+    },
+    "q2": {
+      "question": "What are the characteristics of plants?",
+      "reference_answer": "Multicellular, eukaryotic, cell walls with cellulose, chlorophyll for photosynthesis, cannot move, store food as starch.",
+      "keywords": [
+        ["multicellular", 0.9], ["eukaryotic", 0.9], ["cell walls", 1.0], 
+        ["cellulose", 0.9], ["chlorophyll", 1.0], ["photosynthesis", 1.0], ["starch", 0.9]
+      ]
+    },
+    "q3": {
+      "question": "What are the characteristics of animals?",
+      "reference_answer": "Multicellular, eukaryotic, no cell walls, no chlorophyll, can move, heterotrophic nutrition, store food as glycogen.",
+      "keywords": [
+        ["multicellular", 0.9], ["eukaryotic", 0.9], ["no cell walls", 1.0], 
+        ["no chlorophyll", 0.9], ["move", 0.9], ["heterotrophic", 1.0], ["glycogen", 0.9]
+      ]
+    },
+    "q4": {
+      "question": "What is the role of stem in plants?",
+      "reference_answer": "Supports plant body, conducts water and nutrients between roots and leaves, stores food in some plants.",
+      "keywords": [
+        ["supports", 1.0], ["conducts", 1.0], ["water", 0.9], 
+        ["nutrients", 0.9], ["roots", 0.8], ["leaves", 0.8], ["stores food", 0.9]
+      ]
+    },
+    "q5": {
+      "question": "What is transpiration in plants?",
+      "reference_answer": "Loss of water vapor from aerial parts of plants, mainly through stomata, helping water and mineral movement.",
+      "keywords": [
+        ["loss", 0.9], ["water vapor", 1.0], ["aerial parts", 0.9], 
+        ["stomata", 1.0], ["water movement", 0.9], ["mineral movement", 0.9]
+      ]
+    }
+  },
+  "class6_motion": {
+    "q1": {
+      "question": "What is motion?",
+      "reference_answer": "Change in position of an object with respect to its surroundings over time.",
+      "keywords": [
+        ["change", 0.9], ["position", 1.0], ["object", 0.8], 
+        ["surroundings", 0.9], ["time", 0.9]
+      ]
+    },
+    "q2": {
+      "question": "What is the difference between distance and displacement?",
+      "reference_answer": "Distance is total path length traveled; displacement is straight-line distance between start and end points with direction.",
+      "keywords": [
+        ["distance", 1.0], ["path length", 0.9], ["displacement", 1.0], 
+        ["straight-line", 0.9], ["start and end", 0.9], ["direction", 1.0]
+      ]
+    },
+    "q3": {
+      "question": "What is speed?",
+      "reference_answer": "Rate at which object covers distance, calculated as distance traveled divided by time taken.",
+      "keywords": [
+        ["rate", 0.9], ["covers distance", 0.9], ["distance traveled", 0.9], 
+        ["divided", 0.8], ["time taken", 0.9]
+      ]
+    },
+    "q4": {
+      "question": "What is uniform and non-uniform motion?",
+      "reference_answer": "Uniform motion: object covers equal distances in equal time intervals; non-uniform: covers unequal distances.",
+      "keywords": [
+        ["uniform", 1.0], ["equal distances", 0.9], ["equal time", 0.9], 
+        ["non-uniform", 1.0], ["unequal distances", 0.9]
+      ]
+    },
+    "q5": {
+      "question": "What are oscillatory and circular motions?",
+      "reference_answer": "Oscillatory: to-and-fro movement about fixed point; circular: movement along circular path around fixed point.",
+      "keywords": [
+        ["oscillatory", 1.0], ["to-and-fro", 0.9], ["fixed point", 0.9], 
+        ["circular", 1.0], ["circular path", 0.9]
+      ]
+    }
+  },
+  "class6_electricity": {
+    "q1": {
+      "question": "What is an electric circuit?",
+      "reference_answer": "Closed path through which electric current flows, including source, conducting wires, and components like bulbs.",
+      "keywords": [
+        ["closed path", 1.0], ["electric current", 0.9], ["source", 0.9], 
+        ["conducting wires", 0.9], ["components", 0.8], ["bulbs", 0.7]
+      ]
+    },
+    "q2": {
+      "question": "What is the difference between conductors and insulators?",
+      "reference_answer": "Conductors allow electricity to flow through them easily; insulators prevent or greatly reduce electric current flow.",
+      "keywords": [
+        ["conductors", 1.0], ["allow", 0.9], ["flow", 0.9], 
+        ["insulators", 1.0], ["prevent", 0.9], ["reduce", 0.9]
+      ]
+    },
+    "q3": {
+      "question": "What is electric current?",
+      "reference_answer": "Flow of electric charge (electrons) through a conductor, measured in amperes.",
+      "keywords": [
+        ["flow", 0.9], ["electric charge", 0.9], ["electrons", 1.0], 
+        ["conductor", 0.9], ["amperes", 0.9]
+      ]
+    },
+    "q4": {
+      "question": "What is a switch?",
+      "reference_answer": "Device that opens or closes an electric circuit, controlling the flow of current.",
+      "keywords": [
+        ["device", 0.7], ["opens", 0.9], ["closes", 0.9], 
+        ["electric circuit", 0.9], ["controlling", 0.8], ["flow of current", 0.9]
+      ]
+    },
+    "q5": {
+      "question": "How does an electric bulb work?",
+      "reference_answer": "Current flows through thin filament with high resistance, heating it until it glows and produces light.",
+      "keywords": [
+        ["current", 0.9], ["filament", 1.0], ["high resistance", 0.9], 
+        ["heating", 0.9], ["glows", 0.9], ["light", 0.8]
+      ]
+    }
+  },
+  "class6_magnets": {
+    "q1": {
+      "question": "What are magnets?",
+      "reference_answer": "Objects that attract materials containing iron, nickel, or cobalt, with north and south poles.",
+      "keywords": [
+        ["attract", 0.9], ["iron", 1.0], ["nickel", 0.9], 
+        ["cobalt", 0.9], ["north pole", 1.0], ["south pole", 1.0]
+      ]
+    },
+    "q2": {
+      "question": "What is a magnetic field?",
+      "reference_answer": "Region around a magnet where its magnetic force can be detected, represented by field lines.",
+      "keywords": [
+        ["region", 0.9], ["around magnet", 0.9], ["magnetic force", 1.0], 
+        ["detected", 0.8], ["field lines", 0.9]
+      ]
+    },
+    "q3": {
+      "question": "How do magnets interact with each other?",
+      "reference_answer": "Like poles (N-N or S-S) repel each other; unlike poles (N-S) attract each other.",
+      "keywords": [
+        ["like poles", 1.0], ["repel", 1.0], ["unlike poles", 1.0], 
+        ["attract", 1.0], ["N-N", 0.9], ["S-S", 0.9], ["N-S", 0.9]
+      ]
+    },
+    "q4": {
+      "question": "What is a magnetic compass?",
+      "reference_answer": "Device with freely rotating magnetized needle that aligns with Earth's magnetic field, indicating directions.",
+      "keywords": [
+        ["freely rotating", 0.9], ["magnetized needle", 1.0], ["aligns", 0.9], 
+        ["Earth's magnetic field", 1.0], ["directions", 0.9]
+      ]
+    },
+    "q5": {
+      "question": "How can magnets be made?",
+      "reference_answer": "By stroking iron/steel with magnet in one direction, placing in magnetic field, or using electric current.",
+      "keywords": [
+        ["stroking", 0.9], ["iron", 0.9], ["steel", 0.9], 
+        ["one direction", 0.9], ["magnetic field", 0.9], ["electric current", 0.9]
+      ]
+    }
+  },
+  "class7_nutrition": {
+    "q1": {
+      "question": "What is nutrition?",
+      "reference_answer": "Process of obtaining and utilizing food for growth, repair, and energy production in living organisms.",
+      "keywords": [
+        ["obtaining", 0.9], ["utilizing", 0.9], ["food", 0.8], 
+        ["growth", 0.9], ["repair", 0.9], ["energy production", 0.9]
+      ]
+    },
+    "q2": {
+      "question": "What is autotrophic nutrition?",
+      "reference_answer": "Mode of nutrition where organisms make their own food from simple inorganic substances using energy source.",
+      "keywords": [
+        ["make their own food", 1.0], ["simple inorganic substances", 0.9], ["energy source", 0.9], 
+        ["photosynthesis", 0.8], ["chemosynthesis", 0.7]
+      ]
+    },
+    "q3": {
+      "question": "What is heterotrophic nutrition?",
+      "reference_answer": "Mode of nutrition where organisms obtain complex organic food from other organisms as they cannot make their own.",
+      "keywords": [
+        ["obtain", 0.9], ["complex organic food", 0.9], ["other organisms", 0.9], 
+        ["cannot make their own", 1.0]
+      ]
+    },
+    "q4": {
+      "question": "What is the process of digestion in humans?",
+      "reference_answer": "Breaking down complex food into simpler absorbable forms through mechanical and chemical digestion in digestive tract.",
+      "keywords": [
+        ["breaking down", 0.9], ["complex food", 0.9], ["simpler", 0.8], 
+        ["absorbable", 0.9], ["mechanical", 0.9], ["chemical", 0.9], ["digestive tract", 0.8]
+      ]
+    },
+    "q5": {
+      "question": "What are the different feeding types in animals?",
+      "reference_answer": "Herbivores (plant-eaters), carnivores (animal-eaters), omnivores (both), parasites (live on host), and detritivores (dead matter).",
+      "keywords": [
+        ["herbivores", 1.0], ["plant-eaters", 0.9], ["carnivores", 1.0], 
+        ["animal-eaters", 0.9], ["omnivores", 1.0], ["parasites", 0.9], ["detritivores", 0.9]
+      ]
+    }
+  },
+  "class7_respiration": {
+    "q1": {
+      "question": "What is cellular respiration?",
+      "reference_answer": "Process where cells break down glucose to release energy, using oxygen and producing carbon dioxide and water.",
+      "keywords": [
+        ["cells", 0.9], ["break down", 0.9], ["glucose", 1.0], 
+        ["energy", 1.0], ["oxygen", 0.9], ["carbon dioxide", 0.9], ["water", 0.8]
+      ]
+    },
+    "q2": {
+      "question": "What is the difference between aerobic and anaerobic respiration?",
+      "reference_answer": "Aerobic respiration uses oxygen, produces more energy; anaerobic occurs without oxygen, produces less energy.",
+      "keywords": [
+        ["aerobic", 1.0], ["uses oxygen", 0.9], ["more energy", 0.9], 
+        ["anaerobic", 1.0], ["without oxygen", 0.9], ["less energy", 0.9]
+      ]
+    },
+    "q3": {
+      "question": "What are the organs of human respiratory system?",
+      "reference_answer": "Nose, nasal cavity, pharynx, larynx, trachea, bronchi, bronchioles, and lungs with alveoli.",
+      "keywords": [
+        ["nose", 0.8], ["nasal cavity", 0.8], ["pharynx", 0.9], 
+        ["larynx", 0.9], ["trachea", 1.0], ["bronchi", 1.0], ["bronchioles", 0.9], 
+        ["lungs", 1.0], ["alveoli", 1.0]
+      ]
+    }
+  }
+}

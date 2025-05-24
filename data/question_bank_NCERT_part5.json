@@ -1,0 +1,380 @@
+{
+  "class6_light": {
+    "q1": {
+      "question": "What are luminous and non-luminous objects?",
+      "reference_answer": "Luminous objects emit their own light, like sun, stars, and burning candles. Non-luminous objects reflect light from luminous objects, like moon, planets, and most objects around us.",
+      "keywords": [
+        ["luminous", 1.0], ["emit", 0.9], ["own light", 0.9], 
+        ["sun", 0.8], ["stars", 0.8], ["non-luminous", 1.0], ["reflect", 0.9], ["moon", 0.8], ["planets", 0.8]
+      ]
+    },
+    "q2": {
+      "question": "What is reflection of light?",
+      "reference_answer": "Phenomenon where light bounces back from surface it strikes, following laws of reflection: angle of incidence equals angle of reflection.",
+      "keywords": [
+        ["phenomenon", 0.7], ["bounces back", 0.9], ["surface", 0.9], 
+        ["strikes", 0.8], ["laws of reflection", 0.9], ["angle of incidence", 1.0], ["equals", 0.8], ["angle of reflection", 1.0]
+      ]
+    },
+    "q3": {
+      "question": "What is a shadow and how is it formed?",
+      "reference_answer": "Dark area formed when opaque object blocks light, creating region where light cannot reach. Size depends on light source distance and object position.",
+      "keywords": [
+        ["dark area", 0.9], ["opaque object", 0.9], ["blocks light", 0.9], 
+        ["region", 0.7], ["light cannot reach", 0.9], ["size", 0.8], ["light source distance", 0.9], ["object position", 0.9]
+      ]
+    },
+    "q4": {
+      "question": "What is a pinhole camera and how does it work?",
+      "reference_answer": "Simple camera with small hole instead of lens, creating inverted real image on opposite wall when light passes through pinhole.",
+      "keywords": [
+        ["simple camera", 0.9], ["small hole", 0.9], ["lens", 0.8], 
+        ["inverted", 0.9], ["real image", 0.9], ["opposite wall", 0.9], ["light passes", 0.8], ["pinhole", 1.0]
+      ]
+    },
+    "q5": {
+      "question": "How do we see objects?",
+      "reference_answer": "Light from source reflects off objects, enters our eyes through pupil, focuses by lens onto retina, converting light signals to nerve impulses transmitted to brain.",
+      "keywords": [
+        ["light", 0.8], ["source", 0.8], ["reflects", 0.9], 
+        ["enters", 0.8], ["eyes", 0.9], ["pupil", 0.9], ["focuses", 0.9], ["lens", 0.9], ["retina", 1.0], ["nerve impulses", 0.9], ["brain", 0.9]
+      ]
+    }
+  },
+  "class5_air": {
+    "q1": {
+      "question": "What is air and its composition?",
+      "reference_answer": "Mixture of gases surrounding Earth. Composition: nitrogen (78%), oxygen (21%), carbon dioxide (0.04%), water vapor, argon, and other trace gases.",
+      "keywords": [
+        ["mixture", 0.9], ["gases", 0.9], ["surrounding Earth", 0.9], 
+        ["nitrogen", 1.0], ["78%", 0.9], ["oxygen", 1.0], ["21%", 0.9], ["carbon dioxide", 1.0], ["0.04%", 0.8], ["water vapor", 0.9], ["argon", 0.9]
+      ]
+    },
+    "q2": {
+      "question": "Why is air important for living beings?",
+      "reference_answer": "Provides oxygen for respiration, carbon dioxide for photosynthesis, nitrogen for plant growth, supports combustion, and regulates Earth's temperature.",
+      "keywords": [
+        ["oxygen", 0.9], ["respiration", 0.9], ["carbon dioxide", 0.9], 
+        ["photosynthesis", 0.9], ["nitrogen", 0.9], ["plant growth", 0.9], ["combustion", 0.9], ["regulates", 0.8], ["temperature", 0.8]
+      ]
+    },
+    "q3": {
+      "question": "What are the properties of air?",
+      "reference_answer": "Occupies space, has mass, exerts pressure, can be compressed, expands when heated, conducts heat and sound, and has weight.",
+      "keywords": [
+        ["occupies space", 0.9], ["mass", 0.9], ["exerts pressure", 0.9], 
+        ["compressed", 0.9], ["expands", 0.9], ["heated", 0.8], ["conducts heat", 0.9], ["sound", 0.8], ["weight", 0.9]
+      ]
+    },
+    "q4": {
+      "question": "What is air pressure?",
+      "reference_answer": "Force exerted by weight of air column above given area, decreasing with altitude and affected by temperature and humidity.",
+      "keywords": [
+        ["force", 0.9], ["exerted", 0.8], ["weight", 0.9], 
+        ["air column", 0.9], ["area", 0.8], ["decreasing", 0.8], ["altitude", 0.9], ["temperature", 0.9], ["humidity", 0.9]
+      ]
+    },
+    "q5": {
+      "question": "How does air help in weather formation?",
+      "reference_answer": "Movement of air masses with different temperatures and humidity creates winds, clouds, precipitation, and diverse weather patterns around Earth.",
+      "keywords": [
+        ["movement", 0.9], ["air masses", 0.9], ["different temperatures", 0.9], 
+        ["humidity", 0.9], ["winds", 0.9], ["clouds", 0.9], ["precipitation", 0.9], ["weather patterns", 0.9]
+      ]
+    }
+  },
+  "class5_water": {
+    "q1": {
+      "question": "What are the properties of water?",
+      "reference_answer": "Colorless, odorless, tasteless liquid at room temperature; expands when frozen; excellent solvent; high specific heat capacity; exists in three states.",
+      "keywords": [
+        ["colorless", 0.9], ["odorless", 0.9], ["tasteless", 0.9], 
+        ["expands when frozen", 1.0], ["solvent", 0.9], ["specific heat capacity", 1.0], ["three states", 0.9]
+      ]
+    },
+    "q2": {
+      "question": "What is the water cycle?",
+      "reference_answer": "Continuous movement of water on, above, and below Earth's surface through evaporation, condensation, precipitation, runoff, and infiltration.",
+      "keywords": [
+        ["continuous movement", 0.9], ["on, above, and below", 0.9], ["Earth's surface", 0.9], 
+        ["evaporation", 1.0], ["condensation", 1.0], ["precipitation", 1.0], ["runoff", 0.9], ["infiltration", 0.9]
+      ]
+    },
+    "q3": {
+      "question": "Why is water essential for living beings?",
+      "reference_answer": "Constitutes major portion of cells; medium for biochemical reactions; transports nutrients and wastes; regulates body temperature; supports ecosystems.",
+      "keywords": [
+        ["constitutes", 0.8], ["cells", 0.9], ["biochemical reactions", 0.9], 
+        ["transports", 0.9], ["nutrients", 0.9], ["wastes", 0.9], ["regulates", 0.9], ["body temperature", 0.9], ["ecosystems", 0.9]
+      ]
+    },
+    "q4": {
+      "question": "What is water pollution and its causes?",
+      "reference_answer": "Contamination of water bodies making water unfit for use. Causes: industrial waste, sewage, agricultural chemicals, oil spills, and improper waste disposal.",
+      "keywords": [
+        ["contamination", 0.9], ["water bodies", 0.9], ["unfit", 0.9], 
+        ["industrial waste", 0.9], ["sewage", 0.9], ["agricultural chemicals", 0.9], ["oil spills", 0.9], ["waste disposal", 0.9]
+      ]
+    },
+    "q5": {
+      "question": "How can we conserve water?",
+      "reference_answer": "Fix leaking taps, use water-efficient appliances, harvest rainwater, reuse water when possible, and develop water-saving habits in daily activities.",
+      "keywords": [
+        ["fix leaking taps", 0.9], ["water-efficient appliances", 0.9], ["harvest rainwater", 0.9], 
+        ["reuse water", 0.9], ["water-saving habits", 0.9], ["daily activities", 0.8]
+      ]
+    }
+  },
+  "class9_natural_resources": {
+    "q1": {
+      "question": "What are natural resources?",
+      "reference_answer": "Materials or substances occurring naturally in environment that humans use for economic and social needs, classified as renewable or non-renewable.",
+      "keywords": [
+        ["materials", 0.9], ["substances", 0.9], ["occurring naturally", 0.9], 
+        ["environment", 0.8], ["economic", 0.9], ["social needs", 0.9], ["renewable", 0.9], ["non-renewable", 0.9]
+      ]
+    },
+    "q2": {
+      "question": "What is the difference between renewable and non-renewable resources?",
+      "reference_answer": "Renewable resources can be replenished naturally within human timescale. Non-renewable resources form extremely slowly and are depleted faster than they form.",
+      "keywords": [
+        ["renewable resources", 1.0], ["replenished", 0.9], ["naturally", 0.8], 
+        ["human timescale", 0.9], ["non-renewable resources", 1.0], ["form slowly", 0.9], ["depleted faster", 0.9]
+      ]
+    },
+    "q3": {
+      "question": "What is soil erosion and its causes?",
+      "reference_answer": "Removal of topsoil by natural physical forces or human activities. Causes: deforestation, overgrazing, improper farming practices, construction, and natural factors like wind and water.",
+      "keywords": [
+        ["removal", 0.9], ["topsoil", 1.0], ["natural physical forces", 0.9], 
+        ["human activities", 0.9], ["deforestation", 0.9], ["overgrazing", 0.9], ["improper farming", 0.9], ["construction", 0.8], ["wind", 0.8], ["water", 0.8]
+      ]
+    },
+    "q4": {
+      "question": "What are the causes and effects of deforestation?",
+      "reference_answer": "Causes: agriculture expansion, logging, urbanization, and mining. Effects: soil erosion, biodiversity loss, climate change, altered water cycles, and habitat destruction.",
+      "keywords": [
+        ["causes", 0.7], ["agriculture expansion", 0.9], ["logging", 0.9], 
+        ["urbanization", 0.9], ["mining", 0.9], ["effects", 0.7], ["soil erosion", 0.9], ["biodiversity loss", 0.9], ["climate change", 0.9], ["water cycles", 0.9], ["habitat destruction", 0.9]
+      ]
+    },
+    "q5": {
+      "question": "What is sustainable development?",
+      "reference_answer": "Development meeting present needs without compromising future generations' ability to meet their needs, balancing environmental, economic, and social aspects.",
+      "keywords": [
+        ["development", 0.8], ["present needs", 0.9], ["without compromising", 0.9], 
+        ["future generations", 0.9], ["balancing", 0.8], ["environmental", 0.9], ["economic", 0.9], ["social aspects", 0.9]
+      ]
+    }
+  },
+  "class9_human_health": {
+    "q1": {
+      "question": "What is health?",
+      "reference_answer": "State of complete physical, mental, and social well-being, not merely absence of disease or infirmity, as defined by World Health Organization.",
+      "keywords": [
+        ["state", 0.8], ["complete", 0.9], ["physical", 0.9], 
+        ["mental", 0.9], ["social well-being", 0.9], ["not merely", 0.9], ["absence of disease", 0.9], ["World Health Organization", 0.9]
+      ]
+    },
+    "q2": {
+      "question": "What are communicable diseases and how are they transmitted?",
+      "reference_answer": "Diseases spreading from infected to healthy individuals through direct contact, air, water, food, vectors, or fomites, like influenza, tuberculosis, malaria.",
+      "keywords": [
+        ["diseases", 0.8], ["spreading", 0.9], ["infected", 0.9], 
+        ["healthy individuals", 0.9], ["direct contact", 0.9], ["air", 0.8], ["water", 0.8], ["food", 0.8], ["vectors", 0.9], ["fomites", 0.9], ["influenza", 0.8], ["tuberculosis", 0.8], ["malaria", 0.8]
+      ]
+    },
+    "q3": {
+      "question": "What are non-communicable diseases and their causes?",
+      "reference_answer": "Diseases not transmitted between individuals, usually chronic and long-term. Causes: genetic factors, lifestyle choices, environmental exposures, and aging.",
+      "keywords": [
+        ["not transmitted", 0.9], ["between individuals", 0.9], ["chronic", 0.9], 
+        ["long-term", 0.9], ["genetic factors", 0.9], ["lifestyle choices", 0.9], ["environmental exposures", 0.9], ["aging", 0.9]
+      ]
+    },
+    "q4": {
+      "question": "What are the principles of good health?",
+      "reference_answer": "Balanced nutrition, regular physical activity, adequate rest and sleep, personal hygiene, stress management, and avoiding harmful substances and habits.",
+      "keywords": [
+        ["balanced nutrition", 0.9], ["regular physical activity", 0.9], ["adequate rest", 0.9], 
+        ["sleep", 0.9], ["personal hygiene", 0.9], ["stress management", 0.9], ["avoiding harmful substances", 0.9], ["habits", 0.8]
+      ]
+    },
+    "q5": {
+      "question": "How do vaccines work?",
+      "reference_answer": "Introduce weakened or inactive pathogens or their parts to stimulate immune system to produce antibodies, creating immunity without causing disease.",
+      "keywords": [
+        ["introduce", 0.8], ["weakened", 0.9], ["inactive pathogens", 0.9], 
+        ["parts", 0.8], ["stimulate", 0.9], ["immune system", 0.9], ["antibodies", 1.0], ["immunity", 0.9], ["without causing disease", 0.9]
+      ]
+    }
+  },
+  "class9_cell_division": {
+    "q1": {
+      "question": "What is cell division and why is it important?",
+      "reference_answer": "Process where parent cell divides into daughter cells. Important for growth, repair, reproduction, and genetic information transmission in organisms.",
+      "keywords": [
+        ["process", 0.7], ["parent cell", 0.9], ["divides", 0.9], 
+        ["daughter cells", 0.9], ["growth", 0.9], ["repair", 0.9], ["reproduction", 0.9], ["genetic information", 0.9]
+      ]
+    },
+    "q2": {
+      "question": "What is the cell cycle?",
+      "reference_answer": "Sequence of events between one cell division and next, comprising interphase (G₁, S, G₂ phases) and mitotic phase (mitosis and cytokinesis).",
+      "keywords": [
+        ["sequence", 0.9], ["events", 0.8], ["cell division", 0.9], 
+        ["interphase", 1.0], ["G₁", 0.9], ["S", 0.9], ["G₂", 0.9], ["mitotic phase", 1.0], ["mitosis", 0.9], ["cytokinesis", 0.9]
+      ]
+    },
+    "q3": {
+      "question": "What is mitosis and its phases?",
+      "reference_answer": "Type of cell division producing two identical daughter cells. Phases: prophase (chromosome condensation), metaphase (chromosome alignment), anaphase (chromosome separation), telophase (nuclear reformation).",
+      "keywords": [
+        ["cell division", 0.9], ["two identical", 0.9], ["daughter cells", 0.9], 
+        ["prophase", 1.0], ["chromosome condensation", 0.9], ["metaphase", 1.0], ["chromosome alignment", 0.9], ["anaphase", 1.0], ["chromosome separation", 0.9], ["telophase", 1.0], ["nuclear reformation", 0.9]
+      ]
+    },
+    "q4": {
+      "question": "What is meiosis and how is it different from mitosis?",
+      "reference_answer": "Division producing four haploid cells from diploid cell, essential for sexual reproduction. Unlike mitosis, involves two consecutive divisions, genetic recombination, and produces genetically diverse cells.",
+      "keywords": [
+        ["division", 0.8], ["four haploid cells", 0.9], ["diploid cell", 0.9], 
+        ["sexual reproduction", 0.9], ["unlike mitosis", 0.9], ["two consecutive divisions", 1.0], ["genetic recombination", 1.0], ["genetically diverse", 0.9]
+      ]
+    },
+    "q5": {
+      "question": "What is cytokinesis?",
+      "reference_answer": "Final phase of cell division where cytoplasm divides, forming two separate daughter cells after nuclear division (mitosis or meiosis).",
+      "keywords": [
+        ["final phase", 0.9], ["cell division", 0.9], ["cytoplasm divides", 1.0], 
+        ["two separate", 0.9], ["daughter cells", 0.9], ["after nuclear division", 0.9], ["mitosis", 0.8], ["meiosis", 0.8]
+      ]
+    }
+  },
+  "class10_genetics_biotechnology": {
+    "q1": {
+      "question": "What is DNA and its structure?",
+      "reference_answer": "Deoxyribonucleic acid, genetic material storing hereditary information. Double helix structure with two complementary strands of nucleotides containing phosphate, deoxyribose sugar, and nitrogenous bases.",
+      "keywords": [
+        ["Deoxyribonucleic acid", 1.0], ["genetic material", 0.9], ["hereditary information", 0.9], 
+        ["double helix", 1.0], ["complementary strands", 0.9], ["nucleotides", 0.9], ["phosphate", 0.9], ["deoxyribose", 0.9], ["nitrogenous bases", 0.9]
+      ]
+    },
+    "q2": {
+      "question": "What is gene expression?",
+      "reference_answer": "Process where genetic information from DNA is used to synthesize functional gene products (proteins or RNA) through transcription and translation.",
+      "keywords": [
+        ["process", 0.7], ["genetic information", 0.9], ["DNA", 0.9], 
+        ["synthesize", 0.9], ["functional gene products", 0.9], ["proteins", 0.9], ["RNA", 0.9], ["transcription", 1.0], ["translation", 1.0]
+      ]
+    },
+    "q3": {
+      "question": "What is biotechnology?",
+      "reference_answer": "Technology utilizing biological systems, living organisms, or derivatives to make or modify products or processes for specific uses.",
+      "keywords": [
+        ["technology", 0.9], ["biological systems", 0.9], ["living organisms", 0.9], 
+        ["derivatives", 0.9], ["make or modify", 0.9], ["products", 0.8], ["processes", 0.8], ["specific uses", 0.8]
+      ]
+    },
+    "q4": {
+      "question": "What is genetic engineering?",
+      "reference_answer": "Directly manipulating organism's genes using biotechnology, including gene isolation, modification, and insertion into another organism to confer new traits.",
+      "keywords": [
+        ["directly manipulating", 0.9], ["genes", 0.9], ["biotechnology", 0.9], 
+        ["gene isolation", 0.9], ["modification", 0.9], ["insertion", 0.9], ["another organism", 0.9], ["confer new traits", 0.9]
+      ]
+    },
+    "q5": {
+      "question": "What are genetically modified organisms (GMOs)?",
+      "reference_answer": "Organisms whose genetic material has been altered using genetic engineering techniques, modifying characteristics for agricultural, industrial, or medical purposes.",
+      "keywords": [
+        ["organisms", 0.8], ["genetic material", 0.9], ["altered", 0.9], 
+        ["genetic engineering techniques", 0.9], ["modifying characteristics", 0.9], ["agricultural", 0.9], ["industrial", 0.9], ["medical purposes", 0.9]
+      ]
+    }
+  },
+  "class8_rocks_minerals": {
+    "q1": {
+      "question": "What are rocks and their types?",
+      "reference_answer": "Naturally occurring solid aggregates of minerals. Types: igneous (from molten magma), sedimentary (from compressed sediments), and metamorphic (transformed by heat/pressure).",
+      "keywords": [
+        ["naturally occurring", 0.9], ["solid aggregates", 0.9], ["minerals", 0.9], 
+        ["igneous", 1.0], ["molten magma", 0.9], ["sedimentary", 1.0], ["compressed sediments", 0.9], ["metamorphic", 1.0], ["heat/pressure", 0.9]
+      ]
+    },
+    "q2": {
+      "question": "What is the rock cycle?",
+      "reference_answer": "Continuous process where rocks transform between three types (igneous, sedimentary, metamorphic) through processes like cooling, weathering, erosion, compaction, melting, and metamorphism.",
+      "keywords": [
+        ["continuous process", 0.9], ["transform", 0.9], ["three types", 0.9], 
+        ["igneous", 0.9], ["sedimentary", 0.9], ["metamorphic", 0.9], ["cooling", 0.9], ["weathering", 0.9], ["erosion", 0.9], ["compaction", 0.9], ["melting", 0.9], ["metamorphism", 0.9]
+      ]
+    },
+    "q3": {
+      "question": "What are minerals and their properties?",
+      "reference_answer": "Naturally occurring inorganic solids with definite chemical composition and crystal structure. Properties: hardness, luster, color, streak, cleavage, fracture, and specific gravity.",
+      "keywords": [
+        ["naturally occurring", 0.9], ["inorganic", 0.9], ["solids", 0.8], 
+        ["definite chemical composition", 0.9], ["crystal structure", 0.9], ["hardness", 0.9], ["luster", 0.9], ["color", 0.8], ["streak", 0.9], ["cleavage", 0.9], ["fracture", 0.9], ["specific gravity", 0.9]
+      ]
+    },
+    "q4": {
+      "question": "How are fossils formed?",
+      "reference_answer": "Preserved remains or traces of ancient organisms, formed when organisms are buried quickly in sediment, protected from decay, and gradually replaced by minerals during fossilization.",
+      "keywords": [
+        ["preserved remains", 0.9], ["traces", 0.9], ["ancient organisms", 0.9], 
+        ["buried quickly", 0.9], ["sediment", 0.9], ["protected from decay", 0.9], ["replaced by minerals", 0.9], ["fossilization", 1.0]
+      ]
+    },
+    "q5": {
+      "question": "What are the uses of rocks and minerals?",
+      "reference_answer": "Building materials, manufacturing (cement, glass, ceramics), metals extraction, gemstones, fertilizers, electronics, machinery, and energy sources (coal, petroleum).",
+      "keywords": [
+        ["building materials", 0.9], ["manufacturing", 0.8], ["cement", 0.8], 
+        ["glass", 0.8], ["ceramics", 0.8], ["metals extraction", 0.9], ["gemstones", 0.9], ["fertilizers", 0.9], ["electronics", 0.9], ["energy sources", 0.9], ["coal", 0.8], ["petroleum", 0.8]
+      ]
+    }
+  },
+  "class8_stars_solar_system": {
+    "q1": {
+      "question": "What is the solar system?",
+      "reference_answer": "System consisting of Sun at center, with eight planets, dwarf planets, moons, asteroids, comets, and other celestial bodies orbiting around it.",
+      "keywords": [
+        ["system", 0.7], ["Sun", 0.9], ["center", 0.8], 
+        ["eight planets", 0.9], ["dwarf planets", 0.9], ["moons", 0.9], ["asteroids", 0.9], ["comets", 0.9], ["celestial bodies", 0.9], ["orbiting", 0.9]
+      ]
+    },
+    "q2": {
+      "question": "What are stars and how do they form?",
+      "reference_answer": "Luminous spheres of plasma held together by gravity. Form from nebulae (gas and dust clouds) collapsing under gravity, heating up until nuclear fusion begins.",
+      "keywords": [
+        ["luminous", 0.9], ["spheres", 0.9], ["plasma", 0.9], 
+        ["gravity", 0.9], ["nebulae", 1.0], ["gas and dust clouds", 0.9], ["collapsing", 0.9], ["heating up", 0.9], ["nuclear fusion", 1.0]
+      ]
+    },
+    "q3": {
+      "question": "What are constellations?",
+      "reference_answer": "Patterns of stars perceived as recognizable shapes, named after mythological figures, animals, or objects. Used for navigation and marking seasons throughout history.",
+      "keywords": [
+        ["patterns", 0.9], ["stars", 0.9], ["recognizable shapes", 0.9], 
+        ["named after", 0.8], ["mythological figures", 0.9], ["animals", 0.8], ["objects", 0.8], ["navigation", 0.9], ["marking seasons", 0.9]
+      ]
+    },
+    "q4": {
+      "question": "What are the inner and outer planets of our solar system?",
+      "reference_answer": "Inner planets (Mercury, Venus, Earth, Mars): small, rocky, dense, few or no moons. Outer planets (Jupiter, Saturn, Uranus, Neptune): large, gaseous, less dense, many moons, rings.",
+      "keywords": [
+        ["inner planets", 1.0], ["Mercury", 0.9], ["Venus", 0.9], ["Earth", 0.9], ["Mars", 0.9], 
+        ["small", 0.8], ["rocky", 0.9], ["dense", 0.9], ["outer planets", 1.0], ["Jupiter", 0.9], ["Saturn", 0.9], ["Uranus", 0.9], ["Neptune", 0.9], ["large", 0.8], ["gaseous", 0.9], ["many moons", 0.9], ["rings", 0.9]
+      ]
+    },
+    "q5": {
+      "question": "What is the difference between a planet and a dwarf planet?",
+      "reference_answer": "Planets orbit Sun, have sufficient mass for self-gravity to maintain nearly round shape, and have cleared neighborhood around orbit. Dwarf planets satisfy first two criteria but not third.",
+      "keywords": [
+        ["orbit Sun", 0.9], ["sufficient mass", 0.9], ["self-gravity", 0.9], 
+        ["round shape", 0.9], ["cleared neighborhood", 1.0], ["orbit", 0.8], ["dwarf planets", 0.9], ["satisfy first two", 0.9], ["not third", 0.9]
+      ]
+    }
+  }
+}
